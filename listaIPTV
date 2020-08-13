@@ -1434,109 +1434,93 @@ http://149.56.20.138:25461/cAnales25/canales25/1233
 http://149.56.20.138:25461/cAnales25/canales25/1234
 #EXTINF:-1,AR | FOX SPORTS 1 FHD Arg
 http://149.56.20.138:25461/cAnales25/canales25/1235
-#EXTINF:-1,AR | FOX SPORTS 2 SD Arg
-http://149.56.20.138:25461/cAnales25/canales25/1236
 #EXTINF:-1,AR | FOX SPORTS 2 HD Arg
-http://149.56.20.138:25461/cAnales25/canales25/1237
-#EXTINF:-1,AR | FOX SPORTS 3 SD Arg
+http://149.56.20.138:25461/cAnales25/canales25/1236
+
+#EXTINF:-1,AR | FOX SPORTS 3 HD Arg
 http://149.56.20.138:25461/cAnales25/canales25/1238
-#EXTINF:-1,AR | FOX SPORTS 3 Hd Arg
+#EXTINF:-1,AR | FOX SPORTS 3 HD Arg
 http://149.56.20.138:25461/cAnales25/canales25/1239
-#EXTINF:-1,CH | FOX SPORTS 1
+#EXTINF:-1,CH | FOX SPORTS 1 HD
 http://149.56.20.138:25461/cAnales25/canales25/1240
-#EXTINF:-1,CH | FOX SPORTS 2
+#EXTINF:-1,CH | FOX SPORTS 2 HD
 http://149.56.20.138:25461/cAnales25/canales25/1241
-#EXTINF:-1,AR | DIRECTV SPORTS 1 HD
+#EXTINF:-1,AR | DIRECTV SPORTS 1 FHD
 http://149.56.20.138:25461/cAnales25/canales25/1242
-#EXTINF:-1,AR | DIRECTV SPORT 2
+#EXTINF:-1,AR | DIRECTV SPORT 2 HD
 http://149.56.20.138:25461/cAnales25/canales25/1243
-#EXTINF:-1,AR | DIRECTV SPORTS PLUS
+#EXTINF:-1,AR | DIRECTV SPORTS PLUS FHD
 http://149.56.20.138:25461/cAnales25/canales25/1244
 #EXTINF:-1,AR | ESPN 1 HD
 http://149.56.20.138:25461/cAnales25/canales25/1245
-#EXTINF:-1,AR | ESPN 1
+#EXTINF:-1,AR | ESPN 1 FHD
 http://149.56.20.138:25461/cAnales25/canales25/1246
-#EXTINF:-1,AR | ESPN 2
+#EXTINF:-1,AR | ESPN 2 FHD
 http://149.56.20.138:25461/cAnales25/canales25/1247
 #EXTINF:-1,AR | ESPN 2 HD
 http://149.56.20.138:25461/cAnales25/canales25/1249
-#EXTINF:-1,AR | ESPN 3 Arg
+#EXTINF:-1,AR | ESPN 3 HD Arg
 http://149.56.20.138:25461/cAnales25/canales25/1250
-#EXTINF:-1,AR | TyC Sports
-http://149.56.20.138:25461/cAnales25/canales25/1251
+
 #EXTINF:-1,US | ESPN DEPORTES HD
 http://149.56.20.138:25461/cAnales25/canales25/1252
-#EXTINF:-1,US | BEIN SPORTS LA LIGA
+#EXTINF:-1,US | BEIN SPORTS LA LIGA FHD
 http://149.56.20.138:25461/cAnales25/canales25/1253
-#EXTINF:-1,ES | F1
+#EXTINF:-1,ES | F1 HD
 http://149.56.20.138:25461/cAnales25/canales25/1255
-#EXTINF:-1,LA | BEIN SPORTS N
+#EXTINF:-1,LA | BEIN SPORTS N HD
 http://149.56.20.138:25461/cAnales25/canales25/1257
-#EXTINF:-1,AR | FOX SPORTS PREMIUM
+#EXTINF:-1,AR | FOX SPORTS PREMIUM FHD
 http://149.56.20.138:25461/cAnales25/canales25/1258
-#EXTINF:-1,AR | TNT SPORTS
+#EXTINF:-1,AR | TNT SPORTS FHD
 http://149.56.20.138:25461/cAnales25/canales25/1259
-#EXTINF:-1,US  | TENNIS CHANEL
-http://149.56.20.138:25461/cAnales25/canales25/1261
-#EXTINF:-1,US | UFC TV
+
+#EXTINF:-1,US | ESPN HD
 http://149.56.20.138:25461/cAnales25/canales25/1262
-#EXTINF:-1,ES | M. LIGA DE CAMPEONES
+#EXTINF:-1,ES | M. LIGA DE CAMPEONES FHD
 http://149.56.20.138:25461/cAnales25/canales25/1264
-#EXTINF:-1,CO | Win Sports
+#EXTINF:-1,CO | Win Sports FHD
 http://149.56.20.138:25461/cAnales25/canales25/1265
-#EXTINF:-1,US | Eleven Sports
-http://149.56.20.138:25461/cAnales25/canales25/1268
-#EXTINF:-1,US | ESPN
+
+#EXTINF:-1,US | ESPN HD
 http://149.56.20.138:25461/cAnales25/canales25/1269
-#EXTINF:-1,US | ESPN News
-http://149.56.20.138:25461/cAnales25/canales25/1270
-#EXTINF:-1,US | ESPN U
+
+#EXTINF:-1,US | ESPN U FHD
 http://149.56.20.138:25461/cAnales25/canales25/1271
 #EXTINF:-1,US | Fight Network
 http://149.56.20.138:25461/cAnales25/canales25/1272
-#EXTINF:-1,US | Fox Sports 1
+#EXTINF:-1,US | Fox Sports 1 HD
 http://149.56.20.138:25461/cAnales25/canales25/1274
-#EXTINF:-1,US | Fox Sports 2
+#EXTINF:-1,US | Fox Sports 2 HD
 http://149.56.20.138:25461/cAnales25/canales25/1275
-#EXTINF:-1,US | Fox Soccer Plus
-http://149.56.20.138:25461/cAnales25/canales25/1276
-#EXTINF:-1,US | GINX eSports
+
+#EXTINF:-1,US | GINX eSports HD
 http://149.56.20.138:25461/cAnales25/canales25/1277
-#EXTINF:-1,US | Golf Channel
+#EXTINF:-1,US | Golf Channel HD
 http://149.56.20.138:25461/cAnales25/canales25/1278
-#EXTINF:-1,US | LongHorn Network
-http://149.56.20.138:25461/cAnales25/canales25/1279
-#EXTINF:-1,US | MLB Network
-http://149.56.20.138:25461/cAnales25/canales25/1280
-#EXTINF:-1,US | MSG
-http://149.56.20.138:25461/cAnales25/canales25/1281
-#EXTINF:-1,US | MSNBC
+
+
+
+#EXTINF:-1,US | MSNBC FHD
 http://149.56.20.138:25461/cAnales25/canales25/1283
-#EXTINF:-1,US | NBA TV
+#EXTINF:-1,US | NBA TV HD
 http://149.56.20.138:25461/cAnales25/canales25/1284
-#EXTINF:-1,US | NFL Network
+#EXTINF:-1,US | NFL Network HD
 http://149.56.20.138:25461/cAnales25/canales25/1286
-#EXTINF:-1,US | NHL Network
-http://149.56.20.138:25461/cAnales25/canales25/1287
-#EXTINF:-1,US | Outdoor Channel
-http://149.56.20.138:25461/cAnales25/canales25/1289
-#EXTINF:-1,US | SNY
-http://149.56.20.138:25461/cAnales25/canales25/1294
-#EXTINF:-1,US | Yes Network
-http://149.56.20.138:25461/cAnales25/canales25/1296
-#EXTINF:-1,US | TVG
-http://149.56.20.138:25461/cAnales25/canales25/1298
-#EXTINF:-1,US | GOLTV ENG
+
+
+
+
+
+#EXTINF:-1,US | GOLTV ENG HD
 http://149.56.20.138:25461/cAnales25/canales25/1299
-#EXTINF:-1,USA | TVG 2
-http://149.56.20.138:25461/cAnales25/canales25/1300
-#EXTINF:-1,US | NBCSN
+
+#EXTINF:-1,US | NBCSN HD
 http://149.56.20.138:25461/cAnales25/canales25/1309
-#EXTINF:-1,MX | El Garage
-http://149.56.20.138:25461/cAnales25/canales25/1320
+
 #EXTINF:-1,MX | Golf Channel
 http://149.56.20.138:25461/cAnales25/canales25/1321
-#EXTINF:-1,MX | Espn Plus
+#EXTINF:-1,MX | Espn EXTRA
 http://149.56.20.138:25461/cAnales25/canales25/1322
 #EXTINF:-1,MX | Espn 3
 http://149.56.20.138:25461/cAnales25/canales25/1323
@@ -1556,77 +1540,74 @@ http://149.56.20.138:25461/cAnales25/canales25/1330
 http://149.56.20.138:25461/cAnales25/canales25/1334
 #EXTINF:-1,MX | Adrenalina
 http://149.56.20.138:25461/cAnales25/canales25/1335
-#EXTINF:-1,PE | GOL PERU
+#EXTINF:-1,PE | GOL PERU HD
 http://149.56.20.138:25461/cAnales25/canales25/1336
 #EXTINF:-1,PE | MOVISTAR DEPORTES
 http://149.56.20.138:25461/cAnales25/canales25/1337
-#EXTINF:-1,UY | VTV
+#EXTINF:-1,UY | VTV HD
 http://149.56.20.138:25461/cAnales25/canales25/1354
 #EXTINF:-1,UY | VTV HD
 http://149.56.20.138:25461/cAnales25/canales25/1355
-#EXTINF:-1,US | TUDN
+#EXTINF:-1,MX | TUDN FHD
 http://149.56.20.138:25461/cAnales25/canales25/1459
-#EXTINF:-1,MX | TUDN
+#EXTINF:-1,USA | TUDN HD
 http://149.56.20.138:25461/cAnales25/canales25/1460
-#EXTINF:-1,MX | Claro Sport HD
+#EXTINF:-1,MX | Claro Sport FHD
 http://149.56.20.138:25461/cAnales25/canales25/1461
 #EXTINF:-1,MX | Claro Sports SD
 http://149.56.20.138:25461/cAnales25/canales25/1462
-#EXTINF:-1,US | WWE Network
+#EXTINF:-1,US | WWE Network HD
 http://149.56.20.138:25461/cAnales25/canales25/1466
 #EXTINF:-1,ES | Real Madrid TV
 http://149.56.20.138:25461/cAnales25/canales25/1467
 #EXTINF:-1,UK | Box Nation
 http://149.56.20.138:25461/cAnales25/canales25/1518
-#EXTINF:-1,CA | TSN
-http://149.56.20.138:25461/cAnales25/canales25/1519
-#EXTINF:-1,US | Fox Deportes
-http://149.56.20.138:25461/cAnales25/canales25/9632
-#EXTINF:-1,CA | Sportsnet Ontario
+
+
+#EXTINF:-1,CA | Sportsnet Ontario HD
 http://149.56.20.138:25461/cAnales25/canales25/13237
-#EXTINF:-1,MX | TVC Deportes
-http://149.56.20.138:25461/cAnales25/canales25/18704
-#EXTINF:-1,HD  | ESPN MX
+
+#EXTINF:-1,HD  | ESPN MX FHD
 http://149.56.20.138:25461/cAnales25/canales25/27978
-#EXTINF:-1,HD  | ESPN 2 MX
+#EXTINF:-1,HD  | ESPN 2 MX FHD
 http://149.56.20.138:25461/cAnales25/canales25/27979
-#EXTINF:-1,HD  | ESPN 3 MX
+#EXTINF:-1,HD  | ESPN 3 MX FHD
 http://149.56.20.138:25461/cAnales25/canales25/27980
-#EXTINF:-1,HD | Fox Sports 1 MX
+#EXTINF:-1,HD | Fox Sports 1 MX FHD
 http://149.56.20.138:25461/cAnales25/canales25/27981
 #EXTINF:-1,HD | Fox Sports 2 MX
 http://149.56.20.138:25461/cAnales25/canales25/27982
 #EXTINF:-1,HD | Fox Sports 3 MX
 http://149.56.20.138:25461/cAnales25/canales25/27983
-#EXTINF:-1,PY | Tigo Sport
+#EXTINF:-1,PY | Tigo Sport HD
 http://149.56.20.138:25461/cAnales25/canales25/30269
-#EXTINF:-1,DE | Bein Sports 6
+#EXTINF:-1,DE | Bein Sports 6 FHD
 http://149.56.20.138:25461/cAnales25/canales25/33964
-#EXTINF:-1,DE | Bein Sports 4
+#EXTINF:-1,DE | Bein Sports 4 HD
 http://149.56.20.138:25461/cAnales25/canales25/33965
-#EXTINF:-1,DE | Bein Sports 1
+#EXTINF:-1,DE | Bein Sports 1 HD
 http://149.56.20.138:25461/cAnales25/canales25/33967
-#EXTINF:-1,AR | TNT Sports*
+#EXTINF:-1,AR | TNT Sports FHD
 http://149.56.20.138:25461/cAnales25/canales25/35754
-#EXTINF:-1,US | BEIN SPORTS Ñ
+#EXTINF:-1,US | BEIN SPORTS Ñ FHD
 http://149.56.20.138:25461/cAnales25/canales25/40963
-#EXTINF:-1,DE | Bein Sports 5
+#EXTINF:-1,DE | Bein Sports 5 FHD
 http://149.56.20.138:25461/cAnales25/canales25/208212
-#EXTINF:-1,ES | Movistar La Liga 1
+#EXTINF:-1,ES | Movistar La Liga 1 FHD
 http://149.56.20.138:25461/cAnales25/canales25/226493
-#EXTINF:-1,ES | Movistar la Liga 2
+#EXTINF:-1,ES | Movistar la Liga 2 HD
 http://149.56.20.138:25461/cAnales25/canales25/226494
-#EXTINF:-1,DE | Movistar Futbol
+#EXTINF:-1,DE | Movistar Formula 1 HD
 http://149.56.20.138:25461/cAnales25/canales25/226526
-#EXTINF:-1,DE | Sport TV 1
+#EXTINF:-1,DE | Sport TV 1 FHD
 http://149.56.20.138:25461/cAnales25/canales25/226527
-#EXTINF:-1,DE | Sport TV 2
+#EXTINF:-1,DE | Sport TV 2 FHD
 http://149.56.20.138:25461/cAnales25/canales25/226528
-#EXTINF:-1,DE | Sport TV 3
+#EXTINF:-1,DE | Sport TV 3 FHD
 http://149.56.20.138:25461/cAnales25/canales25/226529
-#EXTINF:-1,DE | Sport TV 4
+#EXTINF:-1,DE | Sport TV 4 FHD
 http://149.56.20.138:25461/cAnales25/canales25/226530
-#EXTINF:-1,DE | Sport TV 5
+#EXTINF:-1,DE | Sport TV 5* FHD
 http://149.56.20.138:25461/cAnales25/canales25/226531
 #EXTINF:-1,DE | Trending SE1
 http://149.56.20.138:25461/cAnales25/canales25/226533
