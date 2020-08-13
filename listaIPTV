@@ -1649,35 +1649,32 @@ http://149.56.20.138:25461/cAnales25/canales25/232380
 
 #EXTINF:-1,AR | TyC Sports Argentina
 http://149.56.20.138:25461/cAnales25/canales25/235027
-#EXTINF:-1,US | World Fishing Network
-http://149.56.20.138:25461/cAnales25/canales25/236447
+
 #EXTINF:-1,MX | TNT Series
 http://149.56.20.138:25461/cAnales25/canales25/113
 #EXTINF:-1,MX | Fox Premium Series
 http://149.56.20.138:25461/cAnales25/canales25/114
-#EXTINF:-1,MX | Fox Premium Action
+#EXTINF:-1,MX | Fox Premium Action HD
 http://149.56.20.138:25461/cAnales25/canales25/115
-#EXTINF:-1,MX | Fox Premium Movies
+#EXTINF:-1,MX | Fox Premium Movies FHD
 http://149.56.20.138:25461/cAnales25/canales25/116
 #EXTINF:-1,MX | Fox Premium Cinema
 http://149.56.20.138:25461/cAnales25/canales25/117
 #EXTINF:-1,MX | Fox Premium Classics
 http://149.56.20.138:25461/cAnales25/canales25/118
-#EXTINF:-1,MX | Az Cinema
-http://149.56.20.138:25461/cAnales25/canales25/119
+
 #EXTINF:-1,MX | Cinecanal
 http://149.56.20.138:25461/cAnales25/canales25/120
 #EXTINF:-1,MX | TNT
 http://149.56.20.138:25461/cAnales25/canales25/121
 #EXTINF:-1,MX | Golden Plus
 http://149.56.20.138:25461/cAnales25/canales25/122
-#EXTINF:-1,MX | De Pelicula Plus
+#EXTINF:-1,MX | De Pelicula Plus HD
 http://149.56.20.138:25461/cAnales25/canales25/123
-#EXTINF:-1,MX | AMC
-http://149.56.20.138:25461/cAnales25/canales25/124
+
 #EXTINF:-1,MX | Space
 http://149.56.20.138:25461/cAnales25/canales25/125
-#EXTINF:-1,MX | Sundance Tv
+#EXTINF:-1,MX | Europa europa FHD
 http://149.56.20.138:25461/cAnales25/canales25/126
 #EXTINF:-1,MX | Morbido
 http://149.56.20.138:25461/cAnales25/canales25/127
@@ -1693,23 +1690,22 @@ http://149.56.20.138:25461/cAnales25/canales25/131
 http://149.56.20.138:25461/cAnales25/canales25/132
 #EXTINF:-1,MX | HBO
 http://149.56.20.138:25461/cAnales25/canales25/133
-#EXTINF:-1,MX | HBO 2
+#EXTINF:-1,MX | HBO 2 FHD
 http://149.56.20.138:25461/cAnales25/canales25/134
 #EXTINF:-1,MX | HBO Plus
 http://149.56.20.138:25461/cAnales25/canales25/135
-#EXTINF:-1,MX | HBO Signature
+#EXTINF:-1,MX | HBO Signature HD
 http://149.56.20.138:25461/cAnales25/canales25/136
-#EXTINF:-1,MX | Max
+#EXTINF:-1,MX | HBO MUNDI FHD
 http://149.56.20.138:25461/cAnales25/canales25/137
-#EXTINF:-1,MX | Fox Premium Family
-http://149.56.20.138:25461/cAnales25/canales25/138
-#EXTINF:-1,MX | MAX UP
+
+#EXTINF:-1,MX | HBO POP HD
 http://149.56.20.138:25461/cAnales25/canales25/139
-#EXTINF:-1,MX | Max Prime
+#EXTINF:-1,MX | HBO XTREME HD
 http://149.56.20.138:25461/cAnales25/canales25/1464
-#EXTINF:-1,MX | Fox Premium Comedy
+#EXTINF:-1,MX | Fox Premium Comedy FHD
 http://149.56.20.138:25461/cAnales25/canales25/1511
-#EXTINF:-1,MX | TNT Op2
+#EXTINF:-1,MX | TNT FHD Op2
 http://149.56.20.138:25461/cAnales25/canales25/10982
 #EXTINF:-1,MX | Cine Latino
 http://149.56.20.138:25461/cAnales25/canales25/20451
@@ -1722,7 +1718,7 @@ http://149.56.20.138:25461/cAnales25/canales25/84
 http://149.56.20.138:25461/cAnales25/canales25/85
 #EXTINF:-1,MX | Warner Channel
 http://149.56.20.138:25461/cAnales25/canales25/86
-#EXTINF:-1,MX | Universal Channel
+#EXTINF:-1,MX | Universal Channel HD
 http://149.56.20.138:25461/cAnales25/canales25/87
 #EXTINF:-1,MX | FX
 http://149.56.20.138:25461/cAnales25/canales25/88
@@ -1734,9 +1730,9 @@ http://149.56.20.138:25461/cAnales25/canales25/90
 http://149.56.20.138:25461/cAnales25/canales25/91
 #EXTINF:-1,MX | Comedy Central
 http://149.56.20.138:25461/cAnales25/canales25/92
-#EXTINF:-1,MX | Unicable
+#EXTINF:-1,MX | Unicable FHD
 http://149.56.20.138:25461/cAnales25/canales25/93
-#EXTINF:-1,MX | Hola TV
+#EXTINF:-1,MX | Hola TV HD
 http://149.56.20.138:25461/cAnales25/canales25/94
 #EXTINF:-1,MX | Mas Chic
 http://149.56.20.138:25461/cAnales25/canales25/95
@@ -1748,23 +1744,21 @@ http://149.56.20.138:25461/cAnales25/canales25/97
 http://149.56.20.138:25461/cAnales25/canales25/98
 #EXTINF:-1,MX | El Gourmet
 http://149.56.20.138:25461/cAnales25/canales25/99
-#EXTINF:-1,MX | Glitz
-http://149.56.20.138:25461/cAnales25/canales25/100
-#EXTINF:-1,MX | Fox Life
+
+#EXTINF:-1,MX | Fox Life HD
 http://149.56.20.138:25461/cAnales25/canales25/101
-#EXTINF:-1,MX | Distrito Comedia
+#EXTINF:-1,MX | Distrito Comedia FHD
 http://149.56.20.138:25461/cAnales25/canales25/102
 #EXTINF:-1,MX | TBS
 http://149.56.20.138:25461/cAnales25/canales25/103
-#EXTINF:-1,MX | Tlnovelas
+#EXTINF:-1,MX | Tlnovelas FHD
 http://149.56.20.138:25461/cAnales25/canales25/104
 #EXTINF:-1,MX | Discovery Home and Health
 http://149.56.20.138:25461/cAnales25/canales25/105
 #EXTINF:-1,MX | Lifetime
 http://149.56.20.138:25461/cAnales25/canales25/106
-#EXTINF:-1,MX | TLC
-http://149.56.20.138:25461/cAnales25/canales25/107
-#EXTINF:-1,MX | FX Movies
+
+#EXTINF:-1,MX | FXM HD
 http://149.56.20.138:25461/cAnales25/canales25/108
 #EXTINF:-1,MX | Studio Universal
 http://149.56.20.138:25461/cAnales25/canales25/109
@@ -1772,33 +1766,31 @@ http://149.56.20.138:25461/cAnales25/canales25/109
 http://149.56.20.138:25461/cAnales25/canales25/110
 #EXTINF:-1,MX | Discovery Turbo
 http://149.56.20.138:25461/cAnales25/canales25/111
-#EXTINF:-1,MX | Paramount
+#EXTINF:-1,MX | Paramount Channel FHD
 http://149.56.20.138:25461/cAnales25/canales25/112
-#EXTINF:-1,MX | Pasiones
+#EXTINF:-1,MX | Pasiones FHD
 http://149.56.20.138:25461/cAnales25/canales25/1468
 #EXTINF:-1,MX | Milenio
 http://149.56.20.138:25461/cAnales25/canales25/1469
 #EXTINF:-1,MX | I sat
 http://149.56.20.138:25461/cAnales25/canales25/1503
-#EXTINF:-1,MX | Telemundo Internacional
+#EXTINF:-1,MX | Telemundo Internacional FHD
 http://149.56.20.138:25461/cAnales25/canales25/1504
-#EXTINF:-1,MX | Telemundo New York
+#EXTINF:-1,MX | Telemundo New York FHD
 http://149.56.20.138:25461/cAnales25/canales25/1507
-#EXTINF:-1,MX | TCM
-http://149.56.20.138:25461/cAnales25/canales25/1509
-#EXTINF:-1,MX | Distrito Comedia HD
+
+#EXTINF:-1,MX | Distrito Comedia FHD
 http://149.56.20.138:25461/cAnales25/canales25/1505
-#EXTINF:-1,IT | RAI
-http://149.56.20.138:25461/cAnales25/canales25/10542
+
 #EXTINF:-1,MX | Ingenio Tv
 http://149.56.20.138:25461/cAnales25/canales25/72
-#EXTINF:-1,MX | Discovery Civilization
+#EXTINF:-1,MX | HGTV
 http://149.56.20.138:25461/cAnales25/canales25/82
 #EXTINF:-1,MX | Film & Arts
 http://149.56.20.138:25461/cAnales25/canales25/83
 #EXTINF:-1,MX | NatGeo Channel
 http://149.56.20.138:25461/cAnales25/canales25/80
-#EXTINF:-1,MX | Discovery Channel
+#EXTINF:-1,MX | Discovery Channel HD
 http://149.56.20.138:25461/cAnales25/canales25/78
 #EXTINF:-1,MX | History
 http://149.56.20.138:25461/cAnales25/canales25/75
@@ -1814,32 +1806,30 @@ http://149.56.20.138:25461/cAnales25/canales25/77
 http://149.56.20.138:25461/cAnales25/canales25/79
 #EXTINF:-1,MX | Discovery Science
 http://149.56.20.138:25461/cAnales25/canales25/81
-#EXTINF:-1,MX | History 2
-http://149.56.20.138:25461/cAnales25/canales25/1510
 
 
 
-#EXTINF:-1,US | BET
+
+#EXTINF:-1,US | BET HD
 http://149.56.20.138:25461/cAnales25/canales25/348
-#EXTINF:-1,US | BET Her
-http://149.56.20.138:25461/cAnales25/canales25/349
-#EXTINF:-1,US | CMT
+
+#EXTINF:-1,US | CMT HD
 http://149.56.20.138:25461/cAnales25/canales25/350
-#EXTINF:-1,US | MTV
+#EXTINF:-1,US | MTV HD
 http://149.56.20.138:25461/cAnales25/canales25/351
-#EXTINF:-1,US | MTV 2
+#EXTINF:-1,US | MTV 2 HD
 http://149.56.20.138:25461/cAnales25/canales25/352
 #EXTINF:-1,US | VH1
 http://149.56.20.138:25461/cAnales25/canales25/353
 #EXTINF:-1,MX | Telehit Urbano
 http://149.56.20.138:25461/cAnales25/canales25/354
-#EXTINF:-1,US | Mtv Live
+#EXTINF:-1,US | Mtv Live HD
 http://149.56.20.138:25461/cAnales25/canales25/355
 #EXTINF:-1,MX | MTV Live
 http://149.56.20.138:25461/cAnales25/canales25/356
 #EXTINF:-1,MX | Telehit Plus
 http://149.56.20.138:25461/cAnales25/canales25/357
-#EXTINF:-1,MX | VH1
+#EXTINF:-1,MX | VH1 FHD
 http://149.56.20.138:25461/cAnales25/canales25/358
 #EXTINF:-1,MX | MTV
 http://149.56.20.138:25461/cAnales25/canales25/359
@@ -1854,66 +1844,65 @@ http://149.56.20.138:25461/cAnales25/canales25/362
 
 #EXTINF:-1,EC | ECUAVISA SD
 http://149.56.20.138:25461/cAnales25/canales25/364
-#EXTINF:-1,EC | ECUAVISA HD
+#EXTINF:-1,EC | ECUAVISA FHD
 http://149.56.20.138:25461/cAnales25/canales25/365
 #EXTINF:-1,EC | ECUAVISA FHD
 http://149.56.20.138:25461/cAnales25/canales25/366
-#EXTINF:-1,EC | RTS HD
+#EXTINF:-1,EC | RTS
 http://149.56.20.138:25461/cAnales25/canales25/367
-#EXTINF:-1,EC | TELEAMAZONAS SD
+#EXTINF:-1,EC | TELEAMAZONAS HD
 http://149.56.20.138:25461/cAnales25/canales25/369
 #EXTINF:-1,EC | TELEAMAZONAS HD
 http://149.56.20.138:25461/cAnales25/canales25/370
-#EXTINF:-1,EC | TELEAMAZONAS FHD
+#EXTINF:-1,EC | TELEAMAZONAS HD
 http://149.56.20.138:25461/cAnales25/canales25/371
-#EXTINF:-1,EC | GAMAVISION SD
+#EXTINF:-1,EC | GAMAVISION
 http://149.56.20.138:25461/cAnales25/canales25/372
-#EXTINF:-1,EC | GAMAVISION HD
+#EXTINF:-1,EC | GAMAVISION
 http://149.56.20.138:25461/cAnales25/canales25/373
 #EXTINF:-1,EC | GAMAVISION FHD
 http://149.56.20.138:25461/cAnales25/canales25/374
-#EXTINF:-1,EC | TC TELEVISION SD
+#EXTINF:-1,EC | TC TELEVISION
 http://149.56.20.138:25461/cAnales25/canales25/375
-#EXTINF:-1,EC | TC TELEVISION HD
+#EXTINF:-1,EC | TC TELEVISION FHD
 http://149.56.20.138:25461/cAnales25/canales25/376
 #EXTINF:-1,EC | TC TELEVISION FHD
 http://149.56.20.138:25461/cAnales25/canales25/377
-#EXTINF:-1,EC | CANAL UNO SD
+#EXTINF:-1,EC | CANAL UNO
 http://149.56.20.138:25461/cAnales25/canales25/378
-#EXTINF:-1,EC | CANAL UNO HD
-http://149.56.20.138:25461/cAnales25/canales25/379
 #EXTINF:-1,EC | CANAL UNO FHD
+http://149.56.20.138:25461/cAnales25/canales25/379
+#EXTINF:-1,EC | CANAL UNO HD
 http://149.56.20.138:25461/cAnales25/canales25/380
-#EXTINF:-1,EC | GOL TV SD
+#EXTINF:-1,EC | GOL TV FHD
 http://149.56.20.138:25461/cAnales25/canales25/381
-#EXTINF:-1,EC | GOL TV HD
+#EXTINF:-1,EC | GOL TV FHD
 http://149.56.20.138:25461/cAnales25/canales25/382
-#EXTINF:-1,EC | GOL TV 720
+#EXTINF:-1,EC | GOL TV HD
 http://149.56.20.138:25461/cAnales25/canales25/383
 #EXTINF:-1,EC | GOL TV ECUADOR HD
 http://149.56.20.138:25461/cAnales25/canales25/384
 #EXTINF:-1,EC | DIRECTV SPORTS HD
 http://149.56.20.138:25461/cAnales25/canales25/385
-#EXTINF:-1,EC | DIRECTV SPORTS SD
+#EXTINF:-1,EC | DIRECTV SPORTS FHD
 http://149.56.20.138:25461/cAnales25/canales25/386
-#EXTINF:-1,EC | OROMAR TV HD
-http://149.56.20.138:25461/cAnales25/canales25/387
+
 #EXTINF:-1,EC | CANELA TV
 http://149.56.20.138:25461/cAnales25/canales25/388
 #EXTINF:-1,EC | ECUADOR TV
 http://149.56.20.138:25461/cAnales25/canales25/389
-#EXTINF:-1,EC | TVC
+#EXTINF:-1,EC | TVC FHD
 http://149.56.20.138:25461/cAnales25/canales25/390
 #EXTINF:-1,EC | RTS SD
 http://149.56.20.138:25461/cAnales25/canales25/391
-#EXTINF:-1,EC | LA NUEVA RADIO
+#EXTINF:-1,EC | LA NUEVA RADIO HD
 http://149.56.20.138:25461/cAnales25/canales25/226714
-#EXTINF:-1,EC | Zaracaytv
+#EXTINF:-1,EC | Zaracaytv HD
 http://149.56.20.138:25461/cAnales25/canales25/232330
 
 
 
-#EXTINF:-1,CO | Caracol SD
+#EXTINF:-1,CO | Caracol HD
 http://149.56.20.138:25461/cAnales25/canales25/410
 #EXTINF:-1,CO | Caracol HD
 http://149.56.20.138:25461/cAnales25/canales25/411
