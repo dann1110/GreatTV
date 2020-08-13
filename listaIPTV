@@ -1609,62 +1609,44 @@ http://149.56.20.138:25461/cAnales25/canales25/226529
 http://149.56.20.138:25461/cAnales25/canales25/226530
 #EXTINF:-1,DE | Sport TV 5* FHD
 http://149.56.20.138:25461/cAnales25/canales25/226531
-#EXTINF:-1,DE | Trending SE1
-http://149.56.20.138:25461/cAnales25/canales25/226533
-#EXTINF:-1,DE | Trending SE2
-http://149.56.20.138:25461/cAnales25/canales25/226534
-#EXTINF:-1,DE | Trending SE3
-http://149.56.20.138:25461/cAnales25/canales25/229849
-#EXTINF:-1,US | FOX Sports Arizona
-http://149.56.20.138:25461/cAnales25/canales25/232357
-#EXTINF:-1,US | FOX Sports Florida
+
+
+
+
+#EXTINF:-1,US | FOX Sports Florida HD
 http://149.56.20.138:25461/cAnales25/canales25/232358
-#EXTINF:-1,US | FOX Sports North
-http://149.56.20.138:25461/cAnales25/canales25/232359
-#EXTINF:-1,US | FOX Sports Ohio
-http://149.56.20.138:25461/cAnales25/canales25/232360
-#EXTINF:-1,US | FOX Sports San Diego
-http://149.56.20.138:25461/cAnales25/canales25/232361
-#EXTINF:-1,US | FOX Sports South
-http://149.56.20.138:25461/cAnales25/canales25/232362
-#EXTINF:-1,US | FOX Sports SouthEast
-http://149.56.20.138:25461/cAnales25/canales25/232363
-#EXTINF:-1,US | FOX Sports South West
-http://149.56.20.138:25461/cAnales25/canales25/232364
-#EXTINF:-1,US | FOX Sports Sun
-http://149.56.20.138:25461/cAnales25/canales25/232365
-#EXTINF:-1,US | FOX Sports West
-http://149.56.20.138:25461/cAnales25/canales25/232366
-#EXTINF:-1,US | FOX Sports Wisconsin
+
+
+
+
+
+
+
+
+#EXTINF:-1,US | FOX Sports Wisconsin HD
 http://149.56.20.138:25461/cAnales25/canales25/232367
-#EXTINF:-1,US | NBC Sports Bay Area
+#EXTINF:-1,US | NBC Sports Bay Area HD
 http://149.56.20.138:25461/cAnales25/canales25/232368
-#EXTINF:-1,US | NBC Sports Boston
+#EXTINF:-1,US | NBC Sports Boston* FHD
 http://149.56.20.138:25461/cAnales25/canales25/232369
-#EXTINF:-1,US | NBC Sports California
+#EXTINF:-1,US | NBC Sports California HD
 http://149.56.20.138:25461/cAnales25/canales25/232370
-#EXTINF:-1,US | NBC Sports Chicago
+#EXTINF:-1,US | NBC Sports Chicago HD
 http://149.56.20.138:25461/cAnales25/canales25/232371
-#EXTINF:-1,US | NBC Sports Northwest
+#EXTINF:-1,US | NBC Sports Northwest HD
 http://149.56.20.138:25461/cAnales25/canales25/232372
-#EXTINF:-1,US | NBC Sports Philadelphia
+#EXTINF:-1,US | NBC Sports Philadelphia HD
 http://149.56.20.138:25461/cAnales25/canales25/232373
-#EXTINF:-1,US | NBC Sports Washington
+#EXTINF:-1,US | NBC Sports Washington HD
 http://149.56.20.138:25461/cAnales25/canales25/232374
-#EXTINF:-1,US | Fox Sports South West Plus
-http://149.56.20.138:25461/cAnales25/canales25/232375
-#EXTINF:-1,US | Fox Sports Prime Ticket
-http://149.56.20.138:25461/cAnales25/canales25/232376
-#EXTINF:-1,US | Fox Sports New Orleans
-http://149.56.20.138:25461/cAnales25/canales25/232377
-#EXTINF:-1,US | Fox Sports Mid West
-http://149.56.20.138:25461/cAnales25/canales25/232378
-#EXTINF:-1,US | Fox Sports Detroit
-http://149.56.20.138:25461/cAnales25/canales25/232379
-#EXTINF:-1,US | Fox Sports Carolinas
+
+
+
+
+
+#EXTINF:-1,US | Fox Sports Carolinas HD
 http://149.56.20.138:25461/cAnales25/canales25/232380
-#EXTINF:-1,US | FOX Sports Kansas City
-http://149.56.20.138:25461/cAnales25/canales25/232381
+
 #EXTINF:-1,AR | TyC Sports Argentina
 http://149.56.20.138:25461/cAnales25/canales25/235027
 #EXTINF:-1,US | World Fishing Network
