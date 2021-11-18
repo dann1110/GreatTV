@@ -6,13 +6,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="México",Las Estrellas
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=17&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4NDDh1Q/Imagen-TV.png" group-title="México",Imagen Television
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LkZDcXG/Imagen-TV.png" group-title="México",Imagen Television
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2298&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H2WdQsF/ForoTV.png" group-title="México",ForoTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=19&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FXpb9Qj/Canal-5.png" group-title="México",Canal 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7h2HYg/Canal-5.png" group-title="México",Canal 5
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=20&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxZgT8t/Canal-6.png" group-title="México",Multimedios Television
@@ -48,10 +48,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="México",Las Estrellas -2Hrs
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1888&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FXpb9Qj/Canal-5.png" group-title="México",Canal 5 -1Hrs Chihuahua XHJUB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7h2HYg/Canal-5.png" group-title="México",Canal 5 -1Hrs Chihuahua XHJUB
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2234&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FXpb9Qj/Canal-5.png" group-title="México",Canal 5 -2Hrs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7h2HYg/Canal-5.png" group-title="México",Canal 5 -2Hrs
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1889&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bXxjqYz/Clic.png" group-title="México",Clic
@@ -951,13 +951,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="HD",Las Estrellas HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1768&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4NDDh1Q/Imagen-TV.png" group-title="HD",Imagen Television HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LkZDcXG/Imagen-TV.png" group-title="HD",Imagen Television HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2606&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/H2WdQsF/ForoTV.png" group-title="HD",ForoTV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=4&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FXpb9Qj/Canal-5.png" group-title="HD",Canal 5 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7h2HYg/Canal-5.png" group-title="HD",Canal 5 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1769&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxZgT8t/Canal-6.png" group-title="HD",Multimedios Television
