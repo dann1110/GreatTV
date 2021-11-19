@@ -367,31 +367,31 @@ http://l3d.us:8080/EEUUFUTBOL1234/XkyGvu8hCE/26705
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kH9B0Hz/AZTV.png"group-title="Infantil",AZTV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F6Ybv2W/de-pelicula.png" group-title="Cine",de pelicula
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="Cine",de pelicula
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=335&format=HLSAD&f=.m3u8
 
 #EXTINF:-1,de pelicula Clásico
 http://l3d.us:8080/EEUUFUTBOL1234/XkyGvu8hCE/201864
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tQbRv53/de-pelicula-Plus.png" group-title="Cine",dp Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cgfn6KQ/De-Pelicula-Plus.png" group-title="Cine",dp Plus
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=121&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tQbRv53/de-pelicula-Plus.png" group-title="Cine",dp Plus HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cgfn6KQ/De-Pelicula-Plus.png" group-title="Cine",dp Plus HD
 http://gratuita.mrzutv.net:8080/dafsdgfgsdfgsf5454dfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsad/dafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdaf/443
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yhJctvp/Golden.png" group-title="Cine",Golden
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xj7kQ5z/Golden.png" group-title="Cine",Golden
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=123&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wd2rF95/Golden-Plus.png" group-title="Cine",Golden Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09X39Hg/Golden-Plus.png" group-title="Cine",Golden Plus
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=122&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wd2rF95/Golden-Plus.png" group-title="Cine",Golden Plus HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09X39Hg/Golden-Plus.png" group-title="Cine",Golden Plus HD
 http://gratuita.mrzutv.net:8080/dafsdgfgsdfgsf5454dfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsad/dafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdaf/378
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Js56ZJM/Golden-Edge.png" group-title="Cine",Golden Edge
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwwBRpV/Golden-Edge.png" group-title="Cine",Golden Edge
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=124&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Js56ZJM/Golden-Edge.png" group-title="Cine",Golden Edge HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwwBRpV/Golden-Edge.png" group-title="Cine",Golden Edge HD
 http://gratuita.mrzutv.net:8080/dafsdgfgsdfgsf5454dfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsad/dafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdaf/1789
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FnXzpDC/Paramount-Network.png" group-title="Cine",Paramount Network
@@ -592,10 +592,10 @@ http://gratuita.mrzutv.net:8080/dafsdgfgsdfgsf5454dfasdfasdfasdfasdfsadfdafsdgfg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFKj6xV/HBO-Xtreme.png" group-title="Cine",HBO Xtreme FHD
 http://gratuita.mrzutv.net:8080/dafsdgfgsdfgsf5454dfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsad/dafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdaf/2111
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kjQsvg/Golden-Premier.png" group-title="Cine",Golden Premier FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vYGGDLK/Golden-Premier.png" group-title="Cine",Golden Premier FHD
 http://gratuita.mrzutv.net:8080/dafsdgfgsdfgsf5454dfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsad/dafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdaf/343
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kjQsvg/Golden-Premier.png" group-title="Cine",Golden Premier 2 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vYGGDLK/Golden-Premier.png" group-title="Cine",Golden Premier 2 FHD
 http://gratuita.mrzutv.net:8080/dafsdgfgsdfgsf5454dfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsad/dafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdafsdgfgsdfgsfdfasdfasdfasdfasdfsadfdaf/387
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5s5HV5w/Morbido-TV.png" group-title="Cine",Morbido TV
@@ -1205,11 +1205,11 @@ http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_288.m3u8
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_118.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F6Ybv2W/de-pelicula.png" group-title="HD",de pelicula HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="HD",de pelicula HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_36.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wd2rF95/Golden-Plus.png" group-title="HD",Golden Plus HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09X39Hg/Golden-Plus.png" group-title="HD",Golden Plus HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_86.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
