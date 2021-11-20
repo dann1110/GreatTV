@@ -877,28 +877,28 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/21_.m3u8
 http://192.99.46.43:25461/ewrewrwfffweb/30131033/1939.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XVvQWLX/MTV.png" group-title="Musica",MTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhBzWk3/MTV.png" group-title="Musica",MTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=212&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6mB5WHX/MTV-80s.png" group-title="Musica",MTV 80s
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=214&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vXMPcbj/Vh1.png" group-title="Musica",VH1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMB8cb0/MTV-00s.png" group-title="Musica",MTV 00s
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=217&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dth9ywS/Telehit-Musica.png" group-title="Musica",Telehit Musica
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GPMcCLf/Telehit-Musica.png" group-title="Musica",Telehit Musica
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=218&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rvNshD8/Telehit-Musica-Plus.png" group-title="Musica",Telehit Musica Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cbJv4Y0/Telehit-Musica-Plus.png" group-title="Musica",Telehit Musica Plus
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=220&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XLjvGtD/Bandamax.png" group-title="Musica",Bandamax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gd1hF6J/Bandamax.png" group-title="Musica",Bandamax
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=221&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R2XS64b/MTV-Live.png" group-title="Musica",MTV Live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDCck3g/MTV-Live.png" group-title="Musica",MTV Live
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=211&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wg3gGJD/MTV-Hits.png" group-title="Musica",MTV Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DY3117w/MTV-Hits.png" group-title="Musica",MTV Hits
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=213&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSQkN9p/Exa-TV.png" group-title="Musica",Exa TV
@@ -1389,7 +1389,7 @@ http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_77.m3u8
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_79.m3u8
  
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XVvQWLX/MTV.png" group-title="HD",MTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhBzWk3/MTV.png" group-title="HD",MTV HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_107.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
@@ -1397,17 +1397,17 @@ http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_107.m3u8
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_142.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vXMPcbj/Vh1.png" group-title="HD",VH1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMB8cb0/MTV-00s.png" group-title="HD",VH1 HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_141.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vXMPcbj/Vh1.png" group-title="HD",VH1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMB8cb0/MTV-00s.png" group-title="HD",VH1 HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_143.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R2XS64b/MTV-Live.png" group-title="HD",MTV Live HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDCck3g/MTV-Live.png" group-title="HD",MTV Live HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_109.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wg3gGJD/MTV-Hits.png" group-title="HD",MTV Hits HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DY3117w/MTV-Hits.png" group-title="HD",MTV Hits HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_108.m3u8
