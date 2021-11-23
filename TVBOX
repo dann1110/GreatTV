@@ -303,7 +303,10 @@ http://gratuita.mrzutv.net:8080/dsjhfjghjsdfgdfffffklsdgffgfgfxdfvdfgjfklgjkldsf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXS2pmS/Disney-XD.png" group-title="Infantil",Disney XD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=111&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hXS2pmS/Disney-XD.png" group-title="Infantil",Disney XD Sur
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hXS2pmS/Disney-XD.png" group-title="Infantil",Disney XD HD
+http://latvonlive.com:33612/live/Doris/Doris123/496.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hXS2pmS/Disney-XD.png" group-title="Infantil",Disney XD Argentina
 http://gratuita.mrzutv.net:8080/dsjhfjghjsdfgdfffffklsdgffgfgfxdfvdfgjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghj/dsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfj/440
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
@@ -311,6 +314,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=113&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel Sur FHD
+http://latvonlive.com:33612/live/Doris/Doris123/636.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JktZywY/Boomerang.png" group-title="Infantil",Boomerang
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=115&format=HLSAD&f=.m3u8
@@ -329,7 +335,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=117&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
-http://l3d.us:8080/EEUUFUTBOL1234/XkyGvu8hCE/10975
+http://latvonlive.com:33612/live/Doris/Doris123/587.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWrqVby/Baby-First.png" group-title="Infantil",Baby First
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1984&format=HLSAD&f=.m3u8
