@@ -855,36 +855,23 @@ http://gratuita.mrzutv.net:8080/dsjhfjghjsdfgdfffffkldfvfdvfvfsdgffgfgfxdfvdfgjf
 #EXTINF:-1,SKY Liga Inglesa HD
 http://gratuita.mrzutv.net:8080/dsjhfjghjsdfgdfffffkldfvfdvfvfsdgffgfgfxdfvdfgjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfv/dsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfvdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkld/1957
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5vyNsq3/Univision.png" group-title="USA",Univision Nueva York
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/15_.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vyNsq3/Univision.png" group-title="USA",Univision HD
+http://latvonlive.com:33612/live/Doris/Doris123/224.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5vyNsq3/Univision.png" group-title="USA",Univision
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1938.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D1djT72/UniMas.png" group-title="USA",Unimas HD
+http://latvonlive.com:33612/live/Doris/Doris123/225.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZfDXt8t/UniMas.png" group-title="USA",Unimas
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/29_.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZfDXt8t/UniMas.png" group-title="USA",Unimas
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1999.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3z7h8cj/Galavision.png" group-title="USA",Galavision Miami
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/14_.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3z7h8cj/Galavision.png" group-title="USA",Galavision
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1932.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3z7h8cj/Galavision.png" group-title="USA",Galavision HD
+http://latvonlive.com:33612/live/Doris/Doris123/231.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f1GbRDx/Telemundo.png" group-title="USA",Telemundo
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/46_.m3u8
+http://latvonlive.com:33612/live/Doris/Doris123/952.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f1GbRDx/Telemundo.png" group-title="USA",Telemundo
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1894.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nps4BB1/Universo.png" group-title="USA",Universo FHD
+http://latvonlive.com:33612/live/Doris/Doris123/226.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPkJcqY/Universo.png" group-title="USA",Universo
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/21_.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPkJcqY/Universo.png" group-title="USA",Universo
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1939.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10zTFPs/Estrella-TV.png" group-title="USA",Estrella TV HD
+http://latvonlive.com:33612/live/Doris/Doris123/904.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhBzWk3/MTV.png" group-title="Musica",MTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=212&format=HLSAD&f=.m3u8
