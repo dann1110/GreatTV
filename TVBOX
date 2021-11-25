@@ -889,17 +889,25 @@ http://192.99.46.43:25461/ewrewrwfffweb/30131033/1939.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhBzWk3/MTV.png" group-title="Musica",MTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=212&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhBzWk3/MTV.png" group-title="Musica",MTV HD
+http://gratuita.mrzutv.net:8080/dsjhfjghjsdfgdfffffkldfvfdvfvfsdgffgfgfxdfvdfgjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfv/dsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfvdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkld/470
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6mB5WHX/MTV-80s.png" group-title="Musica",MTV 80s
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=214&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DMB8cb0/MTV-00s.png" group-title="Musica",MTV 00s
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=217&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMB8cb0/MTV-00s.png" group-title="Musica",MTV 00s FHD
+http://gratuita.mrzutv.net:8080/dsjhfjghjsdfgdfffffkldfvfdvfvfsdgffgfgfxdfvdfgjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfv/dsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfvdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkld/469
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GPMcCLf/Telehit-Musica.png" group-title="Musica",Telehit Musica
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=218&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbJv4Y0/Telehit-Musica-Plus.png" group-title="Musica",Telehit Musica Plus
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=220&format=HLSAD&f=.m3u8
+
+http://gratuita.mrzutv.net:8080/dsjhfjghjsdfgdfffffkldfvfdvfvfsdgffgfgfxdfvdfgjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfv/dsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfvdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkldsfjglkjsdfdfhsdfgfjkldvgdsfhvjkshdfjkghvjkdsfhkvjkndfvjdjkfbvjkdfhjkgvjkdfgkzdjfgkljdfvdsjhfjghjsdfgklsdjfklgjkld/468
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gd1hF6J/Bandamax.png" group-title="Musica",Bandamax
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=221&format=HLSAD&f=.m3u8
