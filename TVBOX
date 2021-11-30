@@ -288,7 +288,7 @@ http://gratuita.mrzutv.net:8080/LFDJKLSDFKLHSDKLHFJKSHDFJK545155151HSDKJFHKSAJsd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=109&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Sur
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Sur FHD
 http://latvonlive.com:33612/live/Doris/Doris123/622.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Argentina
@@ -311,6 +311,9 @@ http://gratuita.mrzutv.net:8080/LFDJKLSDFKLHSDKLHFJKSHDFJK545155151HSDKJFHKSAJsd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network Sur HD
+http://latvonlive.com:33612/live/Doris/Doris123/39.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=113&format=HLSAD&f=.m3u8
@@ -917,6 +920,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSQkN9p/Exa-TV.png" group-title="Musica",Exa TV
 http://ui.mrzutv.net:8080/menjivr503/dWUxhAaR0m/16701
 
+
+#EXTINF:-1 tvg-logo="" group-title="Musica",htv
+http://latvonlive.com:33612/live/Doris/Doris123/556.m3u8
+
 #EXTINF:-1,TUDN XTRA 1
 http://192.99.46.43:25461/ewrewrwfffweb/30131033/1518.m3u8
 
@@ -1177,6 +1184,8 @@ http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_48.m3u8
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="HD",Cartoon Network Sur HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_20.m3u8
+
+
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="HD",Disney Channel Sur HD
