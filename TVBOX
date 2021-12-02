@@ -360,7 +360,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior Sur
 http://gratuita.mrzutv.net:8080/JFJFJjkdkdkjsfhjgnjsdngjknsfdkgjsdfnfjkgfknjkdffffffffffffffffffffffffffffffffffiorererererererererererererererererereremccccccccccccccccccccccccccccccccuioreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedfkdfgkfgkfkgkfhkghfkghfffffffffffffffffffffffffffffffffffff/JFJFJjkdkdkjsfhjgnjsdngjknsfdkgjsdfnfjkgfknjkdffffffffffffffffffffffffffffffffffiorererererererererererererererererereremccccccccccccccccccccccccccccccccuioreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedfkdfgkfgkfkgkfhkghfkghfffffffffffffffffffffffffffffffffffff/435
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZKKkMhW/Nat-Geo-Kids.png" group-title="Infantil",NatGeo Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Qdpt9JL/Nat-Geo-Kids.png" group-title="Infantil",NatGeo Kids
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2373&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M8HrcVT/Tooncast.png" group-title="Infantil",Tooncast
@@ -1216,7 +1216,7 @@ http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_119.m3u8
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_10.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZKKkMhW/Nat-Geo-Kids.png" group-title="HD",NatGeo Kids Sur HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Qdpt9JL/Nat-Geo-Kids.png" group-title="HD",NatGeo Kids Sur HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_113.m3u8
 
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
