@@ -972,9 +972,8 @@ http://192.99.46.43:25461/ewrewrwfffweb/30131033/1519.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7",Los Simpsons
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7",Magic Kids
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7",Niño Magico
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
-
 
 #EXTM3U
 
