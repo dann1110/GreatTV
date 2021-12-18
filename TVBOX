@@ -936,44 +936,8 @@ http://ui.mrzutv.net:8080/menjivr503/dWUxhAaR0m/16701
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",htv
 http://latvonlive.com:33612/live/Doris/Doris123/556.m3u8
 
-#EXTINF:-1 tvg-id="",TUDN XTRA 1
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1518.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 2
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1528.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 3
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1527.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 4
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1526.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 5
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1525.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 6
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1524.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 7
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1523.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 8
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1522.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 9
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1521.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 10
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1520.m3u8
-
-#EXTINF:-1 tvg-id="",TUDN XTRA 11
-http://192.99.46.43:25461/ewrewrwfffweb/30131033/1519.m3u8
-
-##EXTINF:-1 tvg-logo"" group-title"24/7",Los Simpsons
+##EXTINF:-1 tvg-logo="" group-title="24/7",Los Simpsons
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo"" group-title"",Magic Kids
-https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 
 
 #EXTM3U
