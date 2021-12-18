@@ -944,8 +944,6 @@ https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 #EXTINF:-1 group-title="24-7",Peliculas
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
-#EXTM3U
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kJxXRpd/Azteca-Uno.png" group-title="HD",Azteca Uno HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=7&format=HLSAD&f=.m3u8
