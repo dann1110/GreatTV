@@ -936,7 +936,7 @@ http://ui.mrzutv.net:8080/menjivr503/dWUxhAaR0m/16701
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",htv
 http://latvonlive.com:33612/live/Doris/Doris123/556.m3u8
 
-##EXTINF:-1 tvg-logo="" group-title="24/7",Los Simpsons
+#EXTINF:-1 tvg-logo="" group-title="24/7",Los Simpsons
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
 
