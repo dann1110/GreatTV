@@ -1369,10 +1369,10 @@ http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_109.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DY3117w/MTV-Hits.png" group-title="HD",MTV Hits HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_108.m3u8
 
-#EXTINF:-1 tvg-logo"https://i.ibb.co/hBncF2Z/Los-Simpsons.png" group-title="24-7",Los Simpsons
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hBncF2Z/Los-Simpsons.png" group-title="24-7",Los Simpsons
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo"https://i.ibb.co/YbNGTQR/Magic-Kids.png" group-title="24-7",Magic Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YbNGTQR/Magic-Kids.png" group-title="24-7",Magic Kids
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 
 #EXTINF:-1 group-title="24-7",Peliculas
