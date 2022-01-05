@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/591
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel Sur
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/592
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel HD
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/844
