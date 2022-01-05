@@ -39,14 +39,44 @@ http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/601
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/759
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX HD Argentina
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/853
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/679
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/779
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV Argentina
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/679
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV HD Argentina
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/881
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pPcG25q/SyFy.png" group-title="Entretenimiento",SyFy
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/652
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j5JTGbf/Discovery-ID.png" group-title="Entretenimiento",Discovery ID
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/624
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j5JTGbf/Discovery-ID.png" group-title="Entretenimiento",Discovery ID
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/761
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j5JTGbf/Discovery-ID.png" group-title="Entretenimiento",Discovery ID HD
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/864
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6tpD4ML/TLC-Discovery.png" group-title="Entretenimiento",TLC Discovery
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/575
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6tpD4ML/TLC-Discovery.png" group-title="Entretenimiento",TLC Discovery
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/746
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6tpD4ML/TLC-Discovery.png" group-title="Entretenimiento",TLC Discovery HD
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/878
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/539
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/733
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E HD
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/829
