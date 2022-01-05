@@ -22,10 +22,31 @@ http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/876
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/677
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/683
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/780
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel Argentina
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/683
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel HD Argentina
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/882
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/587
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/601
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/759
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX HD
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/853
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/679
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/779
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV HD
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/XQSItjtmUH/ePxNu77wsp/881
