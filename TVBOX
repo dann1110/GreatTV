@@ -381,10 +381,10 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/KY62G6EH4GQEMTG/K03ST7N11QJXF9S/qt
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.etc.cl/_common/images/logoetc_2015.png" group-title="Infantil",ETC TV
 http://compitv.info:8080/live/Ulises45/gH8ZpaSLqx/32107.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Nick Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W0jdYkL/Nick-Latino.png" group-title="Infantil",Nick Latino
 http://185.134.22.131:8080/live/Carlos123/Carlos123/58465.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",NickTeen
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Svjqyzd/NickTeen.png" group-title="Infantil",NickTeen
 http://185.134.22.131:8080/live/Carlos123/Carlos123/58112.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qkJRFt3/Locomotion.png"group-title="Infantil",Locomotion
