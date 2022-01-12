@@ -387,6 +387,12 @@ http://185.134.22.131:8080/live/Carlos123/Carlos123/58465.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Svjqyzd/NickTeen.png" group-title="Infantil",NickTeen
 http://185.134.22.131:8080/live/Carlos123/Carlos123/58112.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W3KCY7J/Yu-Gi-Oh.png" group-title="Infantil",Yu-Gi-Oh
+http://185.134.22.131:8080/live/Carlos123/Carlos123/58172.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W3KCY7J/Yu-Gi-Oh.png" group-title="Infantil",Yu-Gi-Oh USA
+http://185.134.22.131:8080/live/Carlos123/Carlos123/58603.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qkJRFt3/Locomotion.png"group-title="Infantil",Locomotion
 
 
