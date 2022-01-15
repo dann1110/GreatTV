@@ -78,8 +78,11 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLSAD&s=hkc2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=46&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel HD Sur
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/Z33YK5E022VUTY9/LQ9XSMEZ2IOE373/qts/m_59_1_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel HD Argentina
+http://latvonlive.com:33612/live/Doris/Doris123/612.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=48&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -299,6 +302,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=109&f=HLSAD&s=hkc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/SOZZRSWDOKG355E/PHRHZR1Z1PP4C4O/qts/m_41_1_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Sur FHD
+http://latvonlive.com:33612/live/Doris/Doris123/622.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=331&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -688,16 +694,16 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1799&f=HLSAD&s=hk
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/OEAL9V89H0GGDD7/8NE3MY1LLG0XM0H/qts/m_55_1_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NVtqqLk/ESPN-Sur.png" group-title="Deportes",ESPN Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/T0XUF0KFQMSH0MI/X9GDX22IVG1RCJD/qts/m_53_1_.m3u8
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/ES8KCZMYTPCP8GO/AT83AXJLXZG4FRP/qts/m_53_1_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r0MvYLn/ESPN-2-Sur.png" group-title="Deportes",ESPN 2 Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/W76PAIVGY57RVIH/PZCAS717G88KG7J/qts/m_56_1_.m3u8
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/DULWVM0FN2YQ2PO/BNTTES1SW769MID/qts/m_56_1_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/SA44ARSSRZ5C8Q7/USMD4SUZA4AZWTR/qts/m_54_1_.m3u8
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/YG9OLMXBH9Q5ASB/BVP03ZFLN8LY1KP/qts/m_54_1_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 4 Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/ZHO1G2A6YM08FJW/CHXJ5AZXXO4R6UZ/qts/m_75_1_.m3u8
+http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/4QJK3EB9OC0TJFV/KYZ814I43V9Q1Q7/qts/m_75_1_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Sur HD
 http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/1876
