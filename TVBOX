@@ -384,6 +384,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLSAD&s=hk
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/FOBSTYRADTAA2YT/IH1CLG20KXK3JMY/qts/m_118_1_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cwJs1nS/Once-ni-os.png" group-title="Infantil",Once Niñas y Niños
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3315&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.etc.cl/_common/images/logoetc_2015.png" group-title="Infantil",ETC TV
 http://compitv.info:8080/live/Ulises45/gH8ZpaSLqx/32107.m3u8
 
@@ -708,7 +711,7 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/DULWVM0FN2YQ2PO/BNTTES1SW769MID/qt
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/YG9OLMXBH9Q5ASB/BVP03ZFLN8LY1KP/qts/m_54_1_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 4 Sur HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/93zYQKk/ESPN-4.png" group-title="Deportes",ESPN 4 Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/4QJK3EB9OC0TJFV/KYZ814I43V9Q1Q7/qts/m_75_1_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Sur HD
@@ -911,10 +914,6 @@ http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_140.m3u8
 #EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j5JTGbf/Discovery-ID.png" group-title="HD",,ID Discovery HD
 http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_100.m3u8
-
-#EXTVLCOPT:http-user-agent=magna.h45/2.3 (Linux;Android 10) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="HD",AXN HD
-http://163.172.180.231/1YAOKQOPCRIT09X4BMS2/qts/m_7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wR3GZfk/Discovery-home-and-health.png" group-title="HD",HOLA TV HD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
