@@ -403,7 +403,7 @@ http://185.134.22.131:8080/live/Carlos123/Carlos123/58172.ts
 http://185.134.22.131:8080/live/Carlos123/Carlos123/58603.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qkJRFt3/Locomotion.png"group-title="Infantil",Locomotion
-
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kH9B0Hz/AZTV.png"group-title="Infantil",AZTV
 
