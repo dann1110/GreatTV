@@ -391,22 +391,22 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3315&f=HLSAD&s=hk
 http://compitv.info:8080/live/Ulises45/gH8ZpaSLqx/32107.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W0jdYkL/Nick-Latino.png" group-title="Infantil",Nick Latino
-http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/103800.ts
+http://185.134.22.131:8080/live/Carlos123/Carlos123/58465.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Svjqyzd/NickTeen.png" group-title="Infantil",NickTeen
-http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/104204.ts
+http://185.134.22.131:8080/live/Carlos123/Carlos123/58112.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W3KCY7J/Yu-Gi-Oh.png" group-title="Infantil",Yu-Gi-Oh
-http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/104238.ts
+http://185.134.22.131:8080/live/Carlos123/Carlos123/58172.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/W3KCY7J/Yu-Gi-Oh.png" group-title="Infantil",Yu-Gi-Oh USA
-http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/103787.ts
+http://185.134.22.131:8080/live/Carlos123/Carlos123/58603.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qkJRFt3/Locomotion.png"group-title="Infantil",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kH9B0Hz/AZTV.png"group-title="Infantil",AZTV
-http://animezonetv.net/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="Cine",de pelicula
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -639,35 +639,26 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=167&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hLCQD0X/ESPN.png" group-title="Deportes",ESPN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hLCQD0X/ESPN.png" group-title="Deportes",ESPN HD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/3066
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hLCQD0X/ESPN.png" group-title="Deportes",ESPN HD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/3199
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hLCQD0X/ESPN.png" group-title="Deportes",ESPN FHD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNcFiahzTf4ZtSfNAsxmRFhE/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rk2F01D/ESPN-2.png" group-title="Deportes",ESPN 2
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rk2F01D/ESPN-2.png" group-title="Deportes",ESPN 2 HD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/3067
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rk2F01D/ESPN-2.png" group-title="Deportes",ESPN 2 FHD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/3200
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNS7K1ybZXKlzC83i3ekp9yM/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1ZhHvJ9/ESPN-3.png" group-title="Deportes",ESPN 3
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1ZhHvJ9/ESPN-3.png" group-title="Deportes",ESPN 3 HD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/3068
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1ZhHvJ9/ESPN-3.png" group-title="Deportes",ESPN 3 HD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/3201
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/0832PJRWG4B2QCG/2TINGFFCUT776GK/qts/m_74_1_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports HD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNUwZbRGBnQkIEgpTirPYD20/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -680,6 +671,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=hkc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/0NQ3NLBS58NJ12T/M8MCK62RLUDRL7Y/qts/m_78_1_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 HD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNbRpcjXPY7WaqHCoKN4_Gn8/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SB3SPKF/Claro-Sports.png" group-title="Deportes",Claro Sports FHD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -702,38 +696,50 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1799&f=HLSAD&s=hk
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/df3zgFy/ESPN-Extra.png" group-title="Deportes",ESPN Extra Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/YDA1L6EXJSSK59A/28UGWV55ZW6GVE4/qts/m_55_1_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/df3zgFy/ESPN-Extra.png" group-title="Deportes",ESPN Extra Sur FHD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNfxltYV5JEwJsqwvUMxSPOM/ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NVtqqLk/ESPN-Sur.png" group-title="Deportes",ESPN Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/ES8KCZMYTPCP8GO/AT83AXJLXZG4FRP/qts/m_53_1_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NVtqqLk/ESPN-Sur.png" group-title="Deportes",ESPN Sur FHD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNSPik_C7MlngQPmJ9qmeB2E/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r0MvYLn/ESPN-2-Sur.png" group-title="Deportes",ESPN 2 Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/DULWVM0FN2YQ2PO/BNTTES1SW769MID/qts/m_56_1_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r0MvYLn/ESPN-2-Sur.png" group-title="Deportes",ESPN 2 Sur FHD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNWUmrOEe95Ok9-EtZMYimaY/ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/YG9OLMXBH9Q5ASB/BVP03ZFLN8LY1KP/qts/m_54_1_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur FHD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNY1VMCIVxLL8-xAYzbTcOss/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/93zYQKk/ESPN-4.png" group-title="Deportes",ESPN 4 Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/4QJK3EB9OC0TJFV/KYZ814I43V9Q1Q7/qts/m_75_1_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Sur HD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/1876
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Sur HD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/1879
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports 1 Sur FHD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/1877
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports 1 Sur FHD
-http://gratuita.mrzutv.net:8080/listagraootisx10094984844949494949000listagrfdgfdgfdfvfdddddddddddddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000list/listagratisx100000liskfkfkfkfkffkfkffffftagratisx100000listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx1000/1938
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNS4gPI4hZiB-3opUqEEVfQI/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2 Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/XML6C0FG0B5X2UI/KJ31ZN9K5AZ7P0K/qts/m_77_1_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2 Sur FHD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNSRmvbwztMLot56mx7ems74/ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/G0WNPCVF03QESCA/5A91016X31SFV61/qts/m_79_1_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Sur HD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNbcaC5MhOTslaJpVvHaAFlc/ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SVcns52/ESPN-Deportes.png" group-title="Deportes",ESPN Deportes HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/NRNQEXT9DGXD0O6/FV5S80OWKTUY36T/qts/3_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SVcns52/ESPN-Deportes.png" group-title="Deportes",ESPN Deportes HD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNWZRIFVjFDDRkfkdPEFn744/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9gfnyP6/Fox-Deportes.png" group-title="Deportes",Fox Deportes
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/NRNQEXT9DGXD0O6/FV5S80OWKTUY36T/qts/55_.m3u8
@@ -761,6 +767,9 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/C89AJS6AXST2KMD/6Z1LLY3F1PN4UGM/qt
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M1YDp7h/Fox-Sports-Premium.png" group-title="Deportes",Fox Sports Premium
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/NRNQEXT9DGXD0O6/FV5S80OWKTUY36T/qts/132_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M1YDp7h/Fox-Sports-Premium.png" group-title="Deportes",Fox Sports Premium HD
+http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNYW-oTNWqQUyvT6_hUmQESA/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qsm3zTp/WWE-Network.png" group-title="Deportes",WWE Network HD
 http://latvonlive.com:33612/live/Doris/Doris123/749.m3u8
@@ -1257,4 +1266,3 @@ http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/73701.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="24/7",
-
