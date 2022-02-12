@@ -762,8 +762,14 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/NRNQEXT9DGXD0O6/FV5S80OWKTUY36T/qt
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qxhkqMq/Direc-TV-Sports.png" group-title="Deportes",Directv Sports
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/OBEW7YYQCPRIQTA/IENLE36W2JZFGK8/qts/59_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qxhkqMq/Direc-TV-Sports.png" group-title="Deportes",Directv Sports HD
+http://latvonlive.com:33612/live/Doris/Doris123/5.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/19PyJkn/Direc-TV-Sports-2.png" group-title="Deportes",Directv Sports 2
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/C89AJS6AXST2KMD/6Z1LLY3F1PN4UGM/qts/61_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/19PyJkn/Direc-TV-Sports-2.png" group-title="Deportes",Directv Sports 2 HD
+http://latvonlive.com:33612/live/Doris/Doris123/892.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M1YDp7h/Fox-Sports-Premium.png" group-title="Deportes",Fox Sports Premium
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/NRNQEXT9DGXD0O6/FV5S80OWKTUY36T/qts/132_.m3u8
