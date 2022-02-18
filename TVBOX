@@ -720,22 +720,22 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/3Z4RVME1SG8HVLQ/454TDWCEJ1YP4LR/qt
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qswp4FN/HBO-XTREME.png" group-title="Premium",HBO Xtreme
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/3Z4RVME1SG8HVLQ/454TDWCEJ1YP4LR/qts/p_105_1_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Universal Premiere FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/stJ0HFz/Universal-Premiere.png" group-title="Premium",Universal Premiere FHD
 http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNRphzimxakFj4OOUpAtHFD8/ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Universal Premiere Sur FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/stJ0HFz/Universal-Premiere.png" group-title="Premium",Universal Premiere Sur FHD
 http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNZSqBXzoG5e7vqa1icXRrb8/ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Universal Cinema FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jryxLTw/Universal-Cinema.png" group-title="Premium",Universal Cinema FHD
 http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNVctaT3qnOv9MdkZcAD9GP8/ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Universal Crime FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N3mTBz4/Universal-Crime.png" group-title="Premium",Universal Crime FHD
 http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNb0a9xSKxHkLJ9OxcDxE5Lo/ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Universal Comedy FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RhLBd8C/Universal-Comedy.png" group-title="Premium",Universal Comedy FHD
 http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNWO-RO2ELSszPpVFZcFLVrE/ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Universal Reality FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PgGkv8r/Universal-Reality.png" group-title="Premium",Universal Reality FHD
 http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNS-w2DqoUsf6IuclFAdpLfY/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vYGGDLK/Golden-Premier.png" group-title="Cine",Golden Premier HD
@@ -1136,3 +1136,5 @@ http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/73701.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="24/7",
 
+
+#EXTINF:-1 tvg-logo="" group-title="24/7",
