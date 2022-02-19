@@ -1141,3 +1141,32 @@ http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/73701.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="24/7",
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NVtqqLk/ESPN-Sur.png" group-title="Deportes 2",ESPN Sur HD
+http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108735.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r0MvYLn/ESPN-2-Sur.png" group-title="Deportes 2",ESPN 2 Sur HD
+http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108741.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes 2",ESPN 3 Sur HD
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes 2",Fox Sports Colombia HD
+http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108680.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes 2",Fox Sports Chile FHD
+http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108681.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes 2",Fox Sports 2 Sur HD
+http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108684.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes 2",Fox Sports 3 Sur HD
+http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108687.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SVcns52/ESPN-Deportes.png" group-title="Deportes 2",ESPN Deportes HD
+http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108751.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M1YDp7h/Fox-Sports-Premium.png" group-title="Deportes 2",Fox Sports Premium FHD
+http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108688.m3u8
