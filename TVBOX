@@ -90,7 +90,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=48&f=HLSAD&s=hkc2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/BMOZ7LMNGIR17MP/N21PE3OI09V239Y/qts/m_125_1_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel Sur FHD
 http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNTTT8Nn2jPhwQieklbC60DU/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZY90v33/Unicable.png" group-title="Entretenimiento",Unicable
@@ -309,7 +309,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2378&f=HLSAD&s=hk
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c8y7cRL/Animal-Planet.png" group-title="Cultura",Animal Planet Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/46GRFUZAPJZVXCZ/YTGCKW2ZEX98XNJ/qts/m_4_1_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c8y7cRL/Animal-Planet.png" group-title="Cultura",Animal Planet FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c8y7cRL/Animal-Planet.png" group-title="Cultura",Animal Planet Sur FHD
 http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNUbypyiH5TAPIyPrweMkQHI/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6BP7pVF/History-Channel.png" group-title="Cultura",History Channel
@@ -327,7 +327,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=91&f=HLSAD&s=hkc2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LSpC5H0/Natgeo.png" group-title="Cultura",Natgeo Sur HD
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/GP8W8PTTN35JM15/87MRPK84UCNRDSQ/qts/m_111_1_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LSpC5H0/Natgeo.png" group-title="Cultura",Natgeo FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LSpC5H0/Natgeo.png" group-title="Cultura",Natgeo Sur FHD
 http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNYLikjpzNKjJYO_Ql1T4DRg/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jDb9Cbc/Lifetime.png" group-title="Cultura",Lifetime
