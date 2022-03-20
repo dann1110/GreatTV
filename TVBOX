@@ -1167,3 +1167,6 @@ http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108751.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M1YDp7h/Fox-Sports-Premium.png" group-title="Deportes 2",Fox Sports Premium FHD
 http://ultraplay.org/live/LUISOSORIO/LuisOsorio74fj09ax/108688.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes 2",Movistar LaLiga
+http://latvonlive.com:33612/live/Doris/Doris123/920.ts
