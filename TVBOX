@@ -504,8 +504,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d00098
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qkJRFt3/Locomotion.png"group-title="Infantil",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kH9B0Hz/AZTV.png"group-title="Infantil",AZTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kH9B0Hz/AZTV.png" group-title="Infantil",AZTV
 http://animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Prg0cgz/Aniplus.png" group-title="Infantil",Aniplus
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="Cine",de pelicula
 http://bgapp.live/play/totalp3-400.php?c=335&p=3&k=black&f=.m3u8
