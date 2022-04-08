@@ -66,6 +66,9 @@ http://bgapp.live/play/totalp3-400.php?c=84&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bBTXG5N/Cinema.png" group-title="México",Cinema
 http://bgapp.live/play/totalp3-400.php?c=1787&p=3&k=black&f=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bBTXG5N/Cinema.png" group-title="México",Cinema
+https://shortgod.com/vip/playerlatino.php?id=186&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bsj8MH8/Mega-Noticias-MX.png" group-title="México",MegaNoticias MX
 http://bgapp.live/play/totalp3-400.php?c=2156&p=3&k=black&f=.m3u8
 
@@ -171,11 +174,11 @@ https://shortgod.com/vip/playerlatino.php?id=474&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN
 http://bgapp.live/play/totalp3-400.php?c=64&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/KBEEV0NUJXWRWG3/SLB8BHNIB0S6FMO/qts/m_7_1_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN
+https://shortgod.com/vip/playerlatino.php?id=146&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN FHD
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNTFPtCeHNuAiblG95PZK7vQ/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN HD
+https://shortgod.com/vip/playerlatino.php?id=476&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R9kzx2K/Telemundo-Internacional.png" group-title="Entretenimiento",Telemundo Internacional FHD
 http://bgapp.live/play/totalp3-400.php?c=85&p=3&k=black&f=.m3u8
@@ -803,6 +806,9 @@ http://bgapp.live/play/totalp3-400.php?c=2157&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tbmMP8Y/AYM-Sports.png" group-title="Deportes",Aym Sports
 http://bgapp.live/play/totalp3-400.php?c=180&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tbmMP8Y/AYM-Sports.png" group-title="Deportes",Aym Sports
+https://shortgod.com/vip/playerlatino.php?id=148&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/R4vx70q/Adrenalina-Sports.png" group-title="Deportes",Adrenalina Sports Network FHD
 http://bgapp.live/play/totalp3-400.php?c=1799&p=3&k=black&f=.m3u8
