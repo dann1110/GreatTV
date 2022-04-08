@@ -375,11 +375,8 @@ http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNWaYGDqxUMrQ9nNlUp3DQOI/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids
 http://bgapp.live/play/totalp3-400.php?c=109&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/R817O0R0IACZY4Q/EJ3RDZC9KGV3S28/qts/m_41_1_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Sur FHD
-http://latvonlive.com:33612/live/Doris/Doris123/622.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids
+https://shortgod.com/vip/playerlatino.php?id=25&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
 http://bgapp.live/play/totalp3-400.php?c=331&p=3&k=black&f=.m3u8
@@ -390,95 +387,62 @@ https://shortgod.com/vip/playerlatino.php?id=78&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick FHD
 https://shortgod.com/vip/playerlatino.php?id=645&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hXS2pmS/Disney-XD.png" group-title="Infantil",Disney XD
-http://bgapp.live/play/totalp3-400.php?c=111&p=3&k=black&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hXS2pmS/Disney-XD.png" group-title="Infantil",Disney XD HD
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNXQ6MWooroV_X3IM0DPN79w/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hXS2pmS/Disney-XD.png" group-title="Infantil",Disney XD Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/Y9O3TI6YCT2CSTK/WHT8KE1Z1NRNO9G/qts/m_48_1_.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
 http://bgapp.live/play/totalp3-400.php?c=112&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/UGZS4LW24SPS8DX/RMF6UY633J4VHK1/qts/m_20_1_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
+https://shortgod.com/vip/playerlatino.php?id=17&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network Sur HD
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNSMUDy2cC8gFbLLsY2W-MHE/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network FHD
+https://shortgod.com/vip/playerlatino.php?id=637&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel
 http://bgapp.live/play/totalp3-400.php?c=113&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/1HILNWM1XWD4FZC/EYV8ZW7KXW2LMXG/qts/169_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel Sur HD
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNU0QNJx7wvnPOILCEQh6OkY/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel
+https://shortgod.com/vip/playerlatino.php?id=29&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bHtRRfY/Cartoonito.png" group-title="Infantil",Cartoonito
 http://bgapp.live/play/totalp3-400.php?c=115&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bHtRRfY/Cartoonito.png" group-title="Infantil",Cartoonito Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/6H2CBTNSDYD4OB1/UEFFFA6Z1ZGOVQR/qts/m_14_1_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bHtRRfY/Cartoonito.png" group-title="Infantil",Cartoonito Sur FHD
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNWzFyupACkrYyOryrcaJI_8/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bHtRRfY/Cartoonito.png" group-title="Infantil",Cartoonito
+https://shortgod.com/vip/playerlatino.php?id=11&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/02L7nPb/BabyTV.png" group-title="Infantil",Baby TV
 http://bgapp.live/play/totalp3-400.php?c=116&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/02L7nPb/BabyTV.png" group-title="Infantil",Baby TV HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/QDX3YD7ALP7K0AQ/N8J0X5EE95H91BA/qts/m_10_1_.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
 http://bgapp.live/play/totalp3-400.php?c=117&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/02I91XRVKY1OU4U/ZEUPA6MAW4Y1GJP/qts/m_119_1_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr FHD
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNasqTk8GeKPQ5EeoDlQq6e4/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+https://shortgod.com/vip/playerlatino.php?id=79&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GWrqVby/Baby-First.png" group-title="Infantil",Baby First
 http://bgapp.live/play/totalp3-400.php?c=1984&p=3&k=black&f=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GWrqVby/Baby-First.png" group-title="Infantil",Baby First
+https://shortgod.com/vip/playerlatino.php?id=7&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior
 http://bgapp.live/play/totalp3-400.php?c=118&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/FZV6501DM87MOJJ/Z4IF00L7XPEQI21/qts/m_47_1_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior
+https://shortgod.com/vip/playerlatino.php?id=30&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior Sur
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNWcryD0qOM46n5yW_DcJmpI/ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Qdpt9JL/Nat-Geo-Kids.png" group-title="Infantil",NatGeo Kids
-http://bgapp.live/play/totalp3-400.php?c=2373&p=3&k=black&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Qdpt9JL/Nat-Geo-Kids.png" group-title="Infantil",NatGeo Kids HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/CCWVATB7UH73O4G/8GME0DJKSCEJMP3/qts/m_112_1_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Qdpt9JL/Nat-Geo-Kids.png" group-title="Infantil",NatGeo Kids FHD
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNRkMmCax9w3T7wITp4OYslo/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior HD
+https://shortgod.com/vip/playerlatino.php?id=826&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M8HrcVT/Tooncast.png" group-title="Infantil",Tooncast
 http://bgapp.live/play/totalp3-400.php?c=108&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M8HrcVT/Tooncast.png" group-title="Infantil",Tooncast HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/B5N3V5XQT6MIY09/YXCQ3V9BB7J1E2A/qts/m_135_1_.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M8HrcVT/Tooncast.png" group-title="Infantil",Tooncast
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNXCOkm6qDGqfCdV_Y1yS_Q8/ts
+https://shortgod.com/vip/playerlatino.php?id=95&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wk7bknc/Nick-Music.png" group-title="Infantil",NickMusic
 http://bgapp.live/play/totalp3-400.php?c=1708&p=3&k=black&f=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wk7bknc/Nick-Music.png" group-title="Infantil",NickMusic HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/M0AYX2NSCXY0E8U/PBD931901QRZWTJ/qts/m_288_1_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wk7bknc/Nick-Music.png" group-title="Infantil",NickMusic
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNVxMBMT2XkwanNuO_IE5zeQ/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
 http://bgapp.live/play/totalp3-400.php?c=2147&p=3&k=black&f=.m3u8
