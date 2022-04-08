@@ -162,8 +162,11 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/2WJLNL0FAJBQETH/7OK7LZM2M8UJS1H/qt
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
 http://bgapp.live/play/totalp3-400.php?c=62&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/B0ZH2NV9UL2DZV1/37JCY90PDTELZB0/qts/m_1_1_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
+https://shortgod.com/vip/playerlatino.php?id=1&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E FHD
+https://shortgod.com/vip/playerlatino.php?id=474&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN
 http://bgapp.live/play/totalp3-400.php?c=64&p=3&k=black&f=.m3u8
@@ -306,11 +309,11 @@ http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNVtOJXuzPyXqq3Ah6z5Gmss/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c8y7cRL/Animal-Planet.png" group-title="Cultura",Animal Planet
 http://bgapp.live/play/totalp3-400.php?c=2378&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c8y7cRL/Animal-Planet.png" group-title="Cultura",Animal Planet Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/46GRFUZAPJZVXCZ/YTGCKW2ZEX98XNJ/qts/m_4_1_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c8y7cRL/Animal-Planet.png" group-title="Cultura",Animal Planet
+https://shortgod.com/vip/playerlatino.php?id=3&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c8y7cRL/Animal-Planet.png" group-title="Cultura",Animal Planet Sur FHD
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNUbypyiH5TAPIyPrweMkQHI/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/c8y7cRL/Animal-Planet.png" group-title="Cultura",Animal Planet FHD
+https://shortgod.com/vip/playerlatino.php?id=633&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6BP7pVF/History-Channel.png" group-title="Cultura",History Channel
 http://bgapp.live/play/totalp3-400.php?c=89&p=3&k=black&f=.m3u8
@@ -381,8 +384,11 @@ http://latvonlive.com:33612/live/Doris/Doris123/622.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
 http://bgapp.live/play/totalp3-400.php?c=331&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/HNZ1C9R3Q2XOH6X/90JXH9U3SBGDIYU/qts/m_117_1_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
+https://shortgod.com/vip/playerlatino.php?id=78&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick FHD
+https://shortgod.com/vip/playerlatino.php?id=645&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hXS2pmS/Disney-XD.png" group-title="Infantil",Disney XD
 http://bgapp.live/play/totalp3-400.php?c=111&p=3&k=black&f=.m3u8
@@ -477,8 +483,14 @@ http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNVxMBMT2XkwanNuO_IE5zeQ/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
 http://bgapp.live/play/totalp3-400.php?c=2147&p=3&k=black&f=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
+https://shortgod.com/vip/playerlatino.php?id=184&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/FOBSTYRADTAA2YT/IH1CLG20KXK3JMY/qts/m_118_1_.m3u8
+https://shortgod.com/vip/playerlatino.php?id=882&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick FHD
+https://shortgod.com/vip/playerlatino.php?id=646&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cwJs1nS/Once-ni-os.png" group-title="Infantil",Once Niñas y Niños
 http://bgapp.live/play/totalp3-400.php?c=3315&p=3&k=black&f=.m3u8
@@ -591,11 +603,11 @@ http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNW7jSRn0ZOW4NBMG6yciWro/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png" group-title="Cine",AMC
 http://bgapp.live/play/totalp3-400.php?c=131&p=3&k=black&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png" group-title="Cine",AMC Sur HD
-http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/40DALJH1LH65XVE/ODEVCKQQMT5H4TK/qts/m_3_1_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png" group-title="Cine",AMC HD
+https://shortgod.com/vip/playerlatino.php?id=183&f=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png" group-title="Cine",AMC Sur FHD
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNareCBNfUvXAI62JDkb504M/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png" group-title="Cine",AMC FHD
+https://shortgod.com/vip/playerlatino.php?id=475&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFK3wNB/Studio-Universal.png" group-title="Cine",Studio Universal
 http://bgapp.live/play/totalp3-400.php?c=132&p=3&k=black&f=.m3u8
@@ -769,7 +781,7 @@ http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/0QSL4V89Q2A7PD9/QQBQOK6RFDKXII4/qt
 http://latvonlive.com:33612/live/Doris/Doris123/240.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYwRMR4/Afizzionados.png" group-title="Deportes",Afizzionados
-http://user.tvcluboficial.com/stream/free_IptvappsCuentasYCreditos_/ZTo/878.m3u8
+https://shortgod.com/vip/playerlatino.php?id=878&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/df3zgFy/ESPN-Extra.png" group-title="Deportes",ESPN Extra
 http://bgapp.live/play/totalp3-400.php?c=167&p=3&k=black&f=.m3u8
