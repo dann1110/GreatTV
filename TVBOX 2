@@ -537,8 +537,14 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Prg0cgz/Aniplus.png" group-title="Infantil",Aniplus
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infantil",EnerGeek Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek Radio
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="Infantil",Dreiko TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="Cine",de pelicula
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
