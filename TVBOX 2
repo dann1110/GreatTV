@@ -876,7 +876,7 @@ http://live.budtvlight.com:25461/JW2WBKKNRE3UH43KN2N322899665975$5234/MENR32222/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xj4yytb/Sky-Sports-Premier-League.png" group-title="Deportes",Sky Sports Premier League HD
 http://live.budtvlight.com:25461/JW2WBKKNRE3UH43KN2N322899665975$5234/MENR32222/11883
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/dQnYFTm/Sky-Sports-Bundesliga.png" group-title="Deportes",Sky Sports Bundesliga HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQnYFTm/Sky-Sports-Bundesliga.png" group-title="Deportes",Sky Sports Bundesliga HD
 http://live.budtvlight.com:25461/JW2WBKKNRE3UH43KN2N322899665975$5234/MENR32222/39087
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vyNsq3/Univision.png" group-title="USA",Univision HD
