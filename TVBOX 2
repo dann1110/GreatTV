@@ -543,7 +543,7 @@ https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek Radio
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Dreiko TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WzdP3M6/Dreiko-TV.png" group-title="Infantil",Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyx0BhH/Latino-Kids.png" group-title="Infantil",Latino Kids
