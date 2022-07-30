@@ -543,8 +543,11 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 3
+https://stream.wifispeed.cl:3993/live/energeeklive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzdP3M6/Dreiko-TV.png" group-title="Infantil",Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
@@ -554,9 +557,6 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7p2K2yb/Planeta-TV.png" group-title="Infantil",Planeta TV Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Infantil",Rocket Channel
-https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="Cine",de pelicula
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx&l=335&f=HLS&f=.m3u8
