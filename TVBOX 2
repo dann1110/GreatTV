@@ -1098,7 +1098,7 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",Lo Mejor de la Liga MX
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750" group-title="ViX",Lo Mejor de la Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",Novelas de Romance
@@ -1380,7 +1380,7 @@ https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",Nosotros los Guapos
 https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",Lo Mejor Liga MX
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750" group-title="ViX",Lo Mejor Liga MX
 https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",The Weather Channel Español
