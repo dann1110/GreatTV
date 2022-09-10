@@ -1104,43 +1104,43 @@ https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",Novelas de Romance
 https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",Novelas en Familia
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092cdfb0742315039cb363/1a02c8ded45dc86458a0eff7e355703f?tr=q-80&w=750" group-title="ViX",Novelas en Familia Opc 2
 https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",Novelas de Oro
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62067bafe60b4f65c744443e/ddac3d628e29430d0af295b7f9d1621e?tr=q-80&w=750" group-title="ViX",Novelas de Oro Opc 2
 https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",Noticias Univision 24/7
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="ViX",Noticias Univision 24/7
 https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",Euronews
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83716771641f4fc47bd86/471578cf6a4cd5fef1471695cd092009?tr=q-80&w=750" group-title="ViX",Euronews
 https://linear-255.frequency.stream/255/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",beIn Sports XTRA ñ
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61bceb9bb6d51a2a70333c1d/3af9a923631cd0b8db1486cc6e5fda32?tr=q-80&w=750" group-title="ViX",beIn Sports XTRA ñ
 https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",ATV+
 https://linear-258.frequency.stream/258/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",TN23
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61bb608bf63835f5747e03ed/ca8c095a17414bf01b5e2e2bead21559?tr=q-80&w=750" group-title="ViX",TN23
 https://linear-259.frequency.stream/259/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",vive
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/629e346fabe49aa6dabae0bc/babc25e785c404ff7618e9413da4d0cf?tr=q-80&w=750" group-title="ViX",vivo play
 https://linear-260.frequency.stream/260/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620acca701543284acec0500/cdb7c9d736ce123925a82b5504cead09?tr=q-80&w=750" group-title="ViX",My Time Original
 https://linear-261.frequency.stream/261/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",Nuestra Vision
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/623a8773900f85b88093acfc/8f7d48dec6e7efc0b79692cf0efefc2e?tr=q-80&w=750" group-title="ViX",Nuestra Vision
 https://linear-262.frequency.stream/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",levelup
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6214c82929e3748a736b1047/d2c9bb1043ecc1ed6ef398334f24cb1b?tr=q-80&w=750" group-title="ViX",levelup
 https://linear-263.frequency.stream/linear-263/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",ForoTV
 https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",N+ Media
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="ViX",N+ Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",Fuakata!
@@ -1356,7 +1356,7 @@ https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",Univision Latam
 https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",Novelas de Oro
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62067bafe60b4f65c744443e/ddac3d628e29430d0af295b7f9d1621e?tr=q-80&w=750" group-title="ViX",Novelas de Oro
 https://linear-429.frequency.stream/429/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",Divas de Novela
