@@ -1098,7 +1098,7 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750" group-title="ViX",Lo Mejor de la Liga MX
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750" group-title="ViX",Lo Mejor de la Liga MX USA
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",Novelas de Romance
@@ -1128,7 +1128,7 @@ https://linear-259.frequency.stream/259/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",vive
 https://linear-260.frequency.stream/260/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",My Time Original
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620acca701543284acec0500/cdb7c9d736ce123925a82b5504cead09?tr=q-80&w=750" group-title="ViX",My Time Original
 https://linear-261.frequency.stream/261/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",Nuestra Vision
@@ -1374,7 +1374,7 @@ https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",Poderosas
 https://linear-449.frequency.stream/449/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",Una Familia de Diez
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/623696ed4fa9c22d4088a341/6c001fa87b8af3f0bee0f985c23c8f30?tr=q-80&w=750" group-title="ViX",Una Familia de Diez
 https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",Nosotros los Guapos
