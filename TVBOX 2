@@ -1135,7 +1135,7 @@ https://linear-261.frequency.stream/261/hls/master/playlist.m3u8
 https://linear-262.frequency.stream/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6214c82929e3748a736b1047/d2c9bb1043ecc1ed6ef398334f24cb1b?tr=q-80&w=750" group-title="ViX",levelup
-https://linear-263.frequency.stream/linear-263/hls/master/playlist.m3u8
+https://linear-263.frequency.stream/263/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ViX",ForoTV
 https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
