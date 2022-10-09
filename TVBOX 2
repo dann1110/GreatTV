@@ -536,6 +536,9 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil",Cloud TV Plus
 https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek Radio
+https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
