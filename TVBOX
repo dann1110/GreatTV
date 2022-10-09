@@ -485,6 +485,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 3
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 4
+https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzdP3M6/Dreiko-TV.png" group-title="Infantil",Dreiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 
