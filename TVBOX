@@ -393,13 +393,13 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek Radio
-https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8?PlaylistM3UCL
+https://streamtest.energeek.cl/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 3
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
