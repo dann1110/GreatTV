@@ -377,7 +377,7 @@ http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=3315&p=3&tokennn=Regio
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cwJs1nS/Once-ni-os.png" group-title="Infantil",Once Niñas y Niños
 http://51.222.25.50:25461/hsbdfjhkasvbdf/bulltv/3491
 
-#EXTINF:-1 tvg-logo="" group-title="Infantil",DreamWorks
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rt7x8Bd/Dream-Works.png" group-title="Infantil",DreamWorks
 http://s2.smartersapp.net/play/XphQ_uI_Xhxxig7Y7wgHqKelzlWjvkf36fdnecwwTr8
 
 #EXTINF:-1 tvg-logo="http://static.etc.cl/_common/images/logoetc_2015.png" group-title="Infantil",ETC TV
@@ -458,7 +458,7 @@ http://51.222.25.50:25461/hsbdfjhkasvbdf/bulltv/117
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vwwBRpV/Golden-Edge.png" group-title="Cine",Golden Edge
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=124&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cine",Sony Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mF5W8hZ/Sony-Movies.png" group-title="Cine",Sony Movies
 http://s2.smartersapp.net/play/XphQ_uI_Xhxxig7Y7wgHqJ-jRXpP-roJTeOuVkxG4Fo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x52nNFr/Paramount-Network.png" group-title="Cine",Paramount Network
