@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJxXRpd/Azteca-Uno.png" group-title="México",Azteca Uno
@@ -715,6 +716,9 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3038
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3039
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Sur HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3995
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Arg HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3040
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SVcns52/ESPN-Deportes.png" group-title="Deportes",ESPN Deportes HD
