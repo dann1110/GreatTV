@@ -1,5 +1,7 @@
 #EXTM3U
 
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJxXRpd/Azteca-Uno.png" group-title="México",Azteca Uno
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=27&p=3&tokennn=Regio&f=.m3u8
 
