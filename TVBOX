@@ -612,29 +612,14 @@ http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNS1kUkS_x2dH_0O8YUUBDys/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN FHD
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=1049&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/160
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN FHD
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN USA
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN USA HD
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYwRMR4/Afizzionados.png" group-title="Deportes",Afizzionados
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYwRMR4/Afizzionados.png" group-title="Deportes",Afizzionados HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/43
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1yTNLG/ESPN-Extra.png" group-title="Deportes",ESPN Extra
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=167&p=3&tokennn=Regio&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D1yTNLG/ESPN-Extra.png" group-title="Deportes",ESPN Extra
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3518
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D1yTNLG/ESPN-Extra.png" group-title="Deportes",ESPN Extra HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/93
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1yTNLG/ESPN-Extra.png" group-title="Deportes",ESPN Extra HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3982
@@ -648,9 +633,6 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3041
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rk2F01D/ESPN-2.png" group-title="Deportes",ESPN 2
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=168&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rk2F01D/ESPN-2.png" group-title="Deportes",ESPN 2 HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/90
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZhHvJ9/ESPN-3.png" group-title="Deportes",ESPN 3
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=345&p=3&tokennn=Regio&f=.m3u8
 
@@ -661,10 +643,10 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/91
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=170&p=3&tokennn=Regio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/105
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3975
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/105
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=172&p=3&tokennn=Regio&f=.m3u8
@@ -690,20 +672,14 @@ http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=2157&p=3&tokennn=Regio
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tbmMP8Y/AYM-Sports.png" group-title="Deportes",Aym Sports
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=180&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tbmMP8Y/AYM-Sports.png" group-title="Deportes",Aym Sports
-https://shortgod.com/vip/pallatino3.php?id=148&p=3&tokennn=Regio&f=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4vx70q/Adrenalina-Sports.png" group-title="Deportes",Adrenalina Sports Network FHD
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=1799&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4vx70q/Adrenalina-Sports.png" group-title="Deportes",Adrenalina Sports Network FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4vx70q/Adrenalina-Sports.png" group-title="Deportes",Adrenalina Sports Network HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/2937
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/df3zgFy/ESPN-Extra.png" group-title="Deportes",ESPN Extra
-https://shortgod.com/vip/pallatino3.php?id=487&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NVtqqLk/ESPN-Sur.png" group-title="Deportes",ESPN Sur
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3034
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NVtqqLk/ESPN-Sur.png" group-title="Deportes",ESPN Sur HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3979
@@ -711,55 +687,55 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3979
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NVtqqLk/ESPN-Sur.png" group-title="Deportes",ESPN Sur HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3990
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0MvYLn/ESPN-2-Sur.png" group-title="Deportes",ESPN 2 Sur HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0MvYLn/ESPN-2-Sur.png" group-title="Deportes",ESPN 2 Sur
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3035
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0MvYLn/ESPN-2-Sur.png" group-title="Deportes",ESPN 2 Sur HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3980
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3992
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur FHD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3036
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur FHD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3981
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3992
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93zYQKk/ESPN-4.png" group-title="Deportes",ESPN 4 Sur HD
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Sur
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3038
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3983
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3986
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3972
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2 Sur HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3039
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2 Sur HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2 Sur
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3973
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Sur HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2 Sur FHD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3039
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Sur
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3995
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Sur
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3040
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Sur HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3993
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Sur HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3974
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Arg HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3040
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3 Arg HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3993
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SVcns52/ESPN-Deportes.png" group-title="Deportes",ESPN Deportes HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SVcns52/ESPN-Deportes.png" group-title="Deportes",ESPN Deportes FHD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/92
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9gfnyP6/Fox-Deportes.png" group-title="Deportes",Fox Deportes
@@ -823,9 +799,9 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/552
 http://latvonlive.com:33612/live/Doris/Doris123/749.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 1
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3322
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 2
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 2 HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3323
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 3
