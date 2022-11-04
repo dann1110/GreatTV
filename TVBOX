@@ -630,14 +630,23 @@ http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=169&p=3&tokennn=Regio&
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hLCQD0X/ESPN.png" group-title="Deportes",ESPN HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3041
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hLCQD0X/ESPN.png" group-title="Deportes",ESPN HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3968
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rk2F01D/ESPN-2.png" group-title="Deportes",ESPN 2
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=168&p=3&tokennn=Regio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rk2F01D/ESPN-2.png" group-title="Deportes",ESPN 2
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3969
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZhHvJ9/ESPN-3.png" group-title="Deportes",ESPN 3
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=345&p=3&tokennn=Regio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZhHvJ9/ESPN-3.png" group-title="Deportes",ESPN 3
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/91
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZhHvJ9/ESPN-3.png" group-title="Deportes",ESPN 3
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3970
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=170&p=3&tokennn=Regio&f=.m3u8
@@ -653,6 +662,9 @@ http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=172&p=3&tokennn=Regio&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2 HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/106
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2 HD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3964
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8Wnx3N/Fox-Sports-3.png" group-title="Deportes",Fox Sports 3
 http://regioplay.xyz/php/SR_REGIO_220122_/tpnuevo01.php?c=178&p=3&tokennn=Regio&f=.m3u8
@@ -701,6 +713,9 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3036
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur FHD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3981
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zj1N94/ESPN-3-Sur.png" group-title="Deportes",ESPN 3 Sur FHD
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3967
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93zYQKk/ESPN-4.png" group-title="Deportes",ESPN 4 Sur HD
 
