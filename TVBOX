@@ -200,7 +200,7 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/122
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0R6fC5/El-Gourmet.png" group-title="Entretenimiento",El Gourmet
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=74&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y0R6fC5/El-Gourmet.png" group-title="Entretenimiento",El Gourmet HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y0R6fC5/El-Gourmet.png" group-title="Entretenimiento",El Gourmet
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/88
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQbx4ch/MasChic.png" group-title="Entretenimiento",MasChic
@@ -209,7 +209,7 @@ http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=1842&p=3&tokennn=Regio
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptVWGP/TBS.png" group-title="Entretenimiento",TBS
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=81&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tptVWGP/TBS.png" group-title="Entretenimiento",TBS FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tptVWGP/TBS.png" group-title="Entretenimiento",TBS
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/150
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9G9tmw2/Glitz.png" group-title="Entretenimiento",Glitz
@@ -221,17 +221,17 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/114
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bys1BnC/Distrito-Comedia.png" group-title="Entretenimiento",Distrito Comedia
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=78&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bys1BnC/Distrito-Comedia.png" group-title="Entretenimiento",Distrito Comedia
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bys1BnC/Distrito-Comedia.png" group-title="Entretenimiento",Distrito Comedia FHD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/85
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7JXdTcY/Comedy-Central.png" group-title="Entretenimiento",Comedy Central
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=340&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TPTNvYb/TruTV.png" group-title="Entretenimiento",TruTv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPTNvYb/TruTV.png" group-title="Entretenimiento",TruTV
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=79&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TPTNvYb/TruTV.png" group-title="Entretenimiento",TruTv FHD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/159
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPTNvYb/TruTV.png" group-title="Entretenimiento",TruTV
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gmk4GHQ/Discovery-Channel.png" group-title="Cultura",Discovery Channel
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=86&p=3&tokennn=Regio&f=.m3u8
