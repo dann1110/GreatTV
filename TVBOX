@@ -98,7 +98,7 @@ http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=46&p=3&tokennn=Regio&f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/97
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel Sur FHD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3475
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel
@@ -116,13 +116,13 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/173
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=52&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel FHD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/178
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=55&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E! Sur
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/86
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
@@ -146,7 +146,7 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/75
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6tpD4ML/TLC-Discovery.png" group-title="Entretenimiento",TLC Discovery
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=2380&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6tpD4ML/TLC-Discovery.png" group-title="Entretenimiento",TLC Discovery HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6tpD4ML/TLC-Discovery.png" group-title="Entretenimiento",TLC Discovery FHD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/79
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
@@ -158,14 +158,11 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=64&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/47
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9kzx2K/Telemundo-Internacional.png" group-title="Entretenimiento",Telemundo Internacional FHD
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=85&p=3&tokennn=Regio&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R9kzx2K/Telemundo-Internacional.png" group-title="Entretenimiento",Telemundo Internacional HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/154
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8jvt2s/BitMe.png" group-title="Entretenimiento",bitMe FHD
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=2591&p=3&tokennn=Regio&f=.m3u8
@@ -189,22 +186,16 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/124
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=83&p=3&tokennn=Regio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nKN7Rt/Tlnovelas.png" group-title="Entretenimiento",TlNovelas
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/694
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1nKN7Rt/Tlnovelas.png" group-title="Entretenimiento",TlNovelas
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/155
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HBmqnvf/TNT-Series.png" group-title="Entretenimiento",TNT Series
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=71&p=3&tokennn=Regio&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HBmqnvf/TNT-Series.png" group-title="Entretenimiento",TNT Series HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HBmqnvf/TNT-Series.png" group-title="Entretenimiento",TNT Series
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/157
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jkss3y8/H2.png" group-title="Entretenimiento",H2
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jkss3y8/H2.png" group-title="Entretenimiento",H2
-
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/122
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0R6fC5/El-Gourmet.png" group-title="Entretenimiento",El Gourmet
 http://regioplay.xyz/php/SR_REGIO_601122_/tpnuevo01.php?c=74&p=3&tokennn=Regio&f=.m3u8
