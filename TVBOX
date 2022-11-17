@@ -393,7 +393,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CztQScZ/Anime.png" group-title="Infantil",Anime
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qkJRFt3/Locomotion.png"group-title="Infantil",Locomotion
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qkJRFt3/Locomotion.png" group-title="Infantil",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kH9B0Hz/AZTV.png" group-title="Infantil",AZTV
@@ -417,7 +417,7 @@ https://stream.wifispeed.cl:3247/live/energeek2live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PD7Jb6j/EnerGeek.png" group-title="Infantil",EnerGeek 3 Animate HD
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9177c225a1b026e4b7e4b716f4a9c913.png",Wowly HD
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9177c225a1b026e4b7e4b716f4a9c913.png" group-title="Infantil",Wowly HD
 https://stream.wowlymedia.com/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzdP3M6/Dreiko-TV.png" group-title="Infantil",Dreiko TV HD
@@ -429,7 +429,7 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.paste.pics/d31abf80e663b92c77c7f44cb2b65147.png" group-title="Infantil",Moni TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",PlanetaTV Kids
+#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="Infantil",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="Cine",de pelicula
