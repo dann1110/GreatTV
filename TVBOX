@@ -612,6 +612,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/160
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN USA
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/SA9O4GW9K6RRU15/GEVSW4KX101N2XI/qts/131_.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYwRMR4/Afizzionados.png" group-title="Deportes",Afizzionados HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/43
 
@@ -715,7 +718,7 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3981
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3967
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93zYQKk/ESPN-4.png" group-title="Deportes",ESPN 4 Sur HD
-
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/64JX18177KLCPLN/48VSXGKK9WJS0U2/qts/p_75_1_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3038
@@ -751,10 +754,13 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3974
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/92
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9gfnyP6/Fox-Deportes.png" group-title="Deportes",Fox Deportes
-http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12182
+
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",beIN Sports Xtra ñ
+https://rs2.ht7nng15.online/s554672/cred.m3u8?id=146
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcJ3PxF/bei-N-Sports.png" group-title="Deportes",bein Sports ñ
-http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12173
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcJ3PxF/bei-N-Sports.png" group-title="Deportes",bein Sports ñ
 https://shortgod.com/vip/pallatino3.php?id=9&f=HLSAD&f=.m3u8
@@ -790,13 +796,14 @@ http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabba
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3219
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/19PyJkn/Direc-TV-Sports-2.png" group-title="Deportes",Directv Sports 2
-http://144.126.128.123:25461/sabbabbabababasabbabbabababa/sabbabbabababasabbabbabababa/12221
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/YNN5PCGKF6BYDDJ/8NDJJY3Z0G1E07X/qts/61_.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Liga de Campeones
-https://shortgod.com/vip/pallatino3.php?id=761&f=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes",LaLigaTV
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/4Q4EDT20GLY6GSL/37VRCJ8IDLOQ9JO/qts/163_.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Liga de Campeones
-https://shortgod.com/vip/pallatino3.php?id=376&f=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes",Liga de Campeones
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/WF1G1DY9V08XL4E/CGOB6W5X3293QON/qts/162_.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1hjqgb/ESPN-Premium.png" group-title="Deportes",ESPN Premium HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3987
