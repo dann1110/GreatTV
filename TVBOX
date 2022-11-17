@@ -814,16 +814,25 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/552
 http://latvonlive.com:33612/live/Doris/Doris123/749.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 1
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/FH60KSJIPQ0I7JR/0OUTMVT9S7U63P2/qts/164_.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 2
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/NRNQEXT9DGXD0O6/FV5S80OWKTUY36T/qts/186_.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 2 HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3323
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 3
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/NRNQEXT9DGXD0O6/FV5S80OWKTUY36T/qts/187_.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 3
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3324
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN 4
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3325
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DAZN LaLiga
+http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/9UXT733PEUJUT1X/DK29ZN638Y44FK2/qts/91_.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Real Madrid TV
 http://51.222.25.50:25461/live/T3XgaLFVJb/cWNfRm6qAP/2974.m3u8
