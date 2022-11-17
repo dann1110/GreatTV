@@ -435,7 +435,7 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="Cine",de pelicula
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=335&f=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="Cine",de pelicula FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDcJD4V/De-Pelicula.png" group-title="Cine",de pelicula
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/69
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cgfn6KQ/De-Pelicula-Plus.png" group-title="Cine",dp Plus
@@ -446,9 +446,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xj7kQ5z/Golden.png" group-title="Cine",Golden HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/757
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xj7kQ5z/Golden.png" group-title="Cine",Golden HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3301
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09X39Hg/Golden-Plus.png" group-title="Cine",Golden Plus
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=122&f=HLSAD&f=.m3u8
@@ -465,31 +462,28 @@ http://s2.smartersapp.net/play/XphQ_uI_Xhxxig7Y7wgHqJ-jRXpP-roJTeOuVkxG4Fo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x52nNFr/Paramount-Network.png" group-title="Cine",Paramount Network
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1726&f=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x52nNFr/Paramount-Network.png" group-title="Cine",Paramount Network FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x52nNFr/Paramount-Network.png" group-title="Cine",Paramount Network HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1141
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nkg2xs/TNT.png" group-title="Cine",TNT
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=126&f=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5nkg2xs/TNT.png" group-title="Cine",TNT FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nkg2xs/TNT.png" group-title="Cine",TNT HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/156
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYqRG8j/Cine-Canal.png" group-title="Cine",CineCanal
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=149&f=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYqRG8j/Cine-Canal.png" group-title="Cine",CineCanal HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/64
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJXNzmX/Cinemax.png" group-title="Cine",Cinemax
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=158&f=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJXNzmX/Cinemax.png" group-title="Cine",Cinemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJXNzmX/Cinemax.png" group-title="Cine",Cinemax HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/66
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBSGJtb/Space.png" group-title="Cine",Space
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=129&f=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBSGJtb/Space.png" group-title="Cine",Space FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBSGJtb/Space.png" group-title="Cine",Space
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/144
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png" group-title="Cine",AMC
@@ -522,17 +516,17 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6pcFPF/Film-Arts.png" group-title="Cine",Film&Arts
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=137&f=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s6pcFPF/Film-Arts.png" group-title="Cine",Film&Arts FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6pcFPF/Film-Arts.png" group-title="Cine",Film&Arts Sur HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/896
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s6pcFPF/Film-Arts.png" group-title="Cine",Film&Arts FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6pcFPF/Film-Arts.png" group-title="Cine",Film&Arts Sur HD
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/1152
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBkTJWF/DHE.png" group-title="Cine",DHE
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YZypqTz/Cine-Latino.png" group-title="Cine",Cine Latino
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/65
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1TF9GcD/Multipremier.png" group-title="Cine",Multipremier
 
@@ -610,7 +604,7 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/756
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=140
 
 #EXTINF:-1 tvg-logo="" group-title="Cine",Cine Sony
-http://latvonlive.com:33612/play/fl_4kkKz7XAIcf-Tb9RqNS1kUkS_x2dH_0O8YUUBDys/ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN FHD
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjkz66hj2chpzvab8cp8xtatvh2kkt2hzhack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1049&f=HLSAD&f=.m3u8
