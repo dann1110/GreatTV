@@ -771,8 +771,14 @@ https://rs2.ht7nng15.online/s554672/cred.m3u8?id=146
 #EXTINF:-1 tvg-logo="https://i.ibb.co/68CHYfF/Direc-TV-Sports.png" group-title="Deportes",Directv Sports Plus HD
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qxhkqMq/Direc-TV-Sports.png" group-title="Deportes",Directv Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxhkqMq/Direc-TV-Sports.png" group-title="Deportes",D Sports
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3219
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxhkqMq/Direc-TV-Sports.png" group-title="Deportes",D Sports
+https://rs2.ht7nng15.online/s554672/rpl1.ts?id=187
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxhkqMq/Direc-TV-Sports.png" group-title="Deportes",D Sports
+https://rs2.ht7nng15.online/s554672/rpl1.ts?id=188
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/19PyJkn/Direc-TV-Sports-2.png" group-title="Deportes",Directv Sports 2
 http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/YNN5PCGKF6BYDDJ/8NDJJY3Z0G1E07X/qts/61_.m3u8
