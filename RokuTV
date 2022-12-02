@@ -1,18 +1,16 @@
 #EXTM3U
 
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75
+#EXTINF:-1 ,Star Channel
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids
-http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/WV69K7RCB9M0FD5/O3BHDEO1QE2QRGT/qts/m_41_1_.m3u8
+#EXTINF:-1 ,Nick
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
-http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/71C58NCNJX6Z7V7/8RL8EFJQ8BE7W6Y/qts/m_117_1_.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
-http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/O9HFFUM3WC4YCS0/HZTRCGBBBTPR5TX/qts/m_20_1_.m3u8
+#EXTINF:-1 ,Disney Channel
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel
-http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/RIULV0GI1FXBFI7/9XTQLEO9BU2EWV7/qts/m_46_1_.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bHtRRfY/Cartoonito.png" group-title="Infantil",Cartoonito
-http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/IDUYX5OGYZTC58Y/5B91RYLO126SSZ8/qts/m_14_1_.m3u8
+#EXTINF:-1 ,TeenNick
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/PROFILE05.m3u8
