@@ -63,6 +63,62 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u8
 #EXTINF:-1 ,Star Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 
+#EXTINF:-1 ,Sony Channel
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+
+#EXTINF:-1 ,Warner Channel
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+
+#EXTINF:-1 ,E!
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
+
+#EXTINF:-1 ,FX
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+
+#EXTINF:-1 ,Universal TV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
+
+#EXTINF:-1 ,SyFy
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
+
+#EXTINF:-1 ,A&E
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
+
+#EXTINF:-1 ,Telemundo Internacional
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE03.m3u8
+
+#EXTINF:-1 ,bitMe
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE03.m3u8
+
+#EXTINF:-1 ,H&H Discovery
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
+
+#EXTINF:-1 ,Hola TV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
+
+#EXTINF:-1 ,Tlnovelas
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+
+#EXTINF:-1 ,TNT Series
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
+
+#EXTINF:-1 ,El Gourmet
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
+
+#EXTINF:-1 ,TBS
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+
+#EXTINF:-1 ,Glitz
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
+
+#EXTINF:-1 ,Distrito Comedia
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+
+#EXTINF:-1 ,TruTV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
+
+#EXTINF:-1 ,
+
 #EXTINF:-1 ,Nick
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
 
