@@ -40,40 +40,19 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6y5qjB4/adn40.png" group-title="México",Adn 40
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJxXRpd/Azteca-Uno.png" group-title="México",Azteca Uno -2Hrs
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1870/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJxXRpd/Azteca-Uno.png" group-title="México",Azteca Uno -2Hrs
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3759
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="México",Las Estrellas -2Hrs
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1888/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="México",Las Estrellas -2Hrs HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3758
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9xN0MB/Clic.png" group-title="México",Clic
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL223/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ydKjRGJ/Corazon.png" group-title="México",Corazon
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL70/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ydKjRGJ/Corazon.png" group-title="México",Corazon HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/51
-
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
+}
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pK36XRY/Mundo.png" group-title="México",Mundo
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL84/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK36XRY/Mundo.png" group-title="México",Mundo FHD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/52
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBTXG5N/Cinema.png" group-title="México",Cinema
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1787/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBTXG5N/Cinema.png" group-title="México",Cinema HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/50
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bsj8MH8/Mega-Noticias-MX.png" group-title="México",MegaNoticias MX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2156/PROFILE03.m3u8
@@ -81,8 +60,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2156/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tJfJ0P7/Milenio-TV.png" group-title="México",Milenio TV HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1250/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tJfJ0P7/Milenio-TV.png" group-title="México",Milenio TV
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1252/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pt4TJ3D/Teleformula.png" group-title="México",Teleformula
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL32/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL46/PROFILE03.m3u8
