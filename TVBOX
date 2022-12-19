@@ -418,9 +418,6 @@ https://stream.wowlymedia.com/hls/stream/index.m3u8?PlaylistM3UCL
 https://stream.wowlymedia.com/hls/kanade/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzdP3M6/Dreiko-TV.png" group-title="Infantil",Dreiko TV HD
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="Infantil",Dreiko TV
 https://cloudvideo.servers10.com:8081/8242/rewind-3600.m3u8?DVR&PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyx0BhH/Latino-Kids.png" group-title="Infantil",Latino Kids
