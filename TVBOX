@@ -393,8 +393,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kH9B0Hz/AZTV.png" group-title="Infantil",AZTV
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Prg0cgz/Aniplus.png" group-title="Infantil",Aniplus
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Infantil",AnimeStation
+https://video.hardlimit.com/static/streaming-playlists/hls/0bd17f03-7c7c-4f08-87a1-353a8ce2cb08/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/298f449b97c123292ec4d3a73ef1cfe5.png" group-title="Infantil",Cloud TV Plus
 https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8?PlaylistM3UCL
@@ -419,6 +419,9 @@ https://stream.wowlymedia.com/hls/kanade/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzdP3M6/Dreiko-TV.png" group-title="Infantil",Dreiko TV HD
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="Infantil",Dreiko TV
+https://cloudvideo.servers10.com:8081/8242/rewind-3600.m3u8?DVR&PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyx0BhH/Latino-Kids.png" group-title="Infantil",Latino Kids
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
