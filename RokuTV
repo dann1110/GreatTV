@@ -206,5 +206,6 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="Infantil",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,ESPN SUR  HD
+#EXTINF:-1 group-title="Deportes",ESPN SUR  HD
 http://flash.shortgod.com/perut39/tv5.php?id=37814
+
