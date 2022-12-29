@@ -563,7 +563,7 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 https://stream.wowlymedia.com/hls/stream/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yf7KKnK/Kanade.png" group-title="Infantil",Kanade
-https://stream.wowlymedia.com/hls/kanade/index.m3u8?PlaylistM3UCL
+https://cablemor.andremor.dev/live/vozpopuli/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzdP3M6/Dreiko-TV.png" group-title="Infantil",Dreiko TV HD
 https://cloudvideo.servers10.com:8081/8242/rewind-3600.m3u8?DVR&PlaylistM3UCL
