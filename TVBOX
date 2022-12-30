@@ -99,32 +99,62 @@ http://flash.shortgod.com/perut39/tv5.php?id=30369
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel
+http://flash.shortgod.com/perut39/tv5.php?id=16581
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel HD 
+http://flash.shortgod.com/perut39/tv5.php?id=3327
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/143
+http://flash.shortgod.com/perut39/tv5.php?id=30367
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZY90v33/Unicable.png" group-title="Entretenimiento",Unicable
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL66/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZY90v33/Unicable.png" group-title="Entretenimiento",Unicable
+http://flash.shortgod.com/perut39/tv5.php?id=3066
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZY90v33/Unicable.png" group-title="Entretenimiento",Unicable HD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/173
+http://flash.shortgod.com/perut39/tv5.php?id=30385
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel FHD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/178
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
+http://flash.shortgod.com/perut39/tv5.php?id=16607
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
+http://flash.shortgod.com/perut39/tv5.php?id=30387
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel HD
+http://flash.shortgod.com/perut39/tv5.php?id=3067
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E! Sur
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/86
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
+http://flash.shortgod.com/perut39/tv5.php?id=16543
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
+http://flash.shortgod.com/perut39/tv5.php?id=3068
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E! HD
+http://flash.shortgod.com/perut39/tv5.php?id=30360
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E! HD
+http://flash.shortgod.com/perut39/tv5.php?id=22694
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL60/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX FHD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/111
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
+http://flash.shortgod.com/perut39/tv5.php?id=16553
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
+http://flash.shortgod.com/perut39/tv5.php?id=3102
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX HD
+http://flash.shortgod.com/perut39/tv5.php?id=30339
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL57/PROFILE03.m3u8
@@ -304,7 +334,13 @@ http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/76
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL331/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/765
+http://flash.shortgod.com/perut39/tv5.php?id=16579
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
+http://flash.shortgod.com/perut39/tv5.php?id=3129
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick HD
+http://flash.shortgod.com/perut39/tv5.php?id=30365
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL112/PROFILE03.m3u8
