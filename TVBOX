@@ -85,10 +85,16 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/97
+http://flash.shortgod.com/perut39/tv5.php?id=16585
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel Sur FHD
-http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3475
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
+http://flash.shortgod.com/perut39/tv5.php?id=26287
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel HD
+http://flash.shortgod.com/perut39/tv5.php?id=2449
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel HD
+http://flash.shortgod.com/perut39/tv5.php?id=30369
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
