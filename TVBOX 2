@@ -1421,14 +1421,50 @@ https://linear-468.frequency.stream/468/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ViX",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 2
-https://linear-441.frequency.stream/441/hls/master/playlist.m3u8
+#EXTINF:-1,Vix+ 1 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159261
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 3
-https://linear-442.frequency.stream/442/hls/master/playlist.m3u8
+#EXTINF:-1,Vix+ 2 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159262
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 4
-https://linear-489.frequency.stream/489/hls/master/playlist.m3u8
+#EXTINF:-1,Vix+ 3 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159263
 
-#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 5
-https://linear-490.frequency.stream/490/hls/master/playlist.m3u8
+#EXTINF:-1,Vix+ 4 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159264
+
+#EXTINF:-1,Vix+ 5 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159265
+
+#EXTINF:-1,Vix+ 6 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159266
+
+#EXTINF:-1,Vix+ 7 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159267
+
+#EXTINF:-1,Vix+ 8 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159268
+
+#EXTINF:-1,Vix+ 9 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159269
+
+#EXTINF:-1,Vix+ 10 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159270
+
+#EXTINF:-1,Vix+ 11 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159271
+
+#EXTINF:-1,Vix+ 12 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159272
+
+#EXTINF:-1,Vix+ 13 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159273
+
+#EXTINF:-1,Vix+ 14 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159274
+
+#EXTINF:-1,Vix+ 15 (FHD)
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159275
+
+#EXTINF:-1,Zona Tudn
+http://iptvglobal.site:25461/Jonathan2023/Jonathan2023/159276
