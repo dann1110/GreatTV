@@ -232,5 +232,8 @@ http://flash.shortgod.com/shortgodfl/tv5.php?id=53540
 #EXTINF:-1 ,Fox Sports Premium HD
 http://flash.shortgod.com/shortgodfl/tv5.php?id=53549
 
-#EXTINF:-1 ,Afizzionados
+#EXTINF:-1 ,Afizzionados FHD
 http://tv.nousiptv.com:8080/BenjaminVarone/1731/8248
+
+#EXTINF:-1 ,Afizzionados
+https://flash.shortgod.com/bacle2023/tv2.php?id=30&token=ShortGod&file=.m3u8
