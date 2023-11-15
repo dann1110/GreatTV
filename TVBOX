@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJxXRpd/Azteca-Uno.png" group-title="México",Azteca Uno
-https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcp0/53
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/53
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="México",Las Estrellas
-https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcp0/57
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/57
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="México",Las Estrellas FHD
-https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcp0/164
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/164
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LkZDcXG/Imagen-TV.png" group-title="México",Imagen Television
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE03.m3u8
@@ -327,8 +327,8 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Sur FHD
 http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/76
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL331/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick sd
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/110
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
 http://flash.shortgod.com/perut39/tv5.php?id=16579
