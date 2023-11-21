@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJxXRpd/Azteca-Uno.png" group-title="México",Azteca Uno
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJxXRpd/Azteca-Uno.png" group-title="México",Azteca Uno -1 hora
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/52
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="México",Las Estrellas
@@ -21,7 +21,7 @@ https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/65
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxZgT8t/Canal-6.png" group-title="México",Canal 6
-https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZhPCps/Azteca-7.png" group-title="México",Azteca 7
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/1
@@ -36,7 +36,7 @@ https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/1
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27Z4Q0M/Canal-Once.png" group-title="México",Canal Once
-
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/132
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qDZQhtc/Imagen-Multicast.png" group-title="México",Imagen Multicast
 
@@ -53,7 +53,10 @@ https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/127
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ydKjRGJ/Corazon.png" group-title="México",Corazon
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/122
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK36XRY/Mundo.png" group-title="México",Mundo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ydKjRGJ/Corazon.png" group-title="México",Corazon
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/198
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK36XRY/Mundo.png" group-title="México",Azteca Internacional
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/53
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBTXG5N/Cinema.png" group-title="México",Cinema
@@ -71,178 +74,184 @@ https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/54
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/42
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
-http://flash.shortgod.com/perut39/tv5.php?id=16585
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
-http://flash.shortgod.com/perut39/tv5.php?id=26287
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel HD
-http://flash.shortgod.com/perut39/tv5.php?id=2449
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel HD
-http://flash.shortgod.com/perut39/tv5.php?id=30369
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/68
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel
-http://flash.shortgod.com/perut39/tv5.php?id=16581
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/77
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel HD 
-http://flash.shortgod.com/perut39/tv5.php?id=3327
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel HD
-http://flash.shortgod.com/perut39/tv5.php?id=30367
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZY90v33/Unicable.png" group-title="Entretenimiento",Unicable
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL66/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/63
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZY90v33/Unicable.png" group-title="Entretenimiento",Unicable
-http://flash.shortgod.com/perut39/tv5.php?id=3066
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZY90v33/Unicable.png" group-title="Entretenimiento",Unicable HD
-http://flash.shortgod.com/perut39/tv5.php?id=30385
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/40
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
-http://flash.shortgod.com/perut39/tv5.php?id=16607
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/341
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
-http://flash.shortgod.com/perut39/tv5.php?id=30387
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel HD
-http://flash.shortgod.com/perut39/tv5.php?id=3067
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE03.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
-http://flash.shortgod.com/perut39/tv5.php?id=16543
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
-http://flash.shortgod.com/perut39/tv5.php?id=3068
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E! HD
-http://flash.shortgod.com/perut39/tv5.php?id=30360
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E! HD
-http://flash.shortgod.com/perut39/tv5.php?id=22694
+    
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL60/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/70
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
-http://flash.shortgod.com/perut39/tv5.php?id=16553
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
-http://flash.shortgod.com/perut39/tv5.php?id=3102
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX HD
-http://flash.shortgod.com/perut39/tv5.php?id=30339
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL57/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/79
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pPcG25q/SyFy.png" group-title="Entretenimiento",SyFy
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL59/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/195
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPcG25q/SyFy.png" group-title="Entretenimiento",USA
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/58
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPcG25q/SyFy.png" group-title="Entretenimiento",USA
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/176
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5JTGbf/Discovery-ID.png" group-title="Entretenimiento",Discovery ID
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/98
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5JTGbf/Discovery-ID.png" group-title="Entretenimiento",Discovery ID
-http://51.222.25.50:25461/live/cVvkPUQxu5/sEaVt98khk/75.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6tpD4ML/TLC-Discovery.png" group-title="Entretenimiento",TLC Discovery
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2380/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/100
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6tpD4ML/TLC-Discovery.png" group-title="Entretenimiento",TLC Discovery HD
-http://51.222.25.50:25461/live/cVvkPUQxu5/sEaVt98khk/79.m3u
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL62/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/99
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E Sur HD
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/38
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN
-
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/78
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN HD
 http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/47
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R9kzx2K/Telemundo-Internacional.png" group-title="Entretenimiento",Telemundo Internacional FHD
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/345
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8jvt2s/BitMe.png" group-title="Entretenimiento",bitMe
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/131
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR3GZfk/Discovery-home-and-health.png" group-title="Entretenimiento",h&h Discovery
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL96/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/97
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR3GZfk/Discovery-home-and-health.png" group-title="Entretenimiento",h&h Discovery
-http://51.222.25.50:25461/live/cVvkPUQxu5/sEaVt98khk/74.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR3GZfk/Discovery-home-and-health.png" group-title="Entretenimiento",h&h Discovery
-http://51.222.25.50:25461/live/cVvkPUQxu5/sEaVt98khk/3135.m3u8
+
 
 #EXTINF:-1 tvg-id="¡Hola! TV" tvg-logo="https://i.ibb.co/pWHwHF2/Hola-TV.jpg" group-title="Entretenimiento",HOLA TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1734/PROFILE03.m3u8
+
 
 #EXTINF:-1 tvg-id="¡Hola! TV" tvg-logo="https://i.ibb.co/pWHwHF2/Hola-TV.jpg" group-title="Entretenimiento",HOLA TV FHD
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/124
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nKN7Rt/Tlnovelas.png" group-title="Entretenimiento",TlNovelas
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL83/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/56
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nKN7Rt/Tlnovelas.png" group-title="Entretenimiento",TlNovelas
-http://51.222.25.50:25461/live/cVvkPUQxu5/sEaVt98khk/155.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HBmqnvf/TNT-Series.png" group-title="Entretenimiento",TNT Series
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL71/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/76
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HBmqnvf/TNT-Series.png" group-title="Entretenimiento",TNT Series
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/157
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jkss3y8/H2.png" group-title="Entretenimiento",H2
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/122
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/50
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0R6fC5/El-Gourmet.png" group-title="Entretenimiento",El Gourmet
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL74/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/106
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y0R6fC5/El-Gourmet.png" group-title="Entretenimiento",El Gourmet Sur HD
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/88
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQbx4ch/MasChic.png" group-title="Entretenimiento",MasChic
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1842/PROFILE03.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptVWGP/TBS.png" group-title="Entretenimiento",TBS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL81/PROFILE03.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tptVWGP/TBS.png" group-title="Entretenimiento",TBS HD
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/150
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9G9tmw2/Glitz.png" group-title="Entretenimiento",Glitz
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL76/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/339
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9G9tmw2/Glitz.png" group-title="Entretenimiento",Glitz
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/114
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bys1BnC/Distrito-Comedia.png" group-title="Entretenimiento",Distrito Comedia
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL78/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/47
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bys1BnC/Distrito-Comedia.png" group-title="Entretenimiento",Distrito Comedia FHD
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/85
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7JXdTcY/Comedy-Central.png" group-title="Entretenimiento",Comedy Central
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL340/PROFILE03.m3u8
+https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/91
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPTNvYb/TruTV.png" group-title="Entretenimiento",TruTV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL79/PROFILE03.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPTNvYb/TruTV.png" group-title="Entretenimiento",TruTV
 
