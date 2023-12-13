@@ -334,11 +334,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Sur FHD
 http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/76
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nickelodeon 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nickelodeon Sur
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/110
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/30365.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nickelodeon
+http://23.227.145.10:3980/R3$3202/3R1W3$32/30365_.m3u8?token=rUk1fvp5Amp2HAx4OzO5ng&user=1702436961&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
 http://flash.shortgod.com/perut39/tv5.php?id=3129
