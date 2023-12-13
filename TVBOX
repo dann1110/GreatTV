@@ -196,6 +196,12 @@ https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/345
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y8jvt2s/BitMe.png" group-title="Entretenimiento",bitMe
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/131
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8jvt2s/BitMe.png" group-title="Entretenimiento",bitMe
+http://79.143.17.54:3980/R3$3202/3R1W3$32/114141_.m3u8?token=n-HuP9eezNwVcU-OJfQpGA&user=1702438472&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y8jvt2s/BitMe.png" group-title="Entretenimiento",bitMe
+http://79.143.17.54:3980/R3$3202/3R1W3$32/114140_.m3u8?token=HziHPDSeF9c-PSojZGkNqQ&user=1702438595&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wR3GZfk/Discovery-home-and-health.png" group-title="Entretenimiento",h&h Discovery
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/97
 
@@ -329,34 +335,43 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL101/PROFILE03.m3u8
 http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/81
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+http://192.119.9.194:3980/R3$3202/3R1W3$32/37976_.m3u8?token=g06TQkxFSur63bg7p4V1ww&user=1702438868&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids Sur FHD
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/76
+http://192.119.9.194:3980/R3$3202/3R1W3$32/16555_.m3u8?token=gxjL2qgxN1GPqLsLj6M88A&user=1702438948&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nmSbNSM/Discovery-Kids.png" group-title="Infantil",Discovery Kids
+http://209.205.221.74:3980/R3$3202/3R1W3$32/3315_.m3u8?token=UC-RyVepyZu4mhzON6xrtw&user=1702439000&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nickelodeon Sur
 https://live.telelatinohd.com:25463/LizardTV/9c3LcSvvgcpQ/110
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nickelodeon FHD
 http://23.227.145.10:3980/R3$3202/3R1W3$32/30365_.m3u8?token=rUk1fvp5Amp2HAx4OzO5ng&user=1702436961&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
+http://192.119.9.194:3980/R3$3202/3R1W3$32/16579_.m3u8?token=R0D1zskjf5otDOZfC8YsWw&user=1702438139&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnNwY2J/Nick.png" group-title="Infantil",Nick HD
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL112/PROFILE03.m3u8
+http://79.143.16.194:3980/R3$3202/3R1W3$32/40841_.m3u8?token=r3ByOWnMXix9dnghRY4PxQ&user=1702438655&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network HD
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/63
+http://192.119.9.194:3980/R3$3202/3R1W3$32/16523_.m3u8?token=MyARxVH-2YgN5bdG5JgF_w&user=1702438727&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
+http://108.181.135.34:3980/R3$3202/3R1W3$32/40842_.m3u8?token=TIAMcBI3JeKfpOSHg1pUMg&user=1702438809&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+http://79.143.17.54:3980/R3$3202/3R1W3$32/30327_.m3u8?token=jG6auJ0rH5jA4LohTYhMUA&user=1702439052&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel Sur
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/82
+http://192.119.9.194:3980/R3$3202/3R1W3$32/16539_.m3u8?token=tp7yFLSuOm5JFLuHn4smRg&user=1702439114&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel
+http://209.205.221.74:3980/R3$3202/3R1W3$32/3126_.m3u8?token=5o0x9hLScqa4DjOHI1D5CQ&user=1702439178&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHtRRfY/Cartoonito.png" group-title="Infantil",Cartoonito
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL115/PROFILE03.m3u8
@@ -365,28 +380,40 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL115/PROFILE03.m3u8
 http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/58
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/02L7nPb/BabyTV.png" group-title="Infantil",Baby TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE03.m3u8
+http://79.143.17.54:3980/R3$3202/3R1W3$32/30311_.m3u8?token=Iha85ZooBGyv9_Way87D1w&user=1702438419&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL117/PROFILE03.m3u8
+http://23.227.145.10:3980/R3$3202/3R1W3$32/38497_.m3u8?token=5riyt12Ien4yZHD3htN9Ag&user=1702439475&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr HD
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/137
+http://23.227.145.10:3980/R3$3202/3R1W3$32/38679_.m3u8?token=iXeMvc6caN4ZVEC5Q9wfPg&user=1702439533&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+http://23.227.145.10:3980/R3$3202/3R1W3$32/120910_.m3u8?token=OnELf__2NA2BRXGVMqdqqw&user=1702439634&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+http://209.205.221.74:3980/R3$3202/3R1W3$32/3130_.m3u8?token=uApaisRmgY8nhO2WqaqIGA&user=1702439681&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWrqVby/Baby-First.png" group-title="Infantil",Baby First
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWrqVby/Baby-First.png" group-title="Infantil",Baby First
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/2938
+http://198.147.26.242:3980/R3$3202/3R1W3$32/1463_.m3u8?token=BvHOqqiuv_W4IGh8Pl7BgA&user=1702438311&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL118/PROFILE03.m3u8
+http://23.227.145.10:3980/R3$3202/3R1W3$32/50006_.m3u8?token=ep5bNLAIZLXCquR0PS-Kxg&user=1702439242&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior
+http://23.227.145.10:3980/R3$3202/3R1W3$32/30328_.m3u8?token=Gv4Xz09qFJiRNvCwlRpnoA&user=1702439291&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior
+http://79.143.17.186:3980/R3$3202/3R1W3$32/16540_.m3u8?token=as7uZq_14FYUaK4_cfJiMQ&user=1702439347&key=74b3b5adaa8111617dd4e486214cf8f70190562d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior
+http://79.143.17.54:3980/R3$3202/3R1W3$32/3127_.m3u8?token=eqZK3Tc0Ww5rMOgffIaSWQ&user=1702439404&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8HrcVT/Tooncast.png" group-title="Infantil",Tooncast
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL108/PROFILE03.m3u8
+http://79.143.17.186:3980/R3$3202/3R1W3$32/30382_.m3u8?token=_a1Qbr2841ddmn6E2EpQ8A&user=1702439742&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8HrcVT/Tooncast.png" group-title="Infantil",Tooncast
-http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/158
+http://79.143.17.54:3980/R3$3202/3R1W3$32/13781_.m3u8?token=KB3jkGgsOf2FFkhhrhRZLQ&user=1702439793&key=74b3b5adaa8111617dd4e486214cf8f70190562d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7bknc/Nick-Music.png" group-title="Infantil",NickMusic
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1708/PROFILE03.m3u8
