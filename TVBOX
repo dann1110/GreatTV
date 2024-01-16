@@ -688,6 +688,9 @@ http://rs2.ht7nng15.online/1YAOKQOPCRIT09X4BMYY/SA9O4GW9K6RRU15/GEVSW4KX101N2XI/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYwRMR4/Afizzionados.png" group-title="Deportes",Afizzionados HD
 http://51.222.25.50:25461/cVvkPUQxu5/sEaVt98khk/43
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYwRMR4/Afizzionados.png" group-title="Deportes",Afizzionados
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/53495.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1yTNLG/ESPN-Extra.png" group-title="Deportes",ESPN Extra
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
 
