@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
-http:45.166.92.22:58001/play/a00p/index.m3u8
+http://45.166.92.22:58001/play/a00p/index.m3u8
