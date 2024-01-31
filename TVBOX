@@ -20,6 +20,9 @@ http://45.166.92.22:58001/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
 http://45.166.92.22:58001/play/a00s/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w720rvL/Universal-TV.png" group-title="Entretenimiento",Universal TV
+http://pe.shortgod.com/godw/tv4.php?ch=1461&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5JTGbf/Discovery-ID.png" group-title="Entretenimiento",Discovery ID
 http://45.166.92.22:58001/play/a01s/index.m3u8
 
@@ -89,6 +92,18 @@ http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
 http://pe.shortgod.com/godw/tv3.php?id=28028
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
+http://pe.shortgod.com/godw/tv4.php?ch=38497&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
+http://pe.shortgod.com/godw/tv4.php?ch=30365&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
+http://pe.shortgod.com/godw/tv4.php?ch=16579&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
+http://pe.shortgod.com/godw/tv4.php?ch=3129&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
 http://45.166.92.22:58001/play/a03y/index.m3u8
 
@@ -101,8 +116,29 @@ http://45.166.92.22:58001/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
 http://pe.shortgod.com/godw/tv3.php?id=28027
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+http://pe.shortgod.com/godw/tv4.php?ch=38679&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+http://pe.shortgod.com/godw/tv4.php?ch=3130&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+http://pe.shortgod.com/godw/tv4.php?ch=40852&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior
 http://45.166.92.22:58001/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
+http://pe.shortgod.com/godw/tv4.php?ch=78271&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
+http://pe.shortgod.com/godw/tv4.php?ch=40845&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
+http://pe.shortgod.com/godw/tv4.php?ch=40848&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
+http://pe.shortgod.com/godw/tv4.php?ch=40854&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mF5W8hZ/Sony-Movies.png" group-title="Cine",Sony Movies
 http://45.166.92.22:58001/play/a00u/index.m3u8
