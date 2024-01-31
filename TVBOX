@@ -248,6 +248,12 @@ http://pe.shortgod.com/godw/tv4.php?ch=1638&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg
 http://pe.shortgod.com/godw/tv4.php?ch=82423&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg
+http://pe.shortgod.com/godw/tv4.php?ch=37828&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XFfPKxP/Fox-Sports.png" group-title="Deportes",Fox Sports Arg
+http://pe.shortgod.com/godw/tv4.php?ch=37830&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BjWZXKp/Fox-Sports-2.png" group-title="Deportes",Fox Sports 2 Arg
 http://pe.shortgod.com/godw/tv4.php?ch=37829&f=.m3u8
 
