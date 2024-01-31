@@ -203,6 +203,30 @@ http://45.166.92.22:58001/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PgGkv8r/Universal-Reality.png" group-title="Premium",Universal Reality
 http://45.166.92.22:58001/play/a05p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN
+http://pe.shortgod.com/godw/tv4.php?ch=50394&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN
+http://pe.shortgod.com/godw/tv4.php?ch=38875&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN
+http://pe.shortgod.com/godw/tv4.php?ch=32157&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN
+http://pe.shortgod.com/godw/tv4.php?ch=38876&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN USA
+http://pe.shortgod.com/godw/tv4.php?ch=30378&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN USA
+http://pe.shortgod.com/godw/tv4.php?ch=34280&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN USA
+http://pe.shortgod.com/godw/tv4.php?ch=34009&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN USA
+http://pe.shortgod.com/godw/tv4.php?ch=16593&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hLCQD0X/ESPN.png" group-title="Deportes",ESPN
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
