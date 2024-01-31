@@ -8,7 +8,7 @@ http://45.166.92.22:58001/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
 http://45.166.92.22:58001/play/a048/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcfRT0G/Sony-Channel.png" group-title="Entretenimiento",Sony Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F7FCdfY/Sony-Channel.png" group-title="Entretenimiento",Sony Channel
 http://45.166.92.22:58001/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C01L2BB/Warner-Channel.png" group-title="Entretenimiento",Warner Channel
@@ -179,16 +179,16 @@ http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YZypqTz/Cine-Latino.png" group-title="Cine",Cine Latino
 http://45.166.92.22:58001/play/a02c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fs8z780/HBO2.png" group-title="Premium",HBO 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcST0PX/HBO-2.png" group-title="Premium",HBO 2
 http://45.166.92.22:58001/play/a03t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FHT9VJJ/HBO.png" group-title="Premium",HBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pmn1f4Y/HBO.png" group-title="Premium",HBO
 http://45.166.92.22:58001/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9jCC1V/HBO-Plus.png" group-title="Premium",HBO Plus
 http://45.166.92.22:58001/play/a03u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qswp4FN/HBO-XTREME.png" group-title="Premium",HBO Xtreme
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g6zSmWY/HBO-Xtreme.png" group-title="Premium",HBO Xtreme
 http://45.166.92.22:58001/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/stJ0HFz/Universal-Premiere.png" group-title="Premium",Universal Premiere
