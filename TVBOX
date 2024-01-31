@@ -98,6 +98,9 @@ http://45.166.92.22:58001/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHtRRfY/Cartoonito.png" group-title="Infantil",Cartoonito
 http://45.166.92.22:58001/play/a02u/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+http://pe.shortgod.com/godw/tv3.php?id=28027
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D4HRckh/Disney-Junior.png" group-title="Infantil",Disney Junior
 http://45.166.92.22:58001/play/a02v/index.m3u8
 
