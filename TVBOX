@@ -1,4 +1,27 @@
 #EXTM3U
 
+http://pe.shortgod.com/2025/tv2.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1RpK1S/Corazon.png" group-title="México",Corazon
+http://45.166.92.22:58001/play/a02z/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN
+http://45.166.92.22:58001/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c8y7cRL/Animal-Planet.png" group-title="Cultura",Animal Planet
+http://45.166.92.22:58001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
+http://45.166.92.22:58001/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bHtRRfY/Cartoonito.png" group-title="Infantil",Cartoonito
+http://45.166.92.22:58001/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYqRG8j/Cine-Canal.png" group-title="Cine",CineCanal
+http://45.166.92.22:58001/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png" group-title="Cine",AMC
+http://45.166.92.22:58001/play/a00q/index.m3u8
