@@ -227,13 +227,13 @@ http://pe.shortgod.com/godw/tv4.php?ch=34009&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN USA
 http://pe.shortgod.com/godw/tv4.php?ch=16593&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hLCQD0X/ESPN.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKtsD5H/ESPN.png" group-title="Deportes",ESPN
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rk2F01D/ESPN-2.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WsyDJM6/ESPN-2.png" group-title="Deportes",ESPN 2
 http://45.166.92.22:58001/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZhHvJ9/ESPN-3.png" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5j8RkbQ/ESPN-3.png" group-title="Deportes",ESPN 3
 http://45.166.92.22:58001/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0MvYLn/ESPN-2-Sur.png" group-title="Deportes",ESPN 2 Sur
