@@ -129,6 +129,9 @@ http://pe.shortgod.com/godw/tv4.php?ch=40852&f=.m3u8
 http://45.166.92.22:58001/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
+http://161.132.243.192:50001/play/a047/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
 http://pe.shortgod.com/godw/tv4.php?ch=78271&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
