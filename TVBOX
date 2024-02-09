@@ -155,16 +155,16 @@ http://pe.shortgod.com/godw/tv3.php?id=27992
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHtRRfY/Cartoonito.png" group-title="Infantil",Cartoonito
 http://45.166.92.22:58001/play/a02u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4WMjwv/Nick-Jr.png" group-title="Infantil",Nick Jr
 http://pe.shortgod.com/godw/tv3.php?id=28027
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4WMjwv/Nick-Jr.png" group-title="Infantil",Nick Jr
 http://pe.shortgod.com/godw/tv4.php?ch=38679&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4WMjwv/Nick-Jr.png" group-title="Infantil",Nick Jr
 http://pe.shortgod.com/godw/tv4.php?ch=3130&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c3WtgZx/Nick-Jr.png" group-title="Infantil",Nick Jr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4WMjwv/Nick-Jr.png" group-title="Infantil",Nick Jr
 http://pe.shortgod.com/godw/tv4.php?ch=40852&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GWrqVby/Baby-First.png" group-title="Infantil",Baby First MX
