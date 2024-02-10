@@ -5,6 +5,9 @@ http://pe.shortgod.com/2025/tv2.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="México",Las Estrellas 
 http://pe.shortgod.com/godw/tv3.php?id=27976
 
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1607142868473.png" group-title="México",A Mas
+http://pe.shortgod.com/godw/tv4.php?ch=2134&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q1RpK1S/Corazon.png" group-title="México",Corazon
 http://45.166.92.22:58001/play/a02z/index.m3u8
 
@@ -19,6 +22,9 @@ http://45.166.92.22:58001/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Entretenimiento",E!
 http://45.166.92.22:58001/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KVC50vC/E.png" group-title="Latinos",E! HD
+http://pe.shortgod.com/godw/tv4.php?ch=37982&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0T9KG7/FX.png" group-title="Entretenimiento",FX
 http://45.166.92.22:58001/play/a00s/index.m3u8
@@ -40,6 +46,18 @@ http://pe.shortgod.com/godw/tv3.php?id=27969
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/A%26E.png" group-title="Entretenimiento",A&E FHD
+http://pe.shortgod.com/godw/tv4.php?ch=30300&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
+http://pe.shortgod.com/godw/tv4.php?ch=37973&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/A%26E.png" group-title="Entretenimiento",A&E
+http://pe.shortgod.com/godw/tv4.php?ch=16503&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1606189925355.png" group-title="Entretenimiento",A&E
+http://pe.shortgod.com/godw/tv4.php?ch=22698&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN MX
 http://pe.shortgod.com/godw/tv3.php?id=27972
