@@ -5,11 +5,23 @@ http://pe.shortgod.com/2025/tv2.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kr4GJwJ/Las-Estrellas.png" group-title="México",Las Estrellas 
 http://pe.shortgod.com/godw/tv3.php?id=27976
 
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1607142868473.png" group-title="México",A Mas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CMYBVRf/AMAS.png" group-title="México",A Mas
 http://pe.shortgod.com/godw/tv4.php?ch=2134&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CMYBVRf/AMAS.png" group-title="México",A Mas HD
+http://pe.shortgod.com/godw/tv4.php?ch=37800&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/40%20ADN.png" group-title="México",ADN 40 HD
+http://pe.shortgod.com/godw/tv4.php?ch=30301&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/40%20ADN.png" group-title="México",ADN 40
+http://pe.shortgod.com/godw/tv4.php?ch=2146&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q1RpK1S/Corazon.png" group-title="México",Corazon
 http://45.166.92.22:58001/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVjmmLm/Cinema.png" group-title="México",Cinema
+http://pe.shortgod.com/godw/tv4.php?ch=16507&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DM4fxGB/Star-Channel.png" group-title="Entretenimiento",Star Channel
 http://45.166.92.22:58001/play/a048/index.m3u8
@@ -56,7 +68,7 @@ http://pe.shortgod.com/godw/tv4.php?ch=37973&f=.m3u8
 #EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/A%26E.png" group-title="Entretenimiento",A&E
 http://pe.shortgod.com/godw/tv4.php?ch=16503&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://budtv-ultra.com/posters/1606189925355.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKZkK2w/A-amp-E.png" group-title="Entretenimiento",A&E
 http://pe.shortgod.com/godw/tv4.php?ch=22698&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN MX
@@ -149,6 +161,9 @@ http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
 http://pe.shortgod.com/godw/tv3.php?id=28028
 
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1633975014463.png" group-title="Infantil",Nick
+http://pe.shortgod.com/godw/tv4.php?ch=38497&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
 http://pe.shortgod.com/godw/tv4.php?ch=38497&f=.m3u8
 
@@ -161,11 +176,29 @@ http://pe.shortgod.com/godw/tv4.php?ch=16579&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLCWRNW/Nickelodeon.png" group-title="Infantil",Nick
 http://pe.shortgod.com/godw/tv4.php?ch=3129&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NICK.png" group-title="Infantil",NICK FHD
+http://pe.shortgod.com/godw/tv4.php?ch=30365&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NICK.png" group-title="Infantil",NICK
+http://pe.shortgod.com/godw/tv4.php?ch=16579&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NICK.png" group-title="Infantil",Nick
+http://pe.shortgod.com/godw/tv4.php?ch=3129&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network MX
 http://pe.shortgod.com/godw/tv3.php?id=27979
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXgdLpK/Cartoon-Network.png" group-title="Infantil",Cartoon Network
 http://45.166.92.22:58001/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CARTOON%20NETWORK.png" group-title="Infantil",Cartoon Network FHD
+http://pe.shortgod.com/godw/tv4.php?ch=30316&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CARTOON%20NETWORK.png" group-title="Infantil",Cartoon Network
+http://pe.shortgod.com/godw/tv4.php?ch=16523&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CARTOON%20NETWORK.png" group-title="Infantil",Cartoon Network
+http://pe.shortgod.com/godw/tv4.php?ch=3133&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vvB5g3/Disney-Channel.png" group-title="Infantil",Disney Channel
 http://45.166.92.22:58001/play/a04q/index.m3u8
@@ -195,6 +228,9 @@ http://pe.shortgod.com/godw/tv3.php?id=27974
 http://45.166.92.22:58001/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
+http://pe.shortgod.com/godw/tv4.php?ch=78271&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",Teennick
 http://pe.shortgod.com/godw/tv4.php?ch=78271&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vj05Qb4/Teen-Nick.png" group-title="Infantil",TeenNick
@@ -233,8 +269,17 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png" group-title="Cine",AMC MX
 http://pe.shortgod.com/godw/tv3.php?id=27970
 
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AMC.png" group-title="Cine",AMC FHD
+http://pe.shortgod.com/godw/tv4.php?ch=30303&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AMC.png" group-title="Cine",AMC FHD
+http://pe.shortgod.com/godw/tv4.php?ch=30304&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nyy8bKZ/AMC.png" group-title="Cine",AMC
 http://45.166.92.22:58001/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AMC.png" group-title="Cine",AMC
+http://pe.shortgod.com/godw/tv4.php?ch=3287&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sFK3wNB/Studio-Universal.png" group-title="Cine",Studio Universal
 http://45.166.92.22:58001/play/a00k/index.m3u8
@@ -311,6 +356,12 @@ http://pe.shortgod.com/godw/tv4.php?ch=34009&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkyX3Fy/TUDN.png" group-title="Deportes",TUDN USA
 http://pe.shortgod.com/godw/tv4.php?ch=16593&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1650297061468.png" group-title="Deportes",Afizzionados FHD
+http://pe.shortgod.com/godw/tv4.php?ch=53495&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1650297061468.png" group-title="Deportes",Afizzionados
+http://pe.shortgod.com/godw/tv4.php?ch=53496&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QKtsD5H/ESPN.png" group-title="Deportes",ESPN
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
@@ -319,6 +370,9 @@ http://45.166.92.22:58001/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5j8RkbQ/ESPN-3.png" group-title="Deportes",ESPN 3
 http://45.166.92.22:58001/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ADRELALINA%20SPORTS.png" group-title="Deportes",Adrenalina Sports HD
+http://pe.shortgod.com/godw/tv4.php?ch=3158&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN Sur
 https://pe.shortgod.com/godw/tv4.php?ch=37817&f=.m3u8
