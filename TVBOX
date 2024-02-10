@@ -44,6 +44,9 @@ http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN MX
 http://pe.shortgod.com/godw/tv3.php?id=27972
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN HD
+http://pe.shortgod.com/godw/tv4.php?ch=22697&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWWtpBX/AXN.png" group-title="Entretenimiento",AXN
 http://45.166.92.22:58001/play/a02n/index.m3u8
 
@@ -203,6 +206,9 @@ http://45.166.92.22:58001/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYqRG8j/Cine-Canal.png" group-title="Cine",CineCanal
 http://45.166.92.22:58001/play/a04b/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png" group-title="Cine",Cinemax HD
+http://pe.shortgod.com/godw/tv4.php?ch=81492&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBSGJtb/Space.png" group-title="Cine",Space
 http://45.166.92.22:58001/play/a02o/index.m3u8
 
@@ -229,6 +235,15 @@ http://45.166.92.22:58001/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YZypqTz/Cine-Latino.png" group-title="Cine",Cine Latino
 http://45.166.92.22:58001/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1642914373252.png" group-title="Cine",Cinema Dinamita HD
+http://pe.shortgod.com/godw/tv4.php?ch=44073&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1642914373252.png" group-title="Cine",Cinema Dinamita HD
+http://pe.shortgod.com/godw/tv4.php?ch=44072&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://panel.budtv-ultra.com/posters/1642914373252.png" group-title="Cine",Cinema Dinamita HD
+http://pe.shortgod.com/godw/tv4.php?ch=37740&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcST0PX/HBO-2.png" group-title="Premium",HBO 2
 http://45.166.92.22:58001/play/a03t/index.m3u8
