@@ -1,1 +1,1611 @@
-Hola
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="A&E" tvg-logo="http://images.mi.tv/channels/co_a-e-mundo-hd_m.png" group-title="TV PREMIUM",A&E
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27969&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="AMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2barQMrcS_dTth7MmqC1ku4c-1FzUfYXqymxUW6SCCOuUHpEf" group-title="TV PREMIUM",AMC
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27970&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/1280px-2018_animal_planet_logo.svg_.png?r0EbXBEWkDBy904iN3h1Dff35te8jZRk&itok=3yKMpvZX" group-title="TV PREMIUM",ANIMAL PLANET
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27971&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="TV PREMIUM",AXN
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27972&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="BABY TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL._SY355_.png" group-title="TV PREMIUM",BABY TV
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27974&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="BOOMERANG" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD-CKdoV-GV0wS3NIgSkoGaO420C3QGYRkv8w=s900-mo-c-c0xffffffff-rj-k-no" group-title="TV PREMIUM",BOOMERANG
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27975&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="CO: CANAL DE LAS ESTRELLAS HD" tvg-name="CANAL DE LAS ESTRELLAS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0iLsdn7TbhveKShpZNMVFwbPjfVnKiOKtKwoMmmqk0dxapbTN" group-title="TV PREMIUM",CANAL DE LAS ESTRELLAS 	
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27976&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="Canal Caracol (Colombia)" tvg-name="CARACOL INTERNACIONAL" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062014/logo_caracol_television.jpg?itok=Wmo-Rups" group-title="TV PREMIUM",CARACOL INTERNACIONAL
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27978&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51l3QRtXQRL._SY355_.png" group-title="TV PREMIUM",CARTOON NETWORK
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27979&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="CINEMAX" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/7000/brand.gif?itok=yvWYTa2J" group-title="TV PREMIUM",CINEMAX
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27980&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="cnnenespanol.mx" tvg-name="CNN EN ESPANOL" tvg-logo="https://image.winudf.com/v2/image/Y29tLnNoZXJkZXNwYWxjbm5faWNvbl8xNTMyODQzMjAyXzA4Mw/icon.png?w=170&fakeurl=1&type=.png" group-title="TV PREMIUM",CNN EN ESPANOL
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27981&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="COMEDY CENTRAL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Comedy_Central_1995-2000.png/revision/latest?cb=20130217030126" group-title="TV PREMIUM",COMEDY CENTRAL
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27982&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://cdn.mitvstatic.com/channels/sv_de-pelicula_m.png" group-title="TV PREMIUM",DE PELICULA
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27983&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://mms.businesswire.com/media/20170330005788/en/578391/4/2869178_Discovery_Channel_2016.jpg" group-title="TV PREMIUM",DISCOVERY CHANNEL
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27984&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2284/brand.gif?itok=T6MNi5XX" group-title="TV PREMIUM",DISCOVERY CIVILIZATION
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27985&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="DISCOVERY H&H" tvg-logo="https://s8.postimg.cc/wt5qsl8th/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="TV PREMIUM",DISCOVERY H&H
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27986&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="DISCOVERY ID" tvg-logo="https://s8.postimg.cc/inzxqh9z9/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.jpg" group-title="TV PREMIUM",DISCOVERY ID
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27987&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/23/kids_0.jpg?itok=AcUmXkxQ" group-title="TV PREMIUM",DISCOVERY KIDS
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27988&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1083/brand.gif?itok=AyjIcQMr" group-title="TV PREMIUM",DISCOVERY THEATER
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27989&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="DISCOVERY WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0NOz9i9OJPbG51b7zLdbiQhG1I6RHJ5lMibphG0sedE3aUYL" group-title="TV PREMIUM",DISCOVERY WORLD
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27991&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="DISNEY XD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062014/disney_xd.jpg?itok=wr1nExtx" group-title="TV PREMIUM",DISNEY XD
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27992&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="Canal Distrito Comedia" tvg-name="DISTRITO COMEDIA" tvg-logo="https://images.mi.tv/channels/hn_distrito-comedia_m.png" group-title="TV PREMIUM",DISTRITO COMEDIA
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27993&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="MX - elgourmet" tvg-name="EL GOURMET" tvg-logo="https://media.tvalacarta.info/canales/256x256/elgourmet.png" group-title="TV PREMIUM",EL GOURMET
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27994&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="INT'L SPORTS",ESPN 2
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27996&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="AR: ESPN 3" tvg-name="ESPN 3 (AR)" tvg-logo="http://images.mi.tv/channels/mx_espn-3_m.png" group-title="INT'L SPORTS",ESPN 3 (AR)	
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27997&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3" tvg-logo="http://images.mi.tv/channels/mx_espn-3_m.png" group-title="INT'L SPORTS",ESPN 3
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27998&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="INT'L SPORTS",ESPN U
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=27999&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png" group-title="INT'L SPORTS",ESPN
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28000&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="filmandarts.mx" tvg-name="FILM & ART" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="TV PREMIUM",FILM & ART
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28001&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="FORO TV" tvg-logo="http://epg.justco.cc/guide/logos/mx/ForoTv.mx.png" group-title="TV PREMIUM",FORO TV
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28002&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="FOX" tvg-logo="https://s8.postimg.cc/p1p0tj4it/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="TV PREMIUM",FOX
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28003&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="fox.premium.cinema.mx" tvg-name="FOX CINEMA" tvg-logo="http://3.bp.blogspot.com/-dLzGjUAfrgA/Vj_WHo_XUnI/AAAAAAAAAgw/0611kEX4E_E/s320/foxcinemaqaSR.png" group-title="TV PREMIUM",FOX CINEMA
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28005&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_fox1.png" group-title="TV PREMIUM",FOX SERIES
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28007&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/58/db/bc/58dbbc42-2d68-2d97-392a-0cf23dc80f6f/AppIcons-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" group-title="TV PREMIUM",FOX SPORTS
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28008&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-logo="https://s8.postimg.cc/n9w1yo36d/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="TV PREMIUM",FOX SPORTS 2
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28009&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3" tvg-logo="http://epg.justco.cc/guide/logos/mx/FoxSports3.mx.png" group-title="TV PREMIUM",FOX SPORTS 3
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28010&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/428707564797169664/F4K8a7m9_400x400.png" group-title="TV PREMIUM",FX
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28011&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="GLITZ" tvg-logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666_200x200.png" group-title="TV PREMIUM",GLITZ
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28014&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="TV PREMIUM",GOLDEN EDGE
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28015&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="GOLDEN PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png" group-title="TV PREMIUM",GOLDEN PLUS
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28016&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4d/History_Channel_logo.svg/1134px-History_Channel_logo.svg.png" group-title="TV PREMIUM",HISTORY
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28022&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313FZ6VHrCL.png" group-title="TV PREMIUM",MTV
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28023&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="MULTIMEDIOS" tvg-logo="https://moveteenelmundo.com/wp-content/uploads/2018/04/multimedios.png" group-title="TV PREMIUM",MULTIMEDIOS
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28024&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="NAT GEO WILD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6458w_K7IoPMy8ynpd7xDLj38E88hcvwWEhVYX2kWdaXhTSi" group-title="TV PREMIUM",NAT GEO WILD
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28025&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="NATGEO" tvg-logo="http://store-images.s-microsoft.com/image/apps.33589.9007199266706282.b9946249-195a-432e-947f-9a28bc4adc98.7e05df99-51cf-47ae-896c-1d6acb96aa21" group-title="TV PREMIUM",NATGEO
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28026&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="NICK JR" tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="TV PREMIUM",NICK JR
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28027&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NICK" tvg-logo="https://s8.postimg.cc/qgqlij89h/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.jpg" group-title="TV PREMIUM",NICK
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28028&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0GHAkUsXnCYiin46vsutQdm2WOfyBfEdnTVAj4HsfTjJe-tR" group-title="TV PREMIUM",NICKTOONS
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28029&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="PARAMOUNT" tvg-logo="https://cdn.sincroguia.tv/uploads/images/p/a/r/paramount-channel.jpg" group-title="TV PREMIUM",PARAMOUNT
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28030&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="SONY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9O6POn6ScVOXY3OISg8JZQO4O4c3USXlVn5w7sEnyGN5EX-RL" group-title="TV PREMIUM",SONY
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28033&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://s8.postimg.cc/ym8nguoud/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.jpg" group-title="TV PREMIUM",STUDIO UNIVERSAL
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28034&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="SYFY" tvg-logo="https://lh5.googleusercontent.com/proxy/qwkrrjez24q6ZXwHeHhjJbSDrrEf-jdw836CLaou4U6GeDsEgindXGEdYlGv3HhQHJRI8yNedkOMecVogYhqLuI3jqBdjEdZtiX3EuSKahc5F8FZ0t19rDCT4HvMJtd4UHLCr7GBOutKgX2A0zw=-p" group-title="TV PREMIUM",SYFY
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28035&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="TCM" tvg-logo="https://s8.postimg.cc/6yvy2t13p/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.jpg" group-title="TV PREMIUM",TCM
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28036&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="TLC" tvg-logo="https://s8.postimg.cc/6m4jwn5z9/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.jpg" group-title="TV PREMIUM",TLC
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28037&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="TNT SERIES" tvg-logo="http://epg.justco.cc/guide/logos/mx/TNTSeries.mx.png" group-title="TV PREMIUM",TNT SERIES
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28038&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT" tvg-logo="https://s8.postimg.cc/w4ww9nx91/1516362096_b118548d389431cc50d80da692ee4861553c9b35.jpg" group-title="TV PREMIUM",TNT
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28039&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="tooncast.latin.america.mx" tvg-name="TOONCAST" tvg-logo="http://www.impulsotv.com.ar/sites/default/files/canales/logos/Tooncast.png" group-title="TV PREMIUM",TOONCAST
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28040&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="TRU TV" tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/01/16/trutv.png?itok=gcuFQVAT" group-title="TV PREMIUM",TRU TV
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28041&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="TV MAS" tvg-logo="http://images.viaway.com/6798977_180.png" group-title="TV PREMIUM",TV MAS
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28042&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="UNICABLE" tvg-logo="https://pbs.twimg.com/profile_images/986107341085933569/ABBMtNhU_400x400.jpg" group-title="TV PREMIUM",UNICABLE
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28043&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="vh1.mx" tvg-name="VH1" tvg-logo="https://s8.postimg.cc/s9ti6llnp/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.jpg" group-title="TV PREMIUM",VH1
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28044&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="WARNER" tvg-logo="https://s8.postimg.cc/xxzsxi5fp/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="TV PREMIUM",WARNER
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28045&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="AZ CLIC" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABoVBMVEX////FI4men6L/BC//qwB1N7y9AH3wyd/AAH/z8/STlJgAQ7G8AHjpsdD89voAasHCM4vISJSgoaT/N1vZfLP86/WXmJv23usAsF777/aTYsrf3+D5+frCFYXqwNbQVqLXcrC0tbcAW7v/ogDy1ObjoMjo6Om9vb/Fxsi2AG/KQpXVa63svdnag7cAZL7/ABwAM6wAPbD/AAD/ABj/7O7glcHLWJzkpsvCN4nRbabUdavksc3CK4nekr/XhrPr+vaO27c6uHNWvoFowYiz6dSb4sYAq08Ytmnh9+tbw5eYkuP/zNGC0KR5nN6dftb3eJX/q7aI07dBfczCldL/vceExNS1mNyWb9D/FUX/2+L/aYOh0s+0kdmHVcjbs9tjlNH/Um5Tw3eXudyGptrPuuYmx4S11+Koq+AvhsrfxOT/tKj/5aiest//i6L/xRb/03n/S3z/tgD/zWP/9+fK2fD/yEX/y7H/6samoNz/naH/tTD/GD7/v0+Jn9l+Rb9mHrdWdcT/ynu7y+a1p9//cXLz4sKIbc9hCLT/U1T/tEDZ0PMAto1GAAAIk0lEQVR4nO2a/V/bxhnAJWNs2diyA7YVW5aNifyCMIZAbIdgaNNtpG0awjIGbodH1tA1bWAZhS5NIJC+rNvyV+9Od6cXLGwapLnj83x/yOdjW6c8Xz338twJjgMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoA/qoAPwnDtXXTHdqg86BI9RBWXQIXhMQglUOU4MFqfTgw7FG8Q4z+cT8UCklRx0KF6QlhbHeZ5XFJ5vXbX5RkyqzURDUwQkh1Gqg47IbaREIMLssGBz0AF5gFhtKAITLA46Go9IFjViKFyRFCa1awa3g/pXIsmikhf7NVZZy0bW80DfmWTEGHd8IGj5SlGUvjOpqpBRq2i/ZsNAl2ET57DajEcS/RpLbMjmPY/z3XEwXECJwetEcKrfem8YTnke57vTbZhuKTxdCPsNxGSLGi54HOVlSEYEYwkkhlKAj16wcZoZ3vEwwssiRhcXxxWrYTFy4YVQZIZ9R+yAiQpWw8bShRsahtOexeYONkPpl+x949Rw2avQuPcQ79BMRFg+2gx7bwjtDb0wDJVKBUylFMIf37979+4Hv3n/t0QzGzoXS4zVpYVGvtFYqOeYjM1QlCzY/m+peKeRzzcWppsS02SGF+/YvcmWy75UyqeTCpdx2L+7jlm596H+bOXwOVTYLVS0e1dwJYL+CShTwW7D3GTAYNKS0OY1tKsiDQVBq5NfblNDd051spWwz0a4kjUUP/o4eh9dUxr1OZGihulxy+YIRxbIJ7sMBfP3iNElqy2Bt7UU9BWF5dClbUihO3Ck+Ilu+MmD1Ydr5ypSQ1Wz+emxadJFDJeEsw1J3lzehsh6B01hWOgo8vfuYcPfP1r9w9g6uqhyvqHU6hJEgTYuYOggiFqiwnyK3FG4aInQh1I45UuVK7JcqbB0hkMkiSt/jG1sPmx/ivpy+DzDdHcG9UClvoZFJ0G9kHHZEE00xpwo095Y5rgPV65fv/vg0Uan2f4M9dpRywTDBMu4yZTlfMKs1PBhzJmZJhJhPxJD1dKQzDYEzTR060DHMufTLusrIKd711f+NPF0q/PndnvNdn0pRTOIG1ZNp2vLxeKyZh432QyzaFZmZRwxNHKv8Av15vICu0+cYxcKQZcMHaIPlzjui5WPtmvbq52dsbHH1vU6S5+Cr4Q/NZhRK6fHLS45G2ISVsMgExSmyW5Kap01DHhomELRf/CXzydqTzLYsL1uuUSmnVTGH8yuxnbudOvT15D1brP4rCvMkF4YcPVcNSuXdcw55Iu/1mITX+qGY59ZBFPGFYgmjVMwli4pEMFMRvsYsg2kYNy5Pqm3jHDctOuG2UolbCwVZCCibydisadbmc5XbZTEr58xQTLPpArkY54ZmnVlkiD2NlQDrI8aDdO0JVpGqKG9vLuMX/d6XuGy27VYbbeTyeSQ4dje357r14boglKg0xMdO3gC7KKnYZX+qCw6tKyTHyMuvd4IlVNdguFQCAnGHm1lMptr2PDvz/e/OcCC5jjFiDQTjmdGPQ2LbBg6zSZ0pYy484bKFDTLmlTl8FEM8WUmk9naG8M829//9sAYhDJ3WcN6L8OmYI7Xy8MEU6MVuRTSFVLy52gMxtBSkUETzWMs2P7HPuIFuZgs9VbDX95LjRzmnFqSOWfSFUNWU9O0IMNUQd7WBZ9uoFG4qQ9DNNXs+/3+G0SxYB7UsnGoOARzsXHotMsV0zruDMOyTRBPlaiH1nAXjX2H+mhmg3TS9stXfsyLgjnLYNiq5lRC9jSUjENxVzR6wAYh/SgX5Cc1XbCGByFaK3AnbQ/N7BHDVwfhQslqwVZ8zTYrNNMWQ6O8tK2HRkljezaS09R6KbKW9Q9TelKb0BNYe72JDVfXjo6GEDN73+qG/mPZKmgcT/PKlNlP1UYEh822E8ZW3WY4bSia9bVY5DV3ZheTkM+Sw8Pd2MhEjQpmOp2Tk9Md3Q8ZPjwmhjcO7Ddg1TSqn6P6uJGqebRRwIGqbHekBckxN5OK2J4NL4yreGCn1WVF4BX8bBJ5Hc2NupTlEI3Dwzc3Z2+OUF53hjEna/PUcO8bYuj/npNNska9jB1bce12XH9Tr7/JTpq/xFtSNLpoFEDNxahqZBRvnuK3tXiLNMQv38bRM0JEXKm8jan0tal3c+S7E13wdGeIMrP2nBr6D0bDKUo4e+4+Fi0fYsNwQKMtYNk8CkKkyCXP2TrnXN5bVMhUM/rD7Igh+ObjYcLPL2kKh+bXWQ5vvLDUeLh3JRwVhZxNXonadfDLfNXZMO+yYZbEW9idNRL4YPOUGn41w3I4Fzxmhs8KdkNuykkxgNa5tCVuB0P8J1IOhork8v6QbvcO9U56c3Z2+8cT6ne68ZNpKBqG/zyTQ5Qr/mykCq8fkwWNd2yOhpyUP/twFKGRdH0HLJNKdHcEOb7ZLW0NM35m0wweh9z3N4jhK9ks1FO0uJHGFfOcBUXJT9N9T04T2KGS3ZAeFIpNzZpHRblWxbOu23v8UnkUn3XLPxyWuOwG66HDp7khk8fcC2p4UPCNMnxG+aZOa7xCZkA+XzT3dcloo6XnNBi30WJHoelqo6U3Q6bxRJCshuMtcpF7pxhZuVKp4JU8u2pk8F87/54xU7jGcf/BXdR/cO5NpFyzXi8uBs9Wk6IkqWqvEjMdXCwu1ZtV9X/xdwlmFz15+/W8JYe3OO7g2H/8rP8tft2IFkHuyPSb2Rt0ZK6RoYIdiVu3pLB9a9CBucbbk9PT4dOTDTTgLRPp/Hr/lv83iDsbP74lI/6IlaRz9wcclGe8PJqbm58b+unqdNEubn26vn7/CvsBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4yn8B3KMhSUTUWkcAAAAASUVORK5CYII=" group-title="TV PREMIUM",AZ CLIC
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28048&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="TV PREMIUM",EUROPA EUROPA
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28049&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="MX - adn40" tvg-name="ADN40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="TV PREMIUM",ADN40
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28050&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA NOTICIAS " tvg-logo="data:image/jpeg;base64,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" group-title="TV PREMIUM",FORMULA NOTICIAS 	
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28052&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="Canal Multimedios Plus" tvg-name="MULTIMEDIOS PLUS" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/multimedios.png" group-title="TV PREMIUM",MULTIMEDIOS PLUS
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28053&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="NBC GOLF" tvg-logo="https://gortoncenter.org/wp-content/uploads/2019/06/NBC-Golf-logo.jpg" group-title="INT'L SPORTS",NBC GOLF
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28054&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIIONAL" tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f_400x400.jpg" group-title="TV PREMIUM",CNN INTERNACIIONAL
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28055&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://i-love-png.com/images/fox-news-01.png" group-title="TV PREMIUM",FOX NEWS
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28056&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="Canal NTN24 (Nuestra Tele Noticias 24 Horas)" tvg-name="NTN24" tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/04/NTN24-1.png" group-title="TV PREMIUM",NTN24
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28057&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TDN" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxEPEBIREBIQFRAQEBEQDxAWEA8SEw8PFxIWGBURFRMYHSggGBolGxUYITEhJSkrLi4uGB81ODMyNygtLisBCgoKDg0OGxAQGy0lICYwLTAtLS0tLi0tLS0tLy0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0vLS0tLS0tKy0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgEDBAUHAgj/xABBEAACAQEDBgcOBgIDAQAAAAAAAQIDBBESBQYTITFRQVJhcYGRoQcUIjJCU2JykpOxwdHhFRYXI1SCc5RDotIz/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAUGAQMEAgf/xAA2EQEAAgEBBQYEBAYCAwAAAAAAAQIDEQQFEiFBExQxUWGRUnGhsQYygeEVIkJTwdHw8RYzov/aAAwDAQACEQMRAD8A7iAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA86SO9daPPFHmzwz5GkjvXWhxR5nDPkaSO9daHFHmcM+Sjqx40etGeKPM4Zee+afHh7UT1pLzqd80+PD2ojSTU75p8eHtRGkmp3zT48PaiNJNTvmnx4e1EaSaitEH5cPaQ0k1XTDIAAAUvMBeAvAreAMgAApeYC8BeBUyAAABp86rXorPJLxqn7a6VrfUR+88/ZYJ08Z5O/d2LtM0a+Ec3PNCty6iqLPxyaFbl1Bnjk0K3LqDHHKO582lUrNgSV9Z4NnkLXL6dJObg2aMu08c+Fef69ERvraZx7PwxP5uTnGhjxY+yi9qdxW8zQx4sfZQOK3maGPFj7KBxW8zQx4sfZQOK3maGPFj7KBxW8zQx4sepA4rebY5Ny1arK07PaK9K7Yo1ZqPTC/C+lHm1K28YZi8x4Oi5qd2CtTap5QjpIN3aeCUZxW+UFql0HJk2SPGjfTP8TsmTco0rVSjWoTjOnPxZxep8nOcNqzWdJdMTE84aHPi1eBCivLeOS9FbO0hN85tKRj8+fsmd0Yv55yeXJDNEV3SE9xGiGkHEaIaQcTIyb4FanLi1IvtN2z2imWtvWGrP8Az47V9JdTRdlOAIPntacdaNNbKcb3uxP7Fb3xmi2SKeSw7px8GOb+f2RzREPpCV4jRDSDibHN3J+ltEE1fGLxy5l97js2DBGXPWNOUc5cu25+zwzPXwh0ouCpgAABDc7bTpKygvFpR/7vW+y7tKvvfNx5opHhWPrPj/hP7tx8GLinxn7NFgIpI6mAGpgBxOZZ823TWpxi74UUoLdi2yZftwbL2Oy8Uxztz/ToqO99o7XPwx4VR3ATaLUwhhTCAwgUuAAAAEr7nmeNTJdoV7bstWUVaKet4VfdpYLgkuHelzGjNhjJHq248k1n0dSyxa1aK0qid8HqptbHDga59p852/LOTaLTPTl7LrsdIx4axHXn7sPAcerq4jANTiMA1OIcBr5GrpVjqYqcJb4RfYXnDbix1tHWFRy14bzHq9V6qhGUnsjFyfQjOS8UrNp6MUrNrRWOrm9pm6k5Te2cnL7FJy5JyXm89Vsx1ilYrHRbwGvV74luTSPdaTLMJfmVY8NOVV7ZvDH1V9yx7pwRWk380HvXNreMcdElJdEqNgaO1ZxxjJqEMaWrFfcnzaiEzb6pS2lK8Xrrokse7rWjW06LH5nfml7f2NP8cn+39f2bP4ZHxfT92gqtyk5PbJtvpIW95vabT1SdYitYrDxhPD1qYQaqSh18BmDVDX3P0727RJtttvRrW2729paa/ieaxFYxco9f2QU7liZ1m8+yn6ex/kS92vqZ/wDKbf2vr+zH8Er8f0U/TyP8iXu19R/5Tb+1/wDX7H8Er8f0bnJ/cdjVpxm7XKOK9paGL1X6n4xM7LvO2bFGSa6a+qPz7FGO80i2ujI/ROH82fuI/wDo6O+z5NPd/Vbq9xPV4Fsd/LRSXZId99Du/qgOdWZ1qyZJKvFOnNtU60dcJPc+K+RnVjzVyeDRek08WgdM2vKjpgUcAOoZg211rLhl41GWjv8ARuviUH8QbNGHauKvhaNf16rVunPN8HDPTkkuEgkpqYQamEGphBqnGQJ32enyRw9WouG7bcWzU9I09ld2yNM9mLnTacNHAttR3P1VrfyXSc++M/Bh4I8bfbr/AKbt3Y+LJxT0+6G1JqPPuKzWsynoiZY06rfItxuikQ2RXR5hByajFXyk1GK3tu5I9REzOkeLMzERrPg6hYbMqNOFNbIRUed8L6y4YccY6RSOioZck5Lzeeq+bGtps6bboaDS8ao1Bc3D2EfvLLwYJjz5O7d2HtM3PwjmiVCtGXI9xUrUmE7as1XsJ5eNTCDUwg1MINTCDUwg1Um1FXtpLe2kuszETM6QxNojxayhlyhVr07PScqlSrNQ/bWKMd7ctlyV/US2Dcm1Za8Uxwx5z/pw5N54aTwxOs+jqVOCilFbIpJcyLNWsVrFY8IQ9pm0zMvR6YANRnXkuFrsdejNapU2090o64tct6PeO01tEw83rxRo+aY0b0nvV5NI2JHQDOry6AEx7mqanXjwYYS6b2VX8UVjs8dvWU3uW3894+X+U8uKasOpcDUuBqYQapNmpWUqU4p34KnxS+5Z9y21w2rPSf8AEIfeVJjJE+cI7nTb3UtEop+DT8Bcr4Tg3jeMmefTklN34YphiZ8Z5tKcTvAN5mhZNJaMT8WksX9n4vzJHdmLjzcU+EfdHbzy8GHhjxlPCxq4AQTPG246+jT1Uld/ZpN/Irm883Fm4PL7rHuzDwYuLzaK8jdYSOjKo21rxta7TxbHE+DVbFE+DNpV4y2PXuepmmazDRalq+K7ceXguA1lty7Z6LwyninxIRlOXZs6SQ2Xde1bTzx05ec8ocufbcOH89mltecVoqXqlTjSjx5vSVOiEXhj0tlj2X8L1jnnvr6R4e8/6hD5t9zPLFX9Z/001ppzq/8A2nOo/Sd69lauwsOz7Bs+z/8ArpEfdFZdry5fz2TDuX5HUrROu1qoxww9eX2+Jjbb6Vivm97LXW0y6kRjvAAGpzsygrNYrRWfk0pXcsnqS62e8deK0Q83nSsy+fqdkuilwpJPqJtFajswZ1eHZgapZmBZbnWlyQj8X8ypfim/8uOnzlO7lrzvb5QmOEp6f1UqtQipSeqTaXDrW34m3srcEX8yutrTWGFUty8ldL+gjF5t8YfOWLUrSltfQbIrENsViPBvs07YqMLTJ7IwhPp8JfNEru7N2cZJnpET90dvHD2lscR5zH2R+c3Jtva22+dkbMzM6ykoiIjSFDDIBPc0rForOpPxqrx/14Cybtw9nh1nxnmre8s3aZtI8I5N2SCPALUrNBu9wi29rwrWeJx1no9xkvHhMsLK+jo0ZzwQvUWo+DHxnqRz7TwYsVraQ6Nm7TLlrXWXOSrLSAXqdqnHY9W56zxNKy8TjrLFzhy5obNUbV0prRwaflS1XpcivfQdm7Ni7faqV6a6z8o/5ojd5WjZ9nteJ9I+c/8ANUaseUbMoqMZKNyuuksLfK3ws+lRMdFDnVmwqQlslF80kz1qPejQHVszsn972Smmrp1FpJ/21pdVxC7TfjySltnpw0huzQ3gADnXdQysqkqdhptNJqva9l0Yxf7VJ8rl4XNDlO7YsWs8cuPa8kRHCgs6cVtaXSiScGrFq16Mds49DvfYY5M6sSrlGktik+i74mNTVL82K8oUE1FJ1G5b9WxFD39ljNtWnSsaf7XPc2y8OzRa39XNsalectrfMQ8ViPCEzFKw32cFg0Nlsy4Y6p+vJXy7SW2zB2Wz4469fmjdiz9rnyT7fKEdItKAF2lWcYziv+RRT5lLF8j3W8xWY89Pvq8WpFrRPl/0tHh7AL9hszrVIU1tnJLmXC+hXs2Ysc5LxSOsteXJGOk3npDp9OCilFbEkktyRb4iIjSFQmZmdZejLAAAiWe9s1wor/JLtSRCb2zeGOPnKb3Th8ck/JFCGTIAAhuelrxVYUVspLHL15K5dSv6y2fh7ZtKWzT15R8oVT8Q7RreuGOnOUeLIrYgN3mlYalstlGzqc1Gc06l0paqUdc+zV0njJk4KzZ7xU47RD6PSIZMKgAIrnvnrRybTuvU7VNftUE9fD4c+LC9beHgN2LDOSfRqyZYpHNwe12+rWqVKtScnUqzc6jTavlzbktSJStYrGkIu95tOssdu/be+09PKgF+w2WVapGnHbOSTe6PC+hXmjadors+K2W3SP8AqP1lu2bBbPlrjr1n6dZ/SHSqVNQiox2RSiuZHzi95vabW8Z5vo9KRSsVjwjk22bdk0tpgn4sPDlzLYus6thxdpniOkc3Lt2Xs8Mz1nkk+eVO+zX8WcX8iX3pXXBr5TCI3XbTPp5wghXFjAAAABJsyLHfOdVrVBYYv0nt7PiS+6cWtpyT05QiN7ZdKxjjrzlMidQQAAAc0y3aHUtFWT85KK9WLwr4FS2rJOTNa0+entyWzZaRTDWI8vvzYRodAB5qTUU5PYk2+ZGa1m06QxaYrGsuZ2q0OtUnUflycuZcC6j6PsuCMGGuOOkPnO155z5rZJ6ytHQ5wCQZmZyrJladbQqrOUNHG+eHAr75cHDcuo05sU5I01bsOSMczMwmP6wz/iR96/oc/c/V0d8jyUfdhqcFkjf/AJX9B3P1O+R5NJljun2+0Jxp6OhFq54E5T6JS2dRsrslI8ebXba7T4Qhcm23KTblJ3yk23KT3tvadMRERyc0zM85UMsAACb5sZJdCGOa/cqJauJHdzlK3zvGNov2eP8ALX6yum5t3zs9O0v+a30jybwhE2muZdjw0pVXtqO5eqvuT+6sPDjm/mgN65uLJFI6Nnl+nis1Veg31azs2yvFgtHo49jtw56z6ublUWsAAAAHR8g2PQ0IR4WsUud6y1bHh7LDFVV2zN2uabNidTlAAADmmWrO6doqxfnJSXqyeJfEqW045x5rVnzn681t2W8Xw1tHl9uTCNDeAa3OS/vStdtwdl+vsO7dune8evm4d5a91yaeTnx9CfPgAAAAAAAAB6pU3OSjFNyk7kkr22eb3rSs2tOkR1eqUte0VrGsz0TDIObypNVK1zqbYx2qHLysqO9N8zmicWHlXrPWf2W3dm5owzGXNzt0jpH7pCV9YHqlTc5KMfGk1GPO3cjMVm0xWPGWLWisTafCHULJQVKnCEdkIqK6FtLfipGOkVjop+S85LzaeqtqhihNb4SXWjOSNazHoY50vE+rll1xTtNFxAAADPyDY9NaKcPJTxz9WOv43LpOnZMXa5q1/WflDm2zL2WG1v0j9XSS1qoAAAADSZyZE74jjhcqsVcvTjxWR+3bH20cVfzR9UhsO2djPDb8s/RBrRRlTlhnFxkuB6mV29bUtw2jSVipet44qzrC2eXp5nBSTT1pq5rkM1tNZ1jxYtWLRpLn+WckTs0nqbpN+BPg9V8pft3bxx7XSOf83WP8qFvHd+TZbzy/k6T/AIa4kUcAAAC8Cikt6vA3OT81rdaLnSs1Zp7JOOCPXK412y0r4y2VxXt4QmWQ+5LWm1K11Ywjw06fhSfI5PUjnvtkf0w6KbJP9UsirkyzWarONmgoxi8GJ65Su1NuT5Sl7y2y+0ZZiZ5R4R09lz3dsePZ8UTEc58Z6qkekADfZnWTHXc2vBpRv/s9nzJLdmLjy8U+EfdG70y8GLhjxn7J0WJXRgcwylSwVqseLUmujFqKhnrw5bV9ZW/BbixVt6QxjU2gACY5kWS6E6rWubwxforb2/And04tKzknry/RBb2y62jHHRJyXRAAAAAAFutZ4VFdOMZLdKKku08Xx1vGloifm9Uvak61mY+TF/B7N5ij7uH0NPctn+CvtDd3vP8AHPvJ+D2bzFH3cfoO5bP8FfaDvef4595UlkWytXOhRae1aOGvsMxsmCs6xSPZidqzTGk3n3Ycs0cnPX3lZP8AXpfQ7Iy3iNOKfdyzjpPSD8n5O/hWT3FL6DtsnxSx2VPKD8n5O/hWT3FL6DtsnxSdlTyg/J+Tv4Vk9xS+g7bJ8UnZU8oeoZp5PWyxWP8A16L+KHbZPin3Oyp5Qz7Nk6hS1UqNKC9CnCPwR4m0z4y9xWI8IZRhkaAwHkazeYpexE5u57P8Eezp75n+Ofc/BbN5ij7uJjuWz/BHsd82j459z8Fs3mKPu4juWz/BHsd8z/HPuyLLZKdJNU4Rgm72oxSvfQbseKmONKREfJqyZb5J1vMz8182NYBh1clWecnKVGk5Sd7k4Rbb5Wc9tlw3nitSJn5N9dqzVjStpiPm8fgtm8xR93E89y2f4I9nrvmf459z8Fs3mKPu4juWz/BHsd82j459z8Fs3mKPu4juWz/BHsd8z/HPuzKNGMIqMIqMVsikkl0HRSlaRw1jSGi17XnitOsvZ6eQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/9k=" group-title="INT'L SPORTS",TDN
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28058&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="https://static.radio.net/images/broadcasts/03/7a/42257/1/c300.png" group-title="TV PREMIUM",HLN
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28060&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://lh3.googleusercontent.com/rKgmlAc-zT6d1HATK39LGi9zO_p_D6eMxMsHablV8VvOYkM3ThdekxLQLcwXLtUY6w" group-title="INT'L SPORTS",AZTECA DEPORTES
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28061&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_243.png?itok=Y5ZbkqLG" group-title="TV PREMIUM",FOOD NETWORK
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28062&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="nick2.mx" tvg-name="NICK 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png" group-title="TV PREMIUM",NICK 2
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28063&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/hola-concurso.png?fit=300%2C236&ssl=1" group-title="TV PREMIUM",HOLA TV
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28064&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MAS CHIC" tvg-logo="http://epg.justco.cc/guide/logos/mx/MasChicTV.mx.png" group-title="TV PREMIUM",MAS CHIC
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28065&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA PUEBLO" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122015/untitled-1_202.png?itok=eJhD8-cT" group-title="TV PREMIUM",TELEVISA PUEBLO
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28066&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="NATGEO KIDS" tvg-logo="https://www.clipartkey.com/mpngs/m/165-1653721_national-geographic-kids-logo-national-geographic-for-kids.png" group-title="TV PREMIUM",NATGEO KIDS
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28067&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="AZ CORAZON" tvg-logo="http://www.teleblanca.com/img/azcorazon.png" group-title="TV PREMIUM",AZ CORAZON
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28068&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="E! ENTRETENIMIENTO" tvg-logo="http://www.vector-logo.net/logo_preview/ai/e/Entertainment_TV_logo.png" group-title="TV PREMIUM",E! ENTRETENIMIENTO
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28069&token=tecnotvCLUBTV&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png" group-title="TV PREMIUM",GARAGE TV
+
+http://clubtv.link/Feb1702/key4513/geomex.php?c=28070&token=tecnotvCLUBTV&f=.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="NOTICIAS",Euronews Español
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=euronews-spa
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="CINE Y SERIES",Top Cine
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=top-cine-latam
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=juntos
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="CINE Y SERIES",Cine Real
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=cine-real-latam
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="CINE Y SERIES",Cine Sureño
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=cine-sureno
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ySWZ76R.png" group-title="COMEDIA",Flou Cine
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=flou-cine
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HClN7n1.png" group-title="ENTRETENIMIENTO",Flou Caribeño
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=flou-caribeno
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="ENTRETENIMIENTO",Horrorfy
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=horrorfy
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="ENTRETENIMIENTO",Wapp
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=wapptv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="CINE Y SERIES",Tu Cine
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=tu-cine-latam
+
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=el-conflicto-tv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=saber-mas
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=flash-1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=mmc
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="INFANTIL",Chiquilines
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=chiquilines
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
+
+http://clubtv.link/Feb1702/key4513/distro.php?c=glewedtv-spanish
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.gruposalinas.com/images/v_economico/azteca/azteca1.png" group-title="MÉXICO", AZTECA UNO
+
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest?cb=20180716012938&path-prefix=es" group-title="MÉXICO", AZTECA 7
+
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="MÉXICO", AZTECA 7.2
+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="MÉXICO", ADN40
+
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", ALWAYS CHRISTMAS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=122.frequency.stream/dist/vix/122
+
+#EXTINF:-1 group-title="DEPORTES", ATV+
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=258.frequency.stream/dist/vix/258
+
+#EXTINF:-1 group-title="INFANTIL", BABY SHARK
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=355.frequency.stream/dist/vix/355
+
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=256.frequency.stream/dist/vix/256
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", COLD SQUAD
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=240.frequency.stream/dist/vix/240
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Comedy Tv
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=89.frequency.stream/dist/vix/89
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", COMICS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=208.frequency.stream/dist/vix/208
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Durmiendo Con Mi Jefe
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=312.frequency.stream/dist/vix/312
+
+#EXTINF:-1 group-title="NOTICIAS", EURONEWS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=255.frequency.stream/dist/vix/255
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Eventos (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=439.frequency.stream/dist/vix/439
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FAIL ARMY
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=198.frequency.stream/dist/vix/198
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FAMILY FLIX
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=137.frequency.stream/dist/vix/137
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FAT GUYS IN THE WOODS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=119.frequency.stream/dist/vix/119
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", FEAR THIS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=143.frequency.stream/dist/vix/143
+
+#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN PLUS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=410.frequency.stream/dist/vix/410
+
+#EXTINF:-1 group-title="TVPREMIUM", HELL CHANNEL
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=120.frequency.stream/dist/vix/120
+
+#EXTINF:-1 group-title="TVPREMIUM", IMAGES WALL
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=144.frequency.stream/dist/vix/144
+
+#EXTINF:-1 group-title="TVPREMIUM", ION PLUS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=433.frequency.stream/dist/vix/433
+
+#EXTINF:-1 group-title="TVPREMIUM", Job Time Music (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=272.frequency.stream/dist/vix/272
+
+#EXTINF:-1 group-title="TVPREMIUM", La Promesa
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=343.frequency.stream/dist/vix/343
+
+#EXTINF:-1 group-title="TVPREMIUM", LA ROSA DE GUADALUPE
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=344.frequency.stream/dist/vix/344
+
+#EXTINF:-1 group-title="TVPREMIUM", LAS ESTRELLAS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=553.frequency.stream/dist/vix/553
+
+#EXTINF:-1 group-title="TVPREMIUM", LGBT TV
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=43.frequency.stream/dist/vix/43
+
+#EXTINF:-1 group-title="TVPREMIUM", LOCAL NOW DRAMA
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=141.frequency.stream/dist/vix/141
+
+#EXTINF:-1 group-title="TVPREMIUM", LOCAL NOW FUNNY
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=135.frequency.stream/dist/vix/135
+
+#EXTINF:-1 group-title="TVPREMIUM", LOCAL NOW MUSIC
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=136.frequency.stream/dist/vix/136
+
+#EXTINF:-1 group-title="TVPREMIUM", LOCALNOW
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=33.frequency.stream/dist/vix/33
+
+#EXTINF:-1 group-title="TVPREMIUM", MI GORDA BELLA
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=330.frequency.stream/dist/vix/330
+
+#EXTINF:-1 group-title="TVPREMIUM", Miembros Aire (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=483.frequency.stream/dist/vix/483
+
+#EXTINF:-1 group-title="NOTICIAS", N+
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=553.frequency.stream/dist/vix/553
+
+#EXTINF:-1 group-title="TVPREMIUM", NOVELA_339
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=339.frequency.stream/dist/vix/339
+
+#EXTINF:-1 group-title="TVPREMIUM", Novelas Vix (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=330.frequency.stream/dist/vix/330
+
+#EXTINF:-1 group-title="TVPREMIUM", Novelas Vix (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=478.frequency.stream/dist/vix/478
+
+#EXTINF:-1 group-title="TVPREMIUM", Novelas Vix (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=480.frequency.stream/dist/vix/480
+
+#EXTINF:-1 group-title="TVPREMIUM", Novelas Vix (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=482.frequency.stream/dist/vix/482
+
+#EXTINF:-1 group-title="TVPREMIUM", Novelas Vix (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=484.frequency.stream/dist/vix/484
+
+#EXTINF:-1 group-title="TVPREMIUM", Novelas Vix (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=487.frequency.stream/dist/vix/487
+
+#EXTINF:-1 group-title="TVPREMIUM", Novelas Vix Lazos de Amor (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=481.frequency.stream/dist/vix/481
+
+#EXTINF:-1 group-title="TVPREMIUM", NOVELAS_318
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=318.frequency.stream/dist/vix/318
+
+#EXTINF:-1 group-title="TVPREMIUM", NUESTA VISION
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=262.frequency.stream/dist/vix/262
+
+#EXTINF:-1 group-title="TVPREMIUM", People Are Awesome
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=39.frequency.stream/dist/vix/39
+
+#EXTINF:-1 group-title="TVPREMIUM", Pet Collertor (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=174.frequency.stream/dist/vix/174
+
+#EXTINF:-1 group-title="TVPREMIUM", PINKFONG
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=355.frequency.stream/dist/vix/355
+
+#EXTINF:-1 group-title="TVPREMIUM", Poker Go (En)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=426.frequency.stream/dist/vix/426
+
+#EXTINF:-1 group-title="TVPREMIUM", RCN MAS+
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=286.frequency.stream/dist/vix/286
+
+#EXTINF:-1 group-title="TVPREMIUM", RCN MAS+
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=286.frequency.stream/dist/vix/286
+
+#EXTINF:-1 group-title="DEPORTES", REAL MADRID TV
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=491.frequency.stream/dist/vix/491
+
+#EXTINF:-1 group-title="TVPREMIUM", REVRY BRASSIL
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=181.frequency.stream/dist/vix/181
+
+#EXTINF:-1 group-title="TVPREMIUM", REVRYLATINX
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=142.frequency.stream/dist/vix/142
+
+#EXTINF:-1 group-title="TVPREMIUM", RUSH
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=133.frequency.stream/dist/vix/133
+
+#EXTINF:-1 group-title="TVPREMIUM", SERIE COMEDIA
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=310.frequency.stream/dist/vix/310
+
+#EXTINF:-1 group-title="TVPREMIUM", SN TV
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=165.frequency.stream/dist/vix/165
+
+#EXTINF:-1 group-title="TVPREMIUM", SOY TU DUE\u00d1A
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=318.frequency.stream/dist/vix/318
+
+#EXTINF:-1 group-title="TVPREMIUM", TELEVISA DIGITAL
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=317.frequency.stream/dist/vix/317
+
+#EXTINF:-1 group-title="CINE Y SERIES", The Weather Channel (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=431.frequency.stream/dist/vix/431
+
+#EXTINF:-1 group-title="DEPORTES", TIGO SPORTS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=556.frequency.stream/dist/vix/556
+
+#EXTINF:-1 group-title="DEPORTES", TIGO SPORTS
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=556.frequency.stream/dist/vix/556
+
+#EXTINF:-1 group-title="TVPREMIUM", TN23
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=259.frequency.stream/dist/vix/259
+
+#EXTINF:-1 group-title="TVPREMIUM", VERYLOCAL
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=200.frequency.stream/dist/vix/200
+
+#EXTINF:-1 group-title="TVPREMIUM", VERYLOCAL 103
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=103.frequency.stream/dist/vix/103
+
+#EXTINF:-1 group-title="TVPREMIUM", VERYLOCAL 105
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=105.frequency.stream/dist/vix/105
+
+#EXTINF:-1 group-title="TVPREMIUM", VERYLOCAL_106
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=106.frequency.stream/dist/vix/106
+
+#EXTINF:-1 group-title="TVPREMIUM", VERYLOCAL_107
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=107.frequency.stream/dist/vix/107
+
+#EXTINF:-1 group-title="TVPREMIUM", VERYLOCAL_108
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=108.frequency.stream/dist/vix/108
+
+#EXTINF:-1 group-title="TVPREMIUM", VERYLOCAL_109
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=109.frequency.stream/dist/vix/109
+
+#EXTINF:-1 group-title="TVPREMIUM", VERYLOCAL_124
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=124.frequency.stream/dist/vix/124
+
+#EXTINF:-1 group-title="TVPREMIUM", Vevo (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=494.frequency.stream/dist/vix/494
+
+#EXTINF:-1 group-title="TVPREMIUM", Vevo Latino (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=495.frequency.stream/dist/vix/495
+
+#EXTINF:-1 group-title="TVPREMIUM", VEVO MUSICA MEXICANA
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=495.frequency.stream/dist/vix/495
+
+#EXTINF:-1 group-title="TVPREMIUM", VEVO POP
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=388.frequency.stream/dist/vix/388
+
+#EXTINF:-1 group-title="TVPREMIUM", VEVO REGIONAL MEXICANO
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=494.frequency.stream/dist/vix/494
+
+#EXTINF:-1 group-title="TVPREMIUM", VEVO URBANO
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=389.frequency.stream/dist/vix/389
+
+#EXTINF:-1 group-title="TVPREMIUM", Videos (Es) RD
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=142.frequency.stream/dist/vix/142
+
+#EXTINF:-1 group-title="TVPREMIUM", Videos Chistosos 2
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=49.frequency.stream/dist/vix/49
+
+#EXTINF:-1 group-title="TVPREMIUM", VIRAL
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=128.frequency.stream/dist/vix/128
+
+#EXTINF:-1 group-title="TVPREMIUM", VIVE(COL)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=260.frequency.stream/dist/vix/260
+
+#EXTINF:-1 group-title="TVPREMIUM", VIVO PLAY
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=260.frequency.stream/dist/vix/260
+
+#EXTINF:-1 group-title="TVPREMIUM", Zen Channel (Es)
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=125.frequency.stream/dist/vix/125
+
+
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_102
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=102.frequency.stream/dist/vix/102
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_11
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=11.frequency.stream/dist/vix/11
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_110
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=110.frequency.stream/dist/vix/110
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_111
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=111.frequency.stream/dist/vix/111
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_112
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=112.frequency.stream/dist/vix/112
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_113
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=113.frequency.stream/dist/vix/113
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_114
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=114.frequency.stream/dist/vix/114
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_115
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=115.frequency.stream/dist/vix/115
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_116
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=116.frequency.stream/dist/vix/116
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_117
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=117.frequency.stream/dist/vix/117
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_138
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=138.frequency.stream/dist/vix/138
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_146
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=146.frequency.stream/dist/vix/146
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_148
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=148.frequency.stream/dist/vix/148
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_164
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=164.frequency.stream/dist/vix/164
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_176
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=176.frequency.stream/dist/vix/176
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_178
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=178.frequency.stream/dist/vix/178
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_179
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=179.frequency.stream/dist/vix/179
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_186
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=186.frequency.stream/dist/vix/186
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_207
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=207.frequency.stream/dist/vix/207
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_213
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=213.frequency.stream/dist/vix/213
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_219
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=219.frequency.stream/dist/vix/219
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_220
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=220.frequency.stream/dist/vix/220
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_221
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=221.frequency.stream/dist/vix/221
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_222
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=222.frequency.stream/dist/vix/222
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_223
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=223.frequency.stream/dist/vix/223
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_225
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=225.frequency.stream/dist/vix/225
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_227
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=227.frequency.stream/dist/vix/227
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_246
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=246.frequency.stream/dist/vix/246
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_249
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=249.frequency.stream/dist/vix/249
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_251
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=251.frequency.stream/dist/vix/251
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_252
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=252.frequency.stream/dist/vix/252
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_255
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=255.frequency.stream/dist/vix/255
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_259
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=259.frequency.stream/dist/vix/259
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_261
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=261.frequency.stream/dist/vix/261
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_274
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=274.frequency.stream/dist/vix/274
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_278
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=278.frequency.stream/dist/vix/278
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_279
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=279.frequency.stream/dist/vix/279
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_280
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=280.frequency.stream/dist/vix/280
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_281
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=281.frequency.stream/dist/vix/281
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_282
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=282.frequency.stream/dist/vix/282
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_283
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=283.frequency.stream/dist/vix/283
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_285
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=285.frequency.stream/dist/vix/285
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_287
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=287.frequency.stream/dist/vix/287
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_290
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=290.frequency.stream/dist/vix/290
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_298
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=298.frequency.stream/dist/vix/298
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_36
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=36.frequency.stream/dist/vix/36
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_37
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=37.frequency.stream/dist/vix/37
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_38
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=38.frequency.stream/dist/vix/38
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_392
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=392.frequency.stream/dist/vix/392
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_430
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=430.frequency.stream/dist/vix/430
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_432
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=432.frequency.stream/dist/vix/432
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_434
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=434.frequency.stream/dist/vix/434
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_436
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=436.frequency.stream/dist/vix/436
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_44
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=44.frequency.stream/dist/vix/44
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_454
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=454.frequency.stream/dist/vix/454
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_455
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=455.frequency.stream/dist/vix/455
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_458
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=458.frequency.stream/dist/vix/458
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_459
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=459.frequency.stream/dist/vix/459
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_460
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=460.frequency.stream/dist/vix/460
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_461
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=461.frequency.stream/dist/vix/461
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_473
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=473.frequency.stream/dist/vix/473
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_496
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=496.frequency.stream/dist/vix/496
+
+#EXTINF:-1 group-title="TVPREMIUM", Channel_497
+
+http://clubtv.link/Feb1702/key4513/vix.php?c=497.frequency.stream/dist/vix/497
+
+
+
+
+
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" status="blocked" group-title="NOTICIAS",Multimedios Guadalajara
+
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" status="blocked" group-title="NOTICIAS",Multimedios Laguna
+
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" status="blocked" group-title="NOTICIAS",Multimedios Monterrey
+
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Milenio Televisión Noroeste
+
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios Bajío
+
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
+#EXTINF:-1 tvg-id="" status="online" group-title="NOTICIAS",Multimedios Canal 8 Costa Rica
+
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios CDMX
+
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios Ciudad Juarez
+
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+
+#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios Puebla
+
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
+#EXTINF:-1 tvg-id="" status="blocked" group-title="NOTICIAS",Multimedios Saltillo
+
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" status="online" group-title="NOTICIAS",Estrella News
+
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd189_large.png",Simpson Maniahd189
+
+http://clubtv.link/Feb1702/key4513/24.php?c=simpson_maniahd189
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/punto_movies_large.png",Punto Movies
+
+http://clubtv.link/Feb1702/key4513/24.php?c=punto_movies
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/beto_7hd_large.png",Beto 7hd
+
+http://clubtv.link/Feb1702/key4513/24.php?c=beto_7hd
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_neflix01_large.png",Neflix01
+
+http://clubtv.link/Feb1702/key4513/24.php?c=a_neflix01
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cheli_cooper_large.png",Cheli Cooper
+
+http://clubtv.link/Feb1702/key4513/24.php?c=cheli_cooper
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cinemundo_plus_large.png",Cinemundo Plus
+
+http://clubtv.link/Feb1702/key4513/24.php?c=cinemundo_plus
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/peliculas_mania_large.png",Peliculas Mania
+
+http://clubtv.link/Feb1702/key4513/24.php?c=peliculas_mania
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/terror_mania_large.png",Terror Mania
+
+http://clubtv.link/Feb1702/key4513/24.php?c=terror_mania
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shay_saheed_large.png",Shay Saheed
+
+http://clubtv.link/Feb1702/key4513/24.php?c=shay_saheed
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd192_large.png",Simpson Maniahd192
+
+http://clubtv.link/Feb1702/key4513/24.php?c=simpson_maniahd192
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_juanmusic_large.png",A Juanmusic
+
+http://clubtv.link/Feb1702/key4513/24.php?c=a_juanmusic
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion_large.png",Cienciaficcion
+
+http://clubtv.link/Feb1702/key4513/24.php?c=cienciaficcion
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion01_large.png",Cienciaficcion01
+
+http://clubtv.link/Feb1702/key4513/24.php?c=cienciaficcion01
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/padre_de_familia1_large.png",Padre de Familia
+
+http://clubtv.link/Feb1702/key4513/24.php?c=padre_de_familia1
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/futurama_mania__large.png",Futurama
+
+http://clubtv.link/Feb1702/key4513/24.php?c=futurama_mania_
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/agente_de_familia1_large.png",Agente de Familia
+
+http://clubtv.link/Feb1702/key4513/24.php?c=agente_de_familia1
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tele29_large.png",Tele29
+
+http://clubtv.link/Feb1702/key4513/24.php?c=tele29
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ysblf_large.png",Ysblf
+
+http://clubtv.link/Feb1702/key4513/24.php?c=ysblf
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/0ueen_disney_large.png",Disney
+
+http://clubtv.link/Feb1702/key4513/24.php?c=0ueen_disney
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/2312_large.png",2312
+
+http://clubtv.link/Feb1702/key4513/24.php?c=2312
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_large.png",Ganja Gv
+
+http://clubtv.link/Feb1702/key4513/24.php?c=ganja_tv
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/malcomhd_large.png",Malcomhd
+
+http://clubtv.link/Feb1702/key4513/24.php?c=malcomhd
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_2_large.png",Ganja Tv 2
+
+http://clubtv.link/Feb1702/key4513/24.php?c=ganja_tv_2
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shy_ch_eurydice_large.png",shy ch eurydice
+
+http://clubtv.link/Feb1702/key4513/24.php?c=shy_ch_eurydice
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmsterror_large.png",zonafilmsterror
+
+http://clubtv.link/Feb1702/key4513/24.php?c=zonafilmsterror
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tufortunatv_large.png",tufortunatv
+
+http://clubtv.link/Feb1702/key4513/24.php?c=tufortunatv
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmstvseries_large.png",zonafilmstvseries
+
+http://clubtv.link/Feb1702/key4513/24.php?c=zonafilmstvseries
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/rincondegago_large.png",rincondegago
+
+http://clubtv.link/Feb1702/key4513/24.php?c=rincondegago
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/radiofelove_large.png",radiofelove
+
+http://clubtv.link/Feb1702/key4513/24.php?c=radiofelove
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ovninews_large.png",ovninews
+
+http://clubtv.link/Feb1702/key4513/24.php?c=ovninews
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cityfm_large.png",cityfm
+
+http://clubtv.link/Feb1702/key4513/24.php?c=cityfm
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/chelito_sv_large.png",chelito sv
+
+http://clubtv.link/Feb1702/key4513/24.php?c=chelito_sv
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/nezradiovision_large.png",nezradiovision
+
+http://clubtv.link/Feb1702/key4513/24.php?c=nezradiovision
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tvsalvision_large.png",tvsalvision
+
+http://clubtv.link/Feb1702/key4513/24.php?c=tvsalvision
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/felovetv_large.png",felovetv
+
+http://clubtv.link/Feb1702/key4513/24.php?c=felovetv
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ficoatv_large.png",ficoatv
+
+http://clubtv.link/Feb1702/key4513/24.php?c=ficoatv
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/fundacion1410_large.png",fundacion1410
+
+http://clubtv.link/Feb1702/key4513/24.php?c=fundacion1410
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/lvpradiotv_large.png",lvpradiotv
+
+http://clubtv.link/Feb1702/key4513/24.php?c=lvpradiotv
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/omega_tv_large.png",omega tv
+
+http://clubtv.link/Feb1702/key4513/24.php?c=omega_tv
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/telemedellin_large.png",telemedellin
+
+http://clubtv.link/Feb1702/key4513/24.php?c=telemedellin
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tv777_large.png",tv777
+
+http://clubtv.link/Feb1702/key4513/24.php?c=tv777
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/vozdelcielotv_large.png",vozdelcielotv
+
+http://clubtv.link/Feb1702/key4513/24.php?c=vozdelcielotv
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/yhwhesmisalvacion_large.png",yhwhesmisalvacion
+
+http://clubtv.link/Feb1702/key4513/24.php?c=yhwhesmisalvacion
+
+
+
+
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="CINE Y SERIES",RunTime
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=2154
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/LhYX209.png" group-title="CINE Y SERIES",Accion
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=2550
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/uRMHvKV.png" group-title="CINE Y SERIES",Comedia
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=2551
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/vZu909y.png" group-title="CINE Y SERIES",Crimen
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=3533
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="CINE Y SERIES",Cine Espanto
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=3539
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/nx7oVpZ.png" group-title="CINE Y SERIES",Cinema
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=4819
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="ENTRETENIMIENTO",Clic	
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=4827
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/NGeikk3.png" group-title="ENTRETENIMIENTO",Corazon
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=4826
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/5cNpgAO.png" group-title="ENTRETENIMIENTO",Romance
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=3532
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/S3qCgKW.png" group-title="CINE Y SERIES",Familia
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=3528
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/bHhRRom.png" group-title="DEPORTES",AYM
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=5106
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/4p1oIev.png" group-title="DEPORTES",CombaTV
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=5090
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/zzOtkwl.png" group-title="MUSICA",Vivaldi
+
+http://clubtv.link/Feb1702/key4513/runtime.php?c=2806
+
+
+
+
+
+#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine Acción
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine COMEDIA
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcddf1ed95e740009fef7ab" tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine Terror
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Viajes
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcddfcb229eff00091b6bdf" tvg-id="5dcddfcb229eff00091b6bdf" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine Drama
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Cocina
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="402" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTES",Pluto TV DEPORTES
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Novelas
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Series
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-chno="327" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="ANIMÉ & GAMING",Pluto TV Anime
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-chno="251" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="CULTURA",Pluto TV Reality
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="CULTURA",Pluto TV Investiga
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde2ac4bc6c500094ab45b" tvg-id="5dcde2ac4bc6c500094ab45b" tvg-chno="703" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="INFANTIL",Pluto TV Junior
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde2f53449c50009b2b4dc" tvg-id="5dcde2f53449c50009b2b4dc" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="CULTURA",Pluto TV Misterios
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine Estelar
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd6ab8056beb000091fc6b6" tvg-id="5dd6ab8056beb000091fc6b6" tvg-chno="557" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Hogar
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd6d935d000120009bc1132" tvg-id="5dd6d935d000120009bc1132" tvg-chno="197" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV  Competencias
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd6dae8ce788b0009eaf77b" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-chno="721" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="INFANTIL",Pluto TV INFANTIL
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd6dc7480e3550009133d4a" tvg-id="5dd6dc7480e3550009133d4a" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="CULTURA",Pluto TV Velocidad
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd6ddb30a1d8a000908ed4c" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-chno="87" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine Familia
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd6de52b9914200091f047a" tvg-id="5dd6de52b9914200091f047a" tvg-chno="179" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Teen
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd7ea2aeab5230009986735" tvg-id="5dd7ea2aeab5230009986735" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine Romance
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="273" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="CULTURA",Pluto TV Animales
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-chno="297" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="CULTURA",Pluto TV Ciencia
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd837642c6e9300098ad484" tvg-id="5dd837642c6e9300098ad484" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Series Latinas
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CULTURA",Pluto TV Naturaleza
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-chno="279" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="CULTURA",Pluto TV Aventura
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ddc4e8bcbb9010009b4e84f" tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-chno="69" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine Suspenso
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="INFANTIL",Nick Clásico
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ddd7cb2cbb9010009b4fe32" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-chno="706" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="INFANTIL",Nick Jr. Club
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-chno="286" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="CULTURA",Pluto TV Historia
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5de58ef515635d00091f605d" tvg-id="5de58ef515635d00091f605d" tvg-chno="180" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Degrassi
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de58ef515635d00091f605d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5de802659167b10009e7deba" tvg-id="5de802659167b10009e7deba" tvg-chno="104" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Series Retro
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="157" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="ENTRETENIMIENTO",MTV Classic
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5de91cf02fc07c0009910465" tvg-id="5de91cf02fc07c0009910465" tvg-chno="149" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Telefe Hits
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5defde6d6c07b50009cf0757" tvg-id="5defde6d6c07b50009cf0757" tvg-chno="81" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV  Nuestro Cine
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5df265697ec3510009df1ef0" tvg-id="5df265697ec3510009df1ef0" tvg-chno="267" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="CULTURA",Pluto TV Vida Real
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5df41355939756000921d15b" tvg-id="5df41355939756000921d15b" tvg-chno="552" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Latin Angels
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df41355939756000921d15b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e3ddbd27091820009f86dd9" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="ENTRETENIMIENTO",MasterChef
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e3ddd1a3ef73b00091d5779" tvg-id="5e3ddd1a3ef73b00091d5779" tvg-chno="405" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="DEPORTES",Fútbol Para Fans
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e46e64dc73db400094b5f0b" tvg-id="5e46e64dc73db400094b5f0b" tvg-chno="195" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Minuto Para Ganar
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e67d41b93312100076f3fca" tvg-id="5e67d41b93312100076f3fca" tvg-chno="305" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="CULTURA",Los archivos del FBI
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e67e20c93312100076f3ffe" tvg-id="5e67e20c93312100076f3ffe" tvg-chno="715" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="INFANTIL",Babar
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e6a4d875d7ccf0007cc2cf1" tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-chno="329" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="ANIMÉ & GAMING",Pluto TV ANIMÉ Acción
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e8397936791b30007ebb5a7" tvg-id="5e8397936791b30007ebb5a7" tvg-chno="507" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="COMEDIA",Pluto TV Humor
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e972a21ad709d00074195ba" tvg-id="5e972a21ad709d00074195ba" tvg-chno="57" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="CINE Y SERIES",Estrellas de Acción
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-chno="160" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="ENTRETENIMIENTO",MTV Ridiculousness
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-chno="408" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="DEPORTES",Pluto TV Peleas
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ea71d48af1d0b0007d837f4" tvg-id="5ea71d48af1d0b0007d837f4" tvg-chno="308" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="CULTURA",The New Detectives
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ea7215005d66d0007e8128a" tvg-id="5ea7215005d66d0007e8128a" tvg-chno="718" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="INFANTIL",Rugrats Crecidos
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ebac49ce4dc8b00078b23bc" tvg-id="5ebac49ce4dc8b00078b23bc" tvg-chno="702" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="INFANTIL",Babyfirst
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ebac65911406400078b8993" tvg-id="5ebac65911406400078b8993" tvg-chno="173" tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png" group-title="ENTRETENIMIENTO",People are Awesome
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac65911406400078b8993/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ebacbcae43a6d000787b88e" tvg-id="5ebacbcae43a6d000787b88e" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="COMEDIA",The Pet Collective
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ebaccf1734aaf0007142c86" tvg-id="5ebaccf1734aaf0007142c86" tvg-chno="502" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="COMEDIA",FailArmy
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ed6828192e8b3000743ef61" tvg-id="5ed6828192e8b3000743ef61" tvg-chno="198" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Wipe Out
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ee8d84bfb286e0007285aad" tvg-id="5ee8d84bfb286e0007285aad" tvg-chno="563" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Fashionstream
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="ANIMÉ & GAMING",Naruto
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5efb8c19b2678b000780d032" tvg-id="5efb8c19b2678b000780d032" tvg-chno="306" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="CULTURA",Archivos Forenses
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5efb8ce2e426140007c78fd1" tvg-id="5efb8ce2e426140007c78fd1" tvg-chno="171" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png" group-title="ENTRETENIMIENTO",MTV Animaciones
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f230e416b68ff00075b0139" tvg-id="5f230e416b68ff00075b0139" tvg-chno="265" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="CULTURA",Misterios Medicos
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f23102d5e239d00074b092a" tvg-id="5f23102d5e239d00074b092a" tvg-chno="252" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="CULTURA",Empeños a lo bestia
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f2817d3d7573a00080f9175" tvg-id="5f2817d3d7573a00080f9175" tvg-chno="102" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Pluto TV Sci-Fi
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f29ada4bdaebd000708d49d" tvg-id="5f29ada4bdaebd000708d49d" tvg-chno="709" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="INFANTIL",Barney
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f2acdab16f5b3000721ae2c" tvg-id="5f2acdab16f5b3000721ae2c" tvg-chno="275" tvg-logo="https://images.pluto.tv/channels/5f2acdab16f5b3000721ae2c/colorLogoPNG.png" group-title="CULTURA",Oh My Pet
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f4d1697f10a0e000798ed8d" tvg-id="5f4d1697f10a0e000798ed8d" tvg-chno="410" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="DEPORTES",All Elite Wrestling
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f4d3696d938c900072679fd" tvg-id="5f4d3696d938c900072679fd" tvg-chno="263" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="CULTURA",Historias de Ultratumba
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f4d3d06fb60d8000781fce8" tvg-id="5f4d3d06fb60d8000781fce8" tvg-chno="717" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="INFANTIL",El Reino Infantil
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f4fed840a2764000720d966" tvg-id="5f4fed840a2764000720d966" tvg-chno="272" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="CULTURA",Paisajes por Stingray
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="NOTICIAS",Telefe Noticias
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-chno="309" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="CULTURA",Misterios sin Resolver
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="905" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MÚSICA",Conciertos por Stingray
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MÚSICA",Karaoke por Stingray
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f998c1fc54853000797bacd" tvg-id="5f998c1fc54853000797bacd" tvg-chno="556" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Tastemade
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f9992c685a2a80007fa414a" tvg-id="5f9992c685a2a80007fa414a" tvg-chno="256" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="CULTURA",Dog el cazarrecompensas
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f9996533c9de3000759ccb5" tvg-id="5f9996533c9de3000759ccb5" tvg-chno="707" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="INFANTIL",Las Pistas de Blue
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f99a772c54853000797bf18" tvg-id="5f99a772c54853000797bf18" tvg-chno="412" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="DEPORTES",Lucha Libre AAA
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5f9afb01816137000737f799" tvg-id="5f9afb01816137000737f799" tvg-chno="151" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Nosey Escándalos
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9afb01816137000737f799/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5fab088b3279760007d4e4fd" tvg-id="5fab088b3279760007d4e4fd" tvg-chno="156" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="ENTRETENIMIENTO",MTV Pluto TV
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 channel-id="pluto-5fab09a8749b1a00077d35d2" tvg-id="5fab09a8749b1a00077d35d2" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Nick Teen
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&d
