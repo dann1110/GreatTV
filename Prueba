@@ -2,45 +2,36 @@
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-#EXTINF:-1 tvg-id="" tvg-name="Vegateve" tvg-logo="https://image.roku.com/developer_channels/prod/73607ba57642ea301b152f7b25833271838b434e49c9710484f58884de51a97f.png" group-title="R. DOMINICANA",Vegateve
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/449253.ts
-#EXTINF:-1 tvg-id="" tvg-name="100 mexicanos" tvg-logo="https://images.vix.com/prd/channel/63720ca37f01814a79eb8505/a7502e1aa511219c23718e1830d0460f" group-title="-- VIX --",100 mexicanos
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63720ca37f01814a79eb8505/a7502e1aa511219c23718e1830d0460f" group-title="-- VIX --",La Parodia
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443177.ts
-#EXTINF:-1 tvg-id="" tvg-name="40 y 20" tvg-logo="https://images.vix.com/prd/channel/6487380bc436df2859e5d2a2/40cca8d54d603fedefa2eaa35a229563" group-title="-- VIX --",40 y 20
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6487380bc436df2859e5d2a2/40cca8d54d603fedefa2eaa35a229563" group-title="-- VIX --",40 y 20
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443176.ts
-#EXTINF:-1 tvg-id="" tvg-name="Amores Verdaderos" tvg-logo="https://images.vix.com/prd/videos/video:mcp:2819370/497e1bf9f560d85fe83bfd66b50231b2?tr=w-1200,h-627,f-jpeg" group-title="-- VIX --",Amores Verdaderos
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443174.ts
-#EXTINF:-1 tvg-id="" tvg-name="Aqui y Ahora" tvg-logo="https://st1.uvnimg.com/d6/2f/a8a7d52d469c9af83432f8094fc8/preview-1920x1080.png" group-title="-- VIX --",Aqui y Ahora
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443172.ts
-#EXTINF:-1 tvg-id="" tvg-name="Como Dice el Dicho" tvg-logo="https://st1.uvnimg.com/a7/c6/2db0cc4e4120a908207376af7d1d/comodiceeldicho-featuredshows-2x.jpg" group-title="-- VIX --",Como Dice el Dicho
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443164.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cops en EspaÃ±ol" tvg-logo="https://images.vix.com/prd/channel/626f670e87ec596207ee66e6/c45f4431d1a7233604ffd0127439735d" group-title="-- VIX --",Cops en EspaÃ±ol
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/626f670e87ec596207ee66e6/c45f4431d1a7233604ffd0127439735d" group-title="-- VIX --",Cops en EspaÃ±ol
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443163.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cuidado con el Angel" tvg-logo="https://images.vix.com/prd/channel/620592224fb76957d4f0451b/3f931efb291a615969b712bd470082e5" group-title="-- VIX --",Cuidado con el Angel
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443162.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hasta Que el Dinero Nos Separe" tvg-logo="https://images.vix.com/prd/channel/6235c3b13bef6caae937b824/86c4687f5c02234d8646d1577045ef85" group-title="-- VIX --",Hasta Que el Dinero Nos Separe
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235c3b13bef6caae937b824/86c4687f5c02234d8646d1577045ef85" group-title="-- VIX --",Hasta Que el Dinero Nos Separe
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443159.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Familia PeLuche" tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da" group-title="-- VIX --",La Familia PeLuche
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443156.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69" group-title="-- VIX --",La Rosa de Guadalupe
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443153.ts
-#EXTINF:-1 tvg-id="" tvg-name="Las 3 Marias" tvg-logo="" group-title="-- VIX --",Las 3 Marias
+
+#EXTINF:-1 tvg-logo="" group-title="-- VIX --",Las 3 Marias
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443151.ts
-#EXTINF:-1 tvg-id="" tvg-name="Univision Latinomaerica" tvg-logo="" group-title="-- VIX --",Univision Latinomaerica
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443150.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mi Corazon es tuyo" tvg-logo="" group-title="-- VIX --",Mi Corazon es tuyo
+
+#EXTINF:-1 tvg-logo="" group-title="-- VIX --",Mi Corazon es tuyo
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443147.ts
-#EXTINF:-1 tvg-id="" tvg-name="Novelas 1" tvg-logo="" group-title="-- VIX --",Novelas 1
+
+#EXTINF:-1 tvg-logo="" group-title="-- VIX --",Novelas 1
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443144.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Novelas 3" tvg-logo="" group-title="-- VIX --",Novelas 3
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443142.ts
-#EXTINF:-1 tvg-id="" tvg-name="Novelas 4" tvg-logo="" group-title="-- VIX --",Novelas 4
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443141.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rebelde" tvg-logo="https://images.vix.com/prd/channel/62092deeb1ec5e14f62d567f/89fcacb98b1ac2f57e15cd4d7fff0c11" group-title="-- VIX --",Rebelde
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092deeb1ec5e14f62d567f/89fcacb98b1ac2f57e15cd4d7fff0c11" group-title="-- VIX --",Rebelde
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443137.ts
-#EXTINF:-1 tvg-id="" tvg-name="Refugio de Amor" tvg-logo="" group-title="-- VIX --",Refugio de Amor
+
+#EXTINF:-1 tvg-logo="" group-title="-- VIX --",Cine Estrella TV
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443136.ts
-#EXTINF:-1 tvg-id="" tvg-name="Teresa" tvg-logo="https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a" group-title="-- VIX --",Teresa
-http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443135.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIX | TUDN FHD" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="-- VIX --",VIX | TUDN FHD
+
+#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="-- VIX --",VIX | TUDN FHD
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443131.ts
