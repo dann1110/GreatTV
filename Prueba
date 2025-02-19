@@ -37,14 +37,15 @@ http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443136.ts
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/443131.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons (M)" tvg-logo="http://playlis10.online:8080/images/6f5cdca873153683fa5d9267db9b41ad.jpg" group-title="24/7 - TEMPORAL",24/7 | Los Simpsons (M)
+#EXTINF:-1 tvg-logo="http://playlis10.online:8080/images/6f5cdca873153683fa5d9267db9b41ad.jpg" group-title="24/7 - TEMPORAL",24/7 | Los Simpsons
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/428566.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Los caballeros del zodiaco 24/7" tvg-logo="http://playlis10.online:8080/images/8db7e1d3fc82612a431d526e98ede7f0.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",Los caballeros del zodiaco 24/7
+#EXTINF:-1 tvg-logo="http://playlis10.online:8080/images/8db7e1d3fc82612a431d526e98ede7f0.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",Los caballeros del zodiaco
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/428557.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los super campeones" tvg-logo="http://playlis10.online:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg" group-title="24/7 - TEMPORAL",24/7 | Los super campeones
+#EXTINF:-1 tvg-logo="http://playlis10.online:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg" group-title="24/7 - TEMPORAL",24/7 | Los Super Campeones
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/428550.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Dinosaurios" tvg-logo="https://i.pinimg.com/originals/59/44/c9/5944c91c8f75766b58afb21769f8d3c7.jpg" group-title="24/7 - TEMPORAL",24/7 | Dinosaurios
 http://weib-tv.com:80/5MUK2Fhqtq/wqq6nhKF4W/428547.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="https://i.pinimg.com/originals/c5/20/b5/c520b5af14357c416470750c22f58cb7.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 | El Pajaro Loco
