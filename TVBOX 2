@@ -2,14 +2,36 @@
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
+#EXTINF:-1 tvg-id="tudnu.us" tvg-name="TUD  | TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD  | TUDN USA
+http://netlevel.online:8080/Jota1/RGHTR/166029
+
+#EXTINF:-1 tvg-id="" tvg-name="TUD | TUDN MEX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | TUDN MEX SD
+http://netlevel.online:8080/Jota1/RGHTR/218637
+
+#EXTINF:-1 tvg-id="" tvg-name="TUD | TUDN MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | TUDN MX HD
+http://netlevel.online:8080/Jota1/RGHTR/456663
+
+#EXTINF:-1 tvg-id="tu.deportes.network.mexico.cr" tvg-name="TUD | TUDN USA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | TUDN USA FHD
+http://netlevel.online:8080/Jota1/RGHTR/242045
+
+#EXTINF:-1 tvg-id="tu.deportes.network.u.s.mx" tvg-name="TUD | TUDN USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | TUDN USA HD
+http://netlevel.online:8080/Jota1/RGHTR/185148
+
+#EXTINF:-1 tvg-id="" tvg-name="TUD | ZONA TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | ZONA TUDN
+http://netlevel.online:8080/Jota1/RGHTR/456662
+
+#EXTINF:-1 tvg-id="" tvg-name="TUD | ZONA TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TUDN",TUD | ZONA TUDN USA
+http://netlevel.online:8080/Jota1/RGHTR/456664
+
 #EXTINF:-1 tvg-id="" tvg-name="D4ZN F1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN - EVENTOS",DAZN F1
 http://netlevel.online:8080/Jota1/RGHTR/199539
 
 #EXTINF:-1 tvg-id="" tvg-name="D4ZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN - EVENTOS",DAZN 2
 http://netlevel.online:8080/Jota1/RGHTR/199538
 
-#EXTINF:-1 tvg-id="" tvg-name="D4ZN 3" tvg-logo="" group-title="DAZN - EVENTOS",D4ZN 3
+#EXTINF:-1 tvg-id="" tvg-name="D4ZN 3" tvg-logo="" group-title="DAZN - EVENTOS",DAZN 3
 http://netlevel.online:8080/Jota1/RGHTR/199537
+
 #EXTINF:-1 tvg-id="" tvg-name="D4ZN 4" tvg-logo="" group-title="DAZN - EVENTOS",DAZN 4
 http://netlevel.online:8080/Jota1/RGHTR/199536
 
