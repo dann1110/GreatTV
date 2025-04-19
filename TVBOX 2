@@ -1,23 +1,38 @@
 #EXTM3U
+
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="F CO | WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="D4ZN F1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN - EVENTOS",DAZN F1
+http://netlevel.online:8080/Jota1/RGHTR/199539
+
+#EXTINF:-1 tvg-id="" tvg-name="D4ZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN - EVENTOS",DAZN 2
+http://netlevel.online:8080/Jota1/RGHTR/199538
+
+#EXTINF:-1 tvg-id="" tvg-name="D4ZN 3" tvg-logo="" group-title="DAZN - EVENTOS",D4ZN 3
+http://netlevel.online:8080/Jota1/RGHTR/199537
+#EXTINF:-1 tvg-id="" tvg-name="D4ZN 4" tvg-logo="" group-title="DAZN - EVENTOS",DAZN 4
+http://netlevel.online:8080/Jota1/RGHTR/199536
+
+#EXTINF:-1 tvg-id="" tvg-name="D4ZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReWRdf3eYiGKDEKkTpL_3zwtPfngy9bEa6FQ&s" group-title="EVENTOS",DAZN F1
+http://netlevel.online:8080/Jota1/RGHTR/531500
+
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="F CO | WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="FUTBOL COLOMBIANO",WIN SPORTS
 http://netlevel.online:8080/Jota1/RGHTR/516932
 
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",WIN SPORTS PLUS
 http://netlevel.online:8080/Jota1/RGHTR/516931
 
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS + FHD
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",WIN SPORTS PLUS FHD
 http://netlevel.online:8080/Jota1/RGHTR/516934
 
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS + HD
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",WIN SPORTS PLUS HD
 http://netlevel.online:8080/Jota1/RGHTR/516935
 
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + HD OP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS + HD OP 1
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + HD OP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",WIN SPORTS PLUS
 http://netlevel.online:8080/Jota1/RGHTR/516929
 
-#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + VIP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS + VIP 1
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + VIP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",WIN SPORTS PLUS
 http://netlevel.online:8080/Jota1/RGHTR/516921
 
-#EXTINF:-1 tvg-id="winsports.co" tvg-name="F CO | WIN SPORTS OP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS OP 1
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="F CO | WIN SPORTS OP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="FUTBOL COLOMBIANO",WIN SPORTS PLUS
 http://netlevel.online:8080/Jota1/RGHTR/485515
