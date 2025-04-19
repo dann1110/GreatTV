@@ -1,7 +1,23 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 
-#EXTINF:-1 group-title="ViX Deportes", Vix 11 CRUZ AZUL VS TIJUANA
-https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="F CO | WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS
+http://netlevel.online:8080/Jota1/RGHTR/516932
 
-#EXTINF:-1 group-title="ViX Deportes", ViX 12 PUEBLA VS LEON
-https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS
+http://netlevel.online:8080/Jota1/RGHTR/516931
+
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS + FHD
+http://netlevel.online:8080/Jota1/RGHTR/516934
+
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS + HD
+http://netlevel.online:8080/Jota1/RGHTR/516935
+
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + HD OP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS + HD OP 1
+http://netlevel.online:8080/Jota1/RGHTR/516929
+
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="F CO | WIN SPORTS + VIP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS + VIP 1
+http://netlevel.online:8080/Jota1/RGHTR/516921
+
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="F CO | WIN SPORTS OP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" group-title="FUTBOL COLOMBIANO",F CO | WIN SPORTS OP 1
+http://netlevel.online:8080/Jota1/RGHTR/485515
